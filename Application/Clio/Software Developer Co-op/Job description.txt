@@ -1,0 +1,44 @@
+Summary:
+We are currently seeking a new Software Developer, Co-op to join our Engineering team in Burnaby, Calgary or Toronto.
+
+Applicants should be available for an 8-month co-op period from May 2025 to Dec 2025. 
+
+What your team does:
+You will be working on a revolutionary SaaS product gaining experience with Ruby on Rails, AngularJS, React Native, native mobile development, MySQL, Redis, and ElasticSearch. You will be coached and mentored by some of the best developers in the business and working on some of the most challenging problems that a rapid growth venture-backed company can face.
+
+What you’ll work on:
+Contributing software code to the Clio suite of products;
+Participating as a contributing member of a Clio development team, including:
+Scoping and planning future development work.
+Regularly reporting progress and blockers.
+Collaboration with other members of the development organization.
+Engaging in regular reviews of submitted work, and contributing to reviews of the work of others.
+Contributing to feature development and generating software fixes for customer issues.
+Engaging in team- and company-based initiatives and discussions;
+Participating in a rotating role of coordinating product support;
+Receiving and providing feedback on an ongoing basis;
+Learning and growing towards a career as a professional software developer.
+What you may have:
+You’ve completed your second year coursework and are a 3rd or 4th year Computer Science/Engineering student;
+You are a rational and critical thinker who seeks solutions when you find problems;
+Excellent computer science fundamentals: data structures, algorithms; programming languages, SQL;
+Superb communication skills written, verbal, and spoken.
+Serious bonus points if you:
+Bring new ideas to the table to help make our environment better;
+Be constantly experimenting and learning outside the school curriculum. 
+What you will find here:
+
+Compensation is one of the main components of Clio’s Total Rewards Program. We have developed a series of programs and processes to ensure we are creating fair and competitive pay practices that form the foundation of our human and high-performing culture.
+
+Some highlights of our Total Rewards program include:
+
+Hybrid work environment, with expectation for local Clions (Vancouver, Calgary, Toronto, and Dublin) to be in office min. once per week on our Anchor Day.
+
+4% vacation pay for hours worked.
+
+The expected new hire base pay for this role is $62,000 or $67,000 CAD based on candidate experience.
+Diversity, Inclusion, Belonging and Equity (DIBE) & Accessibility 
+
+Our team shows up as their authentic selves, and are united by our mission. We are dedicated to diversity, equity and inclusion. We pride ourselves in building and fostering an environment where our teams feel included, valued, and enabled to do the best work of their careers, wherever they choose to log in from. We believe that different perspectives, skills, backgrounds, and experiences result in higher-performing teams and better innovation. We are committed to equal employment and we encourage candidates from all backgrounds to apply.
+
+Clio provides accessibility accommodations during the recruitment process. Should you require any accommodation, please let us know and we will work with you to meet your needs.
