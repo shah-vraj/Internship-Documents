@@ -1,0 +1,77 @@
+About NetApp
+
+We’re forward-thinking technology people with heart. We make our own rules, drive our own opportunities, and try to approach every challenge with fresh eyes. Of course, we can’t do it alone. We know when to ask for help, collaborate with others, and partner with smart people. We embrace diversity and openness because it’s in our DNA. We push limits and reward great ideas. What is your great idea?
+
+"At NetApp, we fully embrace and advance a diverse, inclusive global workforce with a culture of belonging that leverages the backgrounds and perspectives of all employees, customers, partners, and communities to foster a higher performing organization." -George Kurian, CEO
+
+Job Summary
+From the edge of the universe with CERN’s Large Hadron Collider, to the edge of human endurance in Formula One auto racing, we help our customers do things they couldn’t before—at speeds you never thought possible. Picture yourself working with the world’s best employees. Join the StorageGRID team at NetApp and become a part of one of Glassdoor’s 2019 Best Places to Work.
+
+Our co-op program has three key goals: understand the NetApp business, experience enterprise software engineering, and engage and socialize with the community of co-ops and employees at various social events.
+
+NetApp's Vancouver Technology Center is pioneering the development of AWS and cloud compatible object storage software to handle the exponential growth in big data. You will be integrated into our core StorageGRID engineering teams to work alongside engineers with years of experience. Here you will learn about the industry-leading data storage technologies, employ the latest tools, and apply engineering best practices. Agile Scrum, continuous integration, automated testing, OO development, and mission-critical software development are just a few of the things you will be exposed to as you work on solving the world’s need for data.
+
+Outside of building software, NetApp strives to keep employees healthy and engaged. NetApp has adopted a flexible hybrid work model that puts you in control! All positions in Vancouver permit combining in-office and work from home as you prefer. NetApp’s wellness programs have a renewed focus on employees working remotely. Rest assured, your code reviews from fellow developers will not be any less of a learning experience even though you are at home. We trust everyone to use their best judgement to put their health first and maintaining the highest levels of productivity. Open communications and fostering an environment for learning and career growth remain key values for the team and the company even during a pandemic.
+
+NetApp offers 2 co-op roles: Software Developer and Software Development Engineer in Test. Both roles will exercise and hone your software development skills. Successful co-ops in either role will ship a customer-facing feature they helped develop or test within the StorageGRID product.
+
+About this position: The Software Engineer Co-op position focuses on feature development. In this role you will be working within an agile scrum team to design and implement features for an upcoming release.
+
+Job Requirements
+Essential functions may include:
+
+Software design and implementation
+Defect investigation and resolution
+Test automation and framework development
+Advanced technology investigations and prototyping
+Skills we are looking for:
+
+Proficiency in at least one programming language such as C/C++, Go, Ruby, Javascript, or Java
+Experience with UX/Angular development, Linux, HTTP/REST, and SQL/NoSQL databases
+Successful completion of one or more operating system courses or related projects
+Strong oral and written communication skills
+Ability to work collaboratively within a team of engineers to meet aggressive goals
+Familiarity of basic concepts of computer architecture, data structures, and programming practices
+Education
+Must be enrolled in an educational or professional program through summer 2025 or later. 
+
+Equal Opportunity Employer:
+
+NetApp is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination based on age, race, color, gender, sexual orientation, gender identity, national origin, religion, disability or genetic information, pregnancy, protected veteran status, and any other protected classification. 
+
+Did you know…
+Statistics show women apply to jobs only when they’re 100% qualified. But no one is 100% qualified. We encourage you to shift the trend and apply anyway! We look forward to hearing from you.
+
+Why NetApp?
+
+In a world full of generalists, NetApp is a specialist. No one knows how to elevate the world’s biggest clouds like NetApp. We are data-driven and empowered to innovate. Trust, integrity, and teamwork all combine to make a difference for our customers, partners, and communities. 
+
+We expect a healthy work-life balance. Our volunteer time off program is best in class, offering employees 40 hours of paid time off per year to volunteer with their favorite organizations.  We provide comprehensive medical, dental, wellness, and vision plans for you and your family.  We offer educational assistance, legal services, and access to discounts. We also offer financial savings programs to help you plan for your future.  
+
+If you run toward knowledge and problem-solving, join us. 
+
+USA and Canada Residents Only:
+
+Final compensation will be dependent on various factors relevant to the position and candidate such as geographical location, candidate qualifications, certifications, relevant job-related work experience, education, skillset and other relevant business and organizational factors, consistent with applicable law.  In addition, the position may include some of the following comprehensive benefits such Medical, Dental, Vision, Life, 401(K), Paid Time off (PTO), sick time, leave of absence as per the FMLA and other relevant leave laws, Company bonus/commission, employee stock purchase plan, and/or restricted stocks (RSU’s).
+
+At NetApp, we embrace a hybrid working environment designed to strengthen connection, collaboration, and culture for all employees. This means that most roles will have some level of in-office and/or in-person expectations, which will be shared during the recruitment process.
+
+Equal Opportunity Employer:
+
+NetApp is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination based on age, race, color, gender, sexual orientation, gender identity, national origin, religion, disability or genetic information, pregnancy, protected veteran status, and any other protected classification.
+
+Did you know...
+
+Statistics show women apply to jobs only when they're 100% qualified. But no one is 100% qualified. We encourage you to shift the trend and apply anyway! We look forward to hearing from you.
+
+Why NetApp?
+
+We are all about helping customers turn challenges into business opportunity. It starts with bringing new thinking to age-old problems, like how to use data most effectively to run better - but also to innovate. We tailor our approach to the customer's unique needs with a combination of fresh thinking and proven approaches.
+
+We enable a healthy work-life balance. Our volunteer time off program is best in class, offering employees 40 hours of paid time per year to volunteer with their favorite organizations. We provide comprehensive medical, dental, wellness, and vision plans for you and your family. We offer educational assistance, legal services, and access to discounts. Finally, we provide financial savings programs to help you plan for your future.
+
+If you want to help us build knowledge and solve big problems, let's talk.
+
+Submitting an application
+
+To ensure a streamlined and fair hiring process for all candidates, our team only reviews applications submitted through our company website. This practice allows us to track, assess, and respond to applicants efficiently. Emailing our employees, recruiters, or Human Resources personnel directly will not influence your application.

@@ -1,0 +1,28 @@
+Job Overview
+About Intuit, Inc.
+
+At Intuit, we get up every morning with our hearts beating fast, driven by the knowledge that we're transforming the world of consumer and small business finance. We’re obsessed with our customers. Because of this, we’re continually challenging and disrupting ourselves, to improve their financial lives. It’s why our products — like TurboTax and QuickBooks — continue to resonate with 50 million consumers around the globe. We are a Fortune 500 fintech company, and Canada’s Best Places to work several years in a row.
+
+About the Team
+
+Who said taxes are not fun? We work every day to help millions of Canadians prepare their tax return as easily as possible. And we have fun along the way. We are a talented, inspired, diverse, and very friendly team. Every day we work with teams in multiple countries across many platforms. Each presents us with unique, challenging problems to solve.
+
+As a member of our team, you'll help build and maintain Canada’s #1 tax preparation product. Together we'll create innovative solutions that delight our customers while solving their biggest problems.
+
+Responsibilities
+Code, review, & test solutions
+Contribute to the design and architecture of projects, while partnering closely with a cross-functional team of Engineers.
+Assist in gathering functional requirements, developing technical specifications and test plans with internal and external partners.
+Exercise continuous learning, sharing knowledge, and experimenting.
+Actively seek & drive technological and process innovation through data
+Qualifications
+To be eligible for the role you must align with the following:
+
+Currently enrolled in post secondary education
+A graduation date of no earlier than 4 months after the internship/co-op concludes
+Not require sponsorship to work within the role now or in the future
+Come in 2x per week to our Toronto office (all of our co-op roles are hybrid)
+You’re enrolled in a post-secondary degree related to Computer Science/Engineering
+You’re a lover of all things development
+You may have some experience with: Java, JavaScript, HTML, React, Python
+You bring a passion for learning, exploration, & innovation
