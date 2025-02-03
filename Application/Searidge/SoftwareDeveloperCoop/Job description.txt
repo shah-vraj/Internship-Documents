@@ -1,0 +1,49 @@
+Job Summary
+
+Job Type: Co-op
+Location: Ottawa, ON
+Industry: Technology/Aviation
+Term: Summer 2025 (May-August).
+
+About the Job
+Searidge Technologies develops innovative technology to improve safety and efficiency in the aviation market. With technology at over 40 sites in 25 countries, we are a global leader and preferred partner for Remote Tower and Digital Airport solutions. Through operational enhancements, collaboration and automation, our team helps our customers proactively transform the way they offer and deliver services to meet changing demands.
+
+Searidge is currently recruiting for a Software Developer Co-op with a good understanding of software development – primarily in a Full Stack environment. The successful candidate will be involved in code reviews, design discussions for all our products, bug fixes, and new features and product implementation. This will be a co-op term position, reporting to the Manager of Software Development.
+
+
+Responsibilities
+
+Software design, implementation, review, and testing for existing products
+Design application front and back ends and display data in a user-friendly way
+Implementation of CI/CD process and pipelines
+Develop secondary software utilities, test applications, and prototype applications
+Maintain, troubleshoot, diagnose, and repair existing software
+Provide and accept feedback on your work to and from team members
+Produce documentation, manuals, user guides and other technical documentation
+Interface with internal and external customers for software requirements management and acceptance testing
+
+Qualifications
+
+Currently pursuing a Computer Science Bachelor Degree or equivalent
+Experience developing frontend and backend web applications
+Some experience with Node.js, Express, React, Websockets is ideal
+Some experience with front-end UI frameworks like JQuery, Bootstrap, Material-UI
+Knowledge in REST API design and development
+Experience with Visual Studio Code, Linux, Git, Jira
+Strong analytical and critical thinking skills
+Must be a team player and willing to learn
+Bonus Qualifications
+
+Familiarity with Typescript
+An understanding of Helm, Docker, Kubernetes, Kafka, Cassandra
+Knowledge of cybersecurity threats, solutions, and best practices
+Familiarity with real-time network I/O, thread management, and video processing
+Experience with Python, AI, C++, real-time development
+Familiarity with multiple languages in addition to English
+Why Searidge?
+
+Searidge Technologies is an innovative technology company working in the mission critical world of aviation. As a pioneer and global leader in Digital Tower and Advanced Airport solutions, our team is on the forefront of technology and driving change in how aircraft and vehicles in the vicinity of an airport have been traditionally managed.
+
+As a member of the Searidge team, you will be part of exciting industry firsts, encounter challenging problems, be exposed to a variety of internal functions, and encouraged to learn, grow and expand both professionally and personally.
+
+We are an equal opportunity employer offering competitive compensation, a respectful and positive work environment where creative solutions, empowerment, and collaboration to achieve our shared goals are part of our corporate DNA.

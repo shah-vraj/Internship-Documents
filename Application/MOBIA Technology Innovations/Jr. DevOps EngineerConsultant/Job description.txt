@@ -1,0 +1,38 @@
+MOBIA Technology Innovations is a Systems Integration company with multiple business unit areas: Broadband and Wireless Services, Managed Services, Infrastructure Solutions, Cybersecurity and Digital Transformation Services. Working with Service Providers, Government, Healthcare, and Enterprises across Canada, MOBIA has developed strategic business relationships with industry leading technology partners to help our customers achieve positive business outcomes.
+
+MOBIA has opportunities for Computer Science students to join us in our Dartmouth location as a Junior DevOps Engineer. We are looking for someone that loves technology and enjoys working on many different types of projects and applying critical thinking and innovation to their work. Compensation for this position ranges from $20-22 per hour depending on year of schooling and number of previously held co-op positions.
+
+As a member of our team, you'll receive the mentorship of our senior team members and technical experts. Our co-op mentorship program also offers professional feedback on resumes, presentations, interviews and more. Each co-op student is provided with a one-on-one mentor to advise, assist and give insight throughout the semester - with the goal of facilitating continued professional growth.
+
+Key Attributes:
+
+To thrive in this role, you should possess the following attributes:
+
+Inquisitive Mindset: You are naturally curious and enjoy exploring new technologies and methodologies. You're not afraid to ask questions and seek out solutions to complex problems.
+Effective Communication: Strong communication skills are essential. You can convey technical concepts to both technical and non-technical stakeholders effectively. You also excel in active listening.
+Creative Problem Solver: You approach challenges with creativity and persistence. You're not just looking for quick fixes but are committed to finding sustainable solutions that drive long-term success.
+Keen Attention to Detail: You have a sharp eye for detail, allowing you to identify issues, inconsistencies, and opportunities for improvement. You take pride in your work's quality and precision.
+What you'll do:
+
+As a Junior DevOps Engineer/Consultant at MOBIA Technology Innovations your responsibilities may include:
+
+Delivering Customer Projects: Collaborate with project teams to implement DevOps methodologies and tooling, focusing on delivering repeatable, automated, and scalable solutions that meet specific client needs.
+Internal Automation Initiatives: Work closely with cross-functional teams to identify opportunities for internal process improvements. Develop and implement automation solutions that enhance operational efficiency, reduce manual tasks, and contribute to continuous improvement within the organization.
+Knowledge Management: Stay up-to-date with the latest industry tooling and trends that align with or enhance MOBIA Technology Innovations's Go-to-Market strategy. Share your knowledge with the team to ensure we always offer the best solutions.
+If you are interested, please submit a resume, cover letter and transcript. Please include the job title (Junior DevOps Engineer/Consultant) in the subject line on all submissions.
+
+We thank all applicants for their interest. However, only those selected for an interview will be contacted.
+
+Skills you have (What we hope you bring to the table):
+
+Technical Ability: Some understanding of DevOps principles and practices, with interest in automating and optimizing software delivery and infrastructure management processes.
+Adaptability: The ability to quickly learn and adapt to new tools, technologies, and methodologies. While prior experience with our toolset is a plus, we value your capacity to embrace new challenges.
+Passion for Learning: A genuine passion for continuous learning and improvement.
+Collaborative Spirit: A collaborative mindset that thrives in a team-oriented environment. You enjoy working with diverse teams to solve complex problems and deliver outstanding results.
+Skills you may develop (some examples of the programs and skill sets we may get you to work with during your time with us):
+
+Cloud platforms (GCP, AWS, Azure)
+Infrastructure as Code (Terraform)
+CI/CD (GitLab, GitHub Actions)
+Monitoring and observability (Datadog, Dynatrace)
+Security practices (Vault, Consul, DevSecOps)

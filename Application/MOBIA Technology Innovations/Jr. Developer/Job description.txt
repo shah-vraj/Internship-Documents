@@ -1,0 +1,37 @@
+MOBIA is a Nova Scotia headquartered systems integrator and technology consulting firm with over 30 years of experience working with Canadian service providers, healthcare providers and private and public enterprises through their technology transformations. With an experienced executive team and over 500 professionals deployed across Canada, MOBIA delivers hardware, software and professional services. MOBIA is also recognized as one of Canada's best managed companies (Deloitte) and one of Canada's fastest growing companies (Globe and Mail 2021).
+
+MOBIA has opportunities for Computer Science students to join us in our Dartmouth location as junior software developers. As an integral part of our fast-paced software development team, you will assist in developing cutting edge software that delivers innovative solutions to our global clients. Our team works closely with clients to understand their goals and deliver solutions tailored to their specific needs. We have a proven expertise in delivering exceptional outcomes in today's most complex industries including Healthcare, Insurance, Retail, Manufacturing, Utility, Service Providers and Government. Compensation for this position ranges from $20-22 per hour depending on year of schooling and number of previously held co-op positions.
+
+As a member of our team, you'll receive the mentorship of our senior consultants and technical experts along with the opportunity to work with emerging technologies. Our co-op mentorship program also offers professional feedback on resumes, presentations, interviews and more. Each co-op student is provided with a one-on-one mentor to advise, assist and give insight throughout the semester - with the goal of facilitating continued professional growth.
+
+We value innovative thinking, team players, a curious mind, a strong transcript, and enthusiasm for new technologies. As a student working with our team, you will learn and grow under our senior developers, so a willingness to try new things and learn new technologies from others, and through self-study, is key.
+
+What you'll do:
+
+Develop software solutions to optimize client business processes, through custom features and applications.
+
+Contribute as a full team member in writing impactful software, engaging in the complete development lifecycle to deliver solutions that directly benefit our clients.
+
+Work with a group of senior project managers, business analysts, architects and developers on an agile development team.
+
+If you are interested, please submit a resume, cover letter and transcript. Please include the job title (Co-op Jr. Developer) in the subject line on all submissions.
+
+We thank all applicants for their interest. However, only those selected for an interview will be contacted.
+
+Skills you have (What we hope you bring to the table):
+
+Some exposure to Java
+
+Database structure knowledge and/or experience working with databases
+
+Excellent listening and communication skills
+
+A keen desire to learn about technology
+
+Skills you may develop (some examples of the programs and skill sets we may get you to work with during your time with us):
+
+Languages: JavaScript/TypeScript, UI frameworks - Lit Html, Angular, Java,
+
+Databases: MongoDB, MySQL, Oracle, SQL Server
+
+Technologies: Node.js, Spring Boot (Microservices Architecture), Amazon Web Services
