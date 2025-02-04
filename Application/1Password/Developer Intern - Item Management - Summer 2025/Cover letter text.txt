@@ -1,0 +1,11 @@
+Dear Hiring Manager,
+
+Developing user-focused, secure, and high-performance mobile applications has been the core of my work for over two years as a Mobile Application Developer. I am excited to apply for the Android Mobile Developer Intern position at 1Password, where your commitment to creating a safer, simpler digital future aligns perfectly with my passion for delivering exceptional mobile experiences.
+
+At Simform Solutions, I built and optimized native Android and iOS applications, such as Drone Control and Vring, improving performance by 40% through efficient code architecture. My experience spans Jetpack Compose, Kotlin, and state management principles, enabling me to develop scalable and user-friendly apps. One of my proudest achievements was designing reusable components that accelerated development by 30% and enhanced maintainability for future feature rollouts.
+
+Beyond technical expertise, I thrive on collaboration and problem-solving. I have regularly participated in cross-functional team efforts, conducting code reviews, and implementing CI/CD practices to deliver secure and reliable apps. My inquisitiveness fuels my desire to continually explore better solutions, and I view challenges as opportunities to learn and grow.
+
+The opportunity to contribute to 1Password's Android app while collaborating with design, product, and engineering teams excites me. I am confident that my passion for clean, scalable code and my ability to adapt and learn quickly will make me a valuable addition to your team.
+
+I would love to connect for a conversation to discuss how my background and enthusiasm align with 1Password's mission. Thank you for your time and consideration.
