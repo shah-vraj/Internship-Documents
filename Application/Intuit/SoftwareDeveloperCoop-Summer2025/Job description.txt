@@ -1,0 +1,25 @@
+Job Overview
+“Where's my tax refund?” “How’s my business doing?” “Can I afford to buy that?”
+
+Every day, millions of people and businesses around the world rely on Intuit’s products to answer these questions. Increasingly, our users expect to converse in natural language to accomplish these tasks instead of navigating menus and windows.
+
+Join the Conversational Experiences team as Software Developer Co-op to accelerate the next generation of conversational experiences across Intuit’s products. As part of the team, you will work with product managers, user experience designers, and data scientists to rapidly deliver tools, software components, and web services that serve both internal developers and end users. Conversational Experiences (aka CUI, Conversational AI) is at the intersection of exciting progress in machine learning, computer science and user experience. Be ready to learn fast and boldly innovate beyond the currently accepted normal.
+
+Responsibilities
+Working together with the team: deeply understand customer problems and deliver specific features to delight them
+Collaborate with other engineers to share best practices and knowledge of emerging technologies
+Triage, fix and validate bugs
+Implement features, products, and enhancements that improve the user experience.
+Participate in the agile feature/product design process working with cross-functional teams including: Product Management, Experience Design, QA and Operations
+Qualifications
+To be eligible for the role you must align with the following:
+
+Currently enrolled in post secondary education
+A graduation date of no earlier than 4 months after the internship/co-op concludes
+Not require sponsorship to work within the role now or in the future
+Come in 2x per week to our Toronto office (all of our co-op roles are hybrid)
+You’re enrolled in a post-secondary degree related to Computer Science/Engineering
+You’re a lover of all things development
+You may have some experience with: Java, Springboot, JavaScript, React, Python
+You bring a passion for learning, exploration, & innovation
+Nice to have: experience and passion for building Conversation AI

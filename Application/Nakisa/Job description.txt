@@ -1,0 +1,41 @@
+About Nakisa
+ 
+Nakisa stands as a global leader in enterprise business solutions, specializing in Human Resources, Financial Management, and Real Estate. We are dedicated to delivering innovative, forward-thinking, and robust software solutions that propel business strategies forward. Trusted by numerous Fortune 1000 companies, our top-of-the-line solutions have consistently excelled in the market, underscoring our commitment to providing our clients with unparalleled experience.                   
+
+Our team represents a rich tapestry of cultural and religious backgrounds, making diversity our greatest asset. Unified by our values of Fairness, Integrity, Service, and Humility, we foster an environment where unity and teamwork are our core strengths. At Nakisa, we continuously strive to ensure that these values guide our actions at every level.              
+
+As a company, we are in a phase of dynamic growth and prosperity, offering ample opportunities for those who join us on this journey to develop and thrive alongside us. If you are seeking a workplace where your contributions are valued and where you can actively participate in our pursuit of excellence, Nakisa welcomes you with open arms.               
+
+We’re recognized as one of the best Canadian employers, having been named one of Montreal’s top employers, as well as one of Canada’s best employers for recent graduates.      
+
+Our people and our culture are the key to our success. If you're looking for a workplace that embraces a hybrid work model, values your contributions, and encourages active participation in our pursuit of excellence, Nakisa warmly invites you to join us.                
+
+Job Summary 
+
+Nakisa has built top of the line software solutions which are being used by the Fortune 1000 of today. Our solutions have excelled on the market, and we are looking for individuals who will partake in our successful adventure. You will be responsible for working on the design and implementation of Java services, applications and tools. You will be part of a passionate Agile team built on creativity and dedication for Software development that is on the path of implementing a NoOps methodology for its cloud-native apps.  
+
+ Responsibilities  
+
+You will be working in a fast-paced Agile-based development environment  
+Write well-designed, testable, and efficient code  
+Support continuous improvement by investigating alternatives and technologies and presenting the work for design reviews and design discussions  
+Ownership of your components and handling of its support issues  
+ 
+Qualifications  
+
+2+ years' experience with Software Development projects in school with knowledge of JAVA  
+Excellent understanding of Object-Oriented analysis and design using design patterns  
+Agile and Test-Driven Development  
+Self-starter with excellent design and analysis skills  
+Ability to work effectively both independently and as a member of an agile team  
+Must have excellent problem-solving skills and love technical challenges  
+Must have excellent communication and teamwork skills  
+Must have the ability to thrive in a fast-paced environment  
+Must be working towards a Bachelor of Computer Science or comparable Industry experience  
+The ideal candidate will have a sound understanding of Fullstack Development, Spring Boot Applications, REST APIs  
+ 
+ Good to Have  
+
+Experience with MVC applications, JAVA 8, JAVA 11, J2EE, JavaScript, jQuery, HTML5, CSS3, JSP, Servlets, Spring, Subversion/Git, Docker, Elasticsearch  
+Eclipse, Jenkins, Maven, and related development and build automation tools  
+Knowledge of Cloud computing environments (preferably AWS/Azure) and continuous delivery 

@@ -1,0 +1,32 @@
+It’s 1813 and Humphrey Davy is dazzling London with scientific demonstrations and lectures. Soon enters the young bookbinder, Michael Faraday, dissatisfied with his own prospects and enamored by the mysteries of electricity. Faraday gets a break and gains an apprenticeship with Davy, and shortly thereafter (partially) blows himself and Davy up in a nitrogen trichloride explosion.
+
+ 
+
+We think Davy’s sacrifice was worth it, though, since Faraday went on to do experimental work in the field of electromagnetism that is foundational to innumerable modern technologies. While we can’t promise you’ll become the next Faraday, we can promise you won’t be asked to deal with explosives on the job.
+
+ 
+
+Instead, you’ll be receiving mentorship from experienced mobile engineers (iOS and Android), writing Swift/Kotlin (maybe some TypeScript code), and contributing to a product that serves over 100,000 businesses. Check out demo.mercury.com to see our product for yourself.
+
+ 
+
+All Engineering Interns, regardless of the specific role, should:
+
+Be interested in continually honing their craft.
+Have curiosity and be willing to share their perspective.
+Appreciate quality in their work and that of others.
+Communicate well, and be able to write clear explanations of their reasoning on technical decisions.
+ 
+
+You’ll be joining as a Mobile Engineering Intern; we’d like to see folks who’ve got existing experience with native iOS or Android apps (no React Native, sorry!) and might have some interest in working on some mobile-related full-stack tooling. More specifically, you can expect to:
+
+Join a small-but-mighty team of experienced iOS and Android engineers (and one backend dev!) – the team has been making apps for over a decade and we’re pretty darn good at it.
+Work closely with designers to ship a beautiful app – they love to collaborate on getting the details right; plus, many of our customers are startups and appreciate our thoughtful, polished designs.
+Feel a strong sense of product ownership and actively seek responsibility – we often self-organize on small/medium projects, and we want someone who’s excited to lay their own vision atop our foundation and make a big impact across the mobile team and Mercury as a whole.
+Have a possible interest in other parts of our stack (Android: Kotlin/Compose; iOS: UIKit/SwiftUI/RxSwift; Frontend: TypeScript/React; Backend: Haskell).
+Have existing experience in either/both iOS or Android, using UIKit/SwiftUI (iOS) or Jetpack Compose (Android)
+This is a paid full-time remote summer internship for 12-16 weeks between May - September. Our internship program is intended for individuals enrolled in an academic program (undergraduate, graduate, etc.). Individuals interested but not enrolled in an academic program at this time are encouraged to apply to any of our full-time openings.
+
+In terms of compensation, the hourly rate for candidates based in the US is $55. The hourly rate for candidates based in Canada is CAD 55.
+
+Applications close on February 7th, 2025. Please apply only to the single intern position that best aligns with your qualifications and interests.

@@ -1,0 +1,14 @@
+What experience do you have in working with counterparts from product and design?
+In my previous roles, I’ve worked closely with both product managers and design teams to ensure that the applications we build not only meet the technical requirements but also provide exceptional user experiences. On the product side, I’ve participated in sprint planning sessions, helping to translate user stories into actionable development tasks. I also collaborated on prioritizing features based on business goals, user feedback, and technical constraints.
+
+With the design team, I’ve provided input on the feasibility of their UI/UX ideas and helped ensure that their designs are implemented efficiently on mobile platforms, particularly when it comes to keeping performance high. For example, I frequently shared feedback on design iterations to optimize the user flow for mobile apps, resulting in smoother interactions and better engagement. In addition, I collaborated with designers to ensure that the app’s functionality aligned with the user’s needs, and we iterated together to make sure the product would be both beautiful and practical.
+
+What is your superpower as a software developer?
+I’d say my superpower is my ability to bridge the gap between technical complexity and user-friendly, scalable solutions. I’m able to take a high-level user need and break it down into clear, understandable tasks for myself and the team, and then translate that into code that is clean, efficient, and easy to maintain. I also thrive in environments where I can quickly iterate and improve on products based on real user feedback, whether it’s through direct testing or analyzing user behavior.
+
+Another aspect of my superpower is my dedication to code quality. I take pride in writing not only functional code but code that is well-documented and modular, making it easy to scale, test, and maintain. I believe in continuously learning, whether it's adopting a new technology, refining existing processes, or improving my debugging skills to keep things running smoothly.
+
+What are you hoping to get out of this opportunity?
+I'm hoping to broaden my skill set by working on full-stack development projects that involve both backend and frontend work. 1Password’s approach to security and customer-centric design really excites me, and I see it as an opportunity to dive deeper into scalable, secure systems and to learn how to build complex solutions that can handle large-scale usage. I also appreciate the chance to collaborate with cross-functional teams—having exposure to product, design, and marketing teams will help me refine my understanding of user-centric development and the lifecycle of a product.
+
+Additionally, I’m eager to work in an environment that fosters growth, encourages curiosity, and values continuous learning. I’d love to contribute to a company like 1Password that takes security seriously while prioritizing user needs.
