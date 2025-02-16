@@ -1,0 +1,56 @@
+About the job
+Having recognized the advantages of remote work, such as improved employee morale, increased productivity, and positive impacts on both employee wellbeing and the environment, we are proud to be a digital-first company. Our digital-first work environment, combined with our conveniently located offices and collaborative workspaces, provides our team with the freedom and flexibility to work in the most productive way for them.
+
+About Us
+
+Tecsys is a fast-growing innovator offering supply chain solutions to industry leading healthcare systems, hospitals, and pharmacy businesses to distributors, retailers, and 3PLs. We work with industry leaders to transform their supply chains through technology. If you thrive on tackling interesting challenges with continuous learning opportunities then Tecsys could be a good fit for you!
+
+About The Role
+
+Our Research and Development department is looking for a talented, motivated and creative software development intern to intern with us for the Summer 2025 semester. In this position within the Performance & Scalability team, you will participate in challenging projects with tangible impacts in the healthcare sectors, where our solutions are used from warehouse to the operating room, and distribution, where our solutions allow independent companies to compete with the giants of their industry and thus maintain their independence.
+
+You will be part of a Scrum team that emphasizes continuous improvement of practices and teamwork. You will also have the opportunity to learn from experienced developers for whom working as a team while having fun is a priority.
+
+In this position, these will be your responsibilities:
+
+Backend Development (Python):
+Collaborate with the development team to design, implement, and maintain the Python-based backend for our automation framework
+Create robust APIs and integrate them with various components
+Optimize code for performance and scalability
+Utilize frameworks for streamlined development
+Front-End UI Development (React, JavaScript, CSS):
+Develop user-friendly interfaces using React, JavaScript, and CSS
+Ensure seamless integration between the front-end and back-end components
+Implement state management for efficient application state
+Implement responsive designs and enhance user experience
+Scale and Performance Testing:
+Design and execute scale and performance tests to evaluate system performance, identify bottlenecks, and optimize resource utilization
+Analyze test results and provide recommendations for improvement
+Experience with Jmeter would be an asset 
+Test Plan Development (SOAP, XML, REST):
+Collaborate with QA and product teams to understand customer use cases
+Create comprehensive test plans for SOAP, XML, and REST-based services
+Ensure test coverage across different scenarios
+Analytical Skills:
+Apply strong analytical and logical thinking to analyze use cases and translate them into effective test strategies
+Identify edge cases and corner scenarios for thorough testing
+
+Requirements:
+
+Complete college studies in computer science or computer engineering, in order to embark on a professional career in a stimulating environment
+Logical approach, organized, with good interpersonal skills and able to work well under pressure
+Must have excellent communication skills (written and spoken)
+Strong proficiency in both written and verbal English communication essential for effective correspondence with clients, suppliers, business partners and colleagues beyond the province of Quebec
+
+
+Knowledge of the following technologies would give you an edge:
+
+IDE and version control systems (Eclipse, Git, Maven, etc.)
+Junit, Selenium
+REST Services and Architecture
+
+At Tecsys, we are committed to fostering a diverse and inclusive workplace where all employees feel valued, respected, and empowered. We believe that diversity drives innovation and strengthens our ability to deliver exceptional solutions. We welcome and encourage applicants from all backgrounds, experiences, and perspectives to join our team.
+
+Tecsys is an equal opportunity employer. Accommodation is available for applicants selected for an interview.
+
+NB: if you are applying to this position, you must be a Canadian Citizen or a Permanent Resident of Canada, OR, have a valid Canadian work permit.

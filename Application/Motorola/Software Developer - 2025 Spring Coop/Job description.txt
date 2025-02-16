@@ -1,0 +1,58 @@
+Company Overview
+At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. Our critical communications, video security and command center technologies support public safety agencies and enterprises alike, enabling the coordination that’s critical for safer communities, safer schools, safer hospitals and safer businesses. Connect with a career that matters, and help us build a safer future.
+
+Aperçu de l’entreprise
+
+Chez Motorola Solutions, nous pensons que tout commence par nos employés. Nous sommes une communauté mondiale soudée, unie par la volonté incessante de contribuer à la sécurité des personnes partout dans le monde. Nos technologies de communication, de sécurité vidéo et de centre de commandement essentielles soutiennent les agences de sécurité publique et les entreprises, permettant une coordination essentielle pour des communautés, des écoles, des hôpitaux et des entreprises plus sécuritaires. Connectez-vous à une carrière qui compte et aidez-nous à bâtir un avenir plus sûr.
+
+
+Department Overview
+Motorola Solutions’ innovations, products and services play essential roles in people’s lives. Our end-to-end suite of software solutions helps our customers answer thousands of emergency calls and text messages, and process video, disparate evidence and records. We are also proud to be industry leaders in video security solutions installed in more than 120 countries at thousands of customer sites, including school campuses, transportation systems, healthcare centers, public venues, critical infrastructure, prisons, factories, casinos, airports, financial institutions, government facilities, and retailers.
+
+Our products leverage cutting edge voice technology, language models, natural language understanding, video analytics, and Machine Learning to enable our customers to focus on what matters while providing faster responses, safer outcomes and greater transparency. Our mission is to provide meaningful value to MSI’s customers by developing domain-specific applications and services in the areas of Speech & Audio, Machine Translation, Natural Language Understanding and Computer Vision.
+
+Calipsa, which is part of MSI, is aiming at automating CCTV video monitoring. We are building a cloud based platform that automatically connects with cameras, processes and analyzes their content and only forward actionable alerts to our customers. We are working with the biggest security companies in the world actively monitoring more than 25 thousands sites around the world. We are expecting to massively grow the number of cameras and traffic on our platform in the near future. 
+
+You will be part of a focused team who will be responsible for cloud infrastructure, operations, and DevOps. You will be designing, building, maintaining, and monitoring the cloud infrastructure to deploy Motorola Solutions platforms which can scale to millions of cameras all around the world. You have a strong sense of ownership and will have the opportunity to make a significant positive impact for our products.
+
+Job Description
+We are seeking a software engineering intern to work as a contributing member of a multi disciplinary team spanning cloud platform engineering, database administration, and quality. As an intern, you will work with the team's lead software engineers on projects that are closely aligned with our product milestones.
+
+
+Responsibilities will include:
+
+Participating in formal design and implementation activities.
+
+Developing requirements, code and unit and other automated testing solutions.
+
+Creating and deploying internal tools for operational excellence.
+
+Effectively collaborating with technical leaders in a multi-team environment.
+
+Demonstrating flexibility and resilience in the face of changing priorities and requirements.
+
+Qualifications:
+
+Experience with Python, JavaScript, Golang, SQL.
+
+Understanding of object oriented coding and design principles.
+
+Knowledge of software engineering concepts related to the implementation and deployment of distributed microservices, containerization, DevOps SDLC, API services, and data storage/retrieval (e.g. in-memory cache, database).
+
+Familiarity with AWS or GCP cloud infrastructure.
+
+Able to troubleshoot and debug issues.
+
+
+Basic Requirements
+Must be pursuing a minimum of a Bachelor's Degree with a graduation date of December 2025 or later
+
+
+Travel Requirements
+None
+
+Relocation Provided
+None
+
+Position Type
+Intern

@@ -1,0 +1,13 @@
+Dear Hiring Team at Dapper Labs,
+
+The opportunity to contribute to Dapper Labs' mission at the intersection of blockchain and gaming excites me. As a Master’s student in Applied Computer Science at Dalhousie University, I am eager to bring my software development experience to your innovative team, building next-generation digital collectibles for a global audience.
+
+With two years of professional experience in native Android and iOS development, I have honed my skills in designing scalable applications and optimizing performance. My recent academic projects have expanded my expertise in backend technologies, including PostgreSQL, Docker, and Kubernetes. Additionally, my work on cloud-based solutions and API integrations has strengthened my ability to build efficient and secure backend systems. My passion for blockchain technology aligns with Dapper Labs' vision, and I am excited about the prospect of contributing to products like NBA Top Shot and Disney Pinnacle.
+
+Beyond my technical expertise, I thrive in fast-paced, collaborative environments. During my tenure as a software developer, I worked closely with cross-functional teams to implement complex features, enhance user experience, and troubleshoot critical issues. My adaptability and eagerness to learn have allowed me to quickly grasp new technologies, making me confident in my ability to contribute meaningfully to Dapper Labs' cutting-edge projects. I am particularly drawn to the opportunity to work with Golang and GraphQL, as these align with my interests in building efficient, scalable, and high-performance backend solutions.
+
+What draws me to Dapper Labs is not just the technology but the culture of continuous innovation. I am eager to apply my problem-solving mindset and technical skills to develop impactful features alongside experienced engineers. I am excited about the possibility of joining your team and would welcome the opportunity to discuss how my background can contribute to your ongoing success.
+
+Looking forward to connecting.
+
+Best regards,Vraj Shah

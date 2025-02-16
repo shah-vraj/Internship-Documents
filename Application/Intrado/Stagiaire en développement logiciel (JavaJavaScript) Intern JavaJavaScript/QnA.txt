@@ -1,0 +1,7 @@
+1. What is it about this position that interested you to apply?
+I’m excited to apply because this internship offers hands-on Java development experience, real-world projects, and mentorship opportunities, all in a meaningful domain that makes a real impact.
+
+2. What experience do you have in Java or JavaScript? Have you been able to work on this programming language outside of just classwork or studies?
+I have over two years of professional experience in Java development, having worked extensively with Spring Boot to build scalable backend solutions for various enterprise-grade applications. One notable project was ServiceHub, where I architected a robust backend using Java and integrated it with a ReactJS frontend, ensuring real-time interactions for over 1,000 active users with 99.9% system uptime.
+
+Beyond my job roles, I’ve also pursued personal projects, such as a Kubernetes-based microservices architecture using Spring Boot containers. This hands-on experience allowed me to optimize communication between services and deploy scalable solutions in cloud environments. My experience has equipped me with strong debugging, code optimization, and API development skills, which I'm confident will make a valuable contribution to your software development team.

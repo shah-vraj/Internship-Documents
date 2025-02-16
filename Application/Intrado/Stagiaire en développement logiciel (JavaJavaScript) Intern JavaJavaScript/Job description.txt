@@ -1,0 +1,42 @@
+Intrado’s mission is to save lives and protect communities by helping them prepare for, respond to, and recover from critical events. Our cutting-edge, innovative SaaS company is at the forefront of transforming preparation for and response to 911 emergencies with next generation, data-driven software. At Intrado, we’re passionate about our mission, our customers and our team members, and seize the opportunity every day to make an impact through #workworthdoing.
+
+Internship Details
+
+An internship at Intrado isn’t just a summer job, it’s an unforgettable experience!
+
+Internships start May 28th, 2025 and go until August 2025 (12 weeks).
+
+Location: 7150, rue Alexander-Fleming, Saint-Laurent QC H4S2C8
+
+This position will support our Information Technology- Software Development team. This internship provides hands-on experience in Java development, allowing interns to work on real-world projects, improve coding skills, and gain insight into software development processes. The ideal candidate is eager to learn, has a basic understanding of Java, and is excited to contribute to a collaborative team environment.
+
+Each Intern Will Focus On Completing a Project Designed To Provide Hands On, Career/major Relevant Project Experience That Will Have An Immediate And Lasting Impact On a Real Time Business Need. Additionally, Interns Will Have The Opportunity To
+
+Make an Impact - you’ll complete a meaningful project that will support your career goals AND have a lasting impact on Intrado and the communities we serve. 
+Gain Skills and Knowledge from Industry Leading Experts - through your hands on learning experience, you will work closely with and constantly learn from a team that are the best in the business. 
+Build a Network - from fellow interns to our executive team, you’ll have endless opportunities to connect with and learn from Intrado team members during the summer and beyond.
+Be Mentored - we will pair you up with a mentor who will provide support throughout the internship experience to ensure your success!
+
+Essential Duties
+
+Assist in designing, coding, testing, and debugging Java applications.
+Work on backend development using Spring Boot, Hibernate, or other Java frameworks.
+Write and maintain clean, efficient, and well-documented code.
+Collaborate with senior developers on feature development and bug fixes.
+Participate in code reviews and provide constructive feedback.
+Work with databases (SQL, NoSQL) and optimize queries.
+Develop RESTful APIs and integrate with front-end applications.
+Write unit tests and conduct debugging to ensure application quality.
+Assist in deploying and monitoring applications in development or staging environments.
+Learn and apply agile development practices, including stand-ups and sprint planning.
+
+Qualifications
+
+Candidate in their senior year majoring in Information Technology, Computer Science, Computer Engineering or related fields
+Basic knowledge and experience with Java or JavaScript
+Knowledge or experience with cloud environments (AWS or Azure) is helpful
+Candidates must be able to speak English fluently
+Excellent organizational and time management skills
+Knowledge or experience with CICD process is helpful
+Strong communication, collaboration, problem solving, critical thinking and adaptability skills. 
+Passion for learning and a strong interest in supporting Intrado’s mission

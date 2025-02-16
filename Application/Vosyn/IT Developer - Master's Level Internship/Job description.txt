@@ -1,0 +1,76 @@
+Job Title: IT Developer - Master's Level Internship
+
+Level: Master’s Level Internship
+
+Department: IT and Security
+
+Duration: 520 Hours (approximately 3 months)
+
+Work location: Remote (with hybrid options in Toronto)
+
+Compensation: Hourly ($32)
+
+About Us: At Vosyn, we embrace the exciting, game-changing world of Artificial Intelligence, driving innovation and pioneering impactful projects across various industries. We are a trailblazing Language Synthesis AI firm reshaping global communication by dissolving language barriers and empowering users. We believe in fostering a culture of flexibility, continuous improvement, and solution-focused strategies. Here, every idea is welcomed, nurtured, and has the potential to scale to new heights. Currently, we're at the forefront of a significant IPO endeavor, truly a unicorn in the making. We invite you to be part of our journey and leave your imprint on the future of AI.
+
+About the Role: We are looking for a skilled and driven IT Developer Intern to join our team. This role is perfect for a Master's level student with a passion for developing and maintaining IT systems and applications. IT Developer Intern, you will work closely with our engineering team to design, develop, and maintain the technical infrastructure and software that power our applications and systems. This immersive internship offers hands-on experience, collaboration with senior management, and the opportunity to work in a fast-paced, high-growth environment. While demanding, it promises to be a rewarding complement to your academic journey, equipping you with valuable skills and insights.
+
+Key Responsibilities:
+
+Write clean, efficient, and maintainable code using high-level programming languages such as Python, Java, C++, JavaScript, React, etc.
+Apply Object-Oriented Programming (OOP) principles such as classes, objects, inheritance, polymorphism, and encapsulation to design and develop software solutions.
+Work with data structures (e.g., arrays, linked lists, trees, graphs) and implement algorithms for tasks like sorting and searching.
+Participate in Agile development methodologies, including Scrum and Kanban, and work collaboratively in Agile teams.
+Utilize Git for version control, including branching, merging, and resolving conflicts within a team setting.
+Break down complex problems into smaller, manageable tasks and develop innovative solutions.
+Communicate technical concepts clearly and effectively to both technical and non-technical audiences.
+Collaborate with cross-functional teams to achieve project goals and meet deadlines.
+Engage in cloud computing platforms (e.g., Azure, GCP) to develop scalable applications.
+Design and interact with databases such as SQL, PostgresDB, MongoDB, and NoSQL.
+Implement and manage CI/CD pipelines, work with containerization tools like Docker and Kubernetes, and handle infrastructure-as-code processes.
+Conduct unit testing, integration testing, and other testing methodologies to ensure software reliability.
+Utilize GitHub for managing and controlling project code and ensure adherence to version control practices.
+About You:
+
+Completed Bachelor’s degree in Computer Science, Software Engineering, Information Technology, or a related field required; Master’s program enrollment or completion preferred but not mandatory.
+Proficiency in at least one high-level programming language such as Python, Java, C++, C#, JavaScript, or React.
+A strong understanding of Object-Oriented Programming (OOP) concepts, including classes, objects, inheritance, polymorphism, and encapsulation.
+Familiarity with common data structures and algorithms used in programming, such as arrays, linked lists, trees, graphs, sorting, and searching.
+A solid understanding of Agile development principles (Scrum, Kanban) and experience working in an Agile team environment.
+Proficiency in using Git for version control, including working with branches, merging, and resolving conflicts.
+Strong analytical and problem-solving skills, with the ability to break down complex issues and devise effective solutions.
+Ability to think critically and creatively when tackling problems.
+Excellent written and verbal communication skills to effectively share technical information.
+Strong collaboration and teamwork skills, especially in a multidisciplinary setting.
+Basic understanding of cloud computing platforms like Azure and GCP.
+Experience with databases such as SQL, PostgresDB, MongoDB, or NoSQL.
+Familiarity with DevOps practices like CI/CD pipelines, containerization (Docker, Kubernetes), and infrastructure-as-code.
+Experience with unit and integration testing to ensure the stability and functionality of software applications.
+Ability to work both independently and collaboratively.
+Strong problem-solving skills and attention to detail.
+New graduates are encouraged to apply.
+Bonus: Experience with specific technologies or frameworks relevant to the company's projects (e.g., React, Node.js, machine learning frameworks) and contributions to open-source projects.
+Don’t worry if you don’t check every box—what matters most is your passion for learning, curiosity, and your willingness to contribute to the team.
+
+Why Join Us:
+
+It offers equity-based compensation worth $32 per hour in terms of company shares.
+Be part of the invigorating journey of a start-up transitioning to an IPO.
+Engage directly with senior management and strategic advisory board members.
+Enhance your CV with a rich array of experiences unique to Vosyn and AI Venture Lab.
+Gain hands-on experience contributing to projects that drive growth and make a lasting impact in a fast-paced startup environment.
+DEI and Workplace Safety:
+
+At Vosyn Inc., we are committed to fostering a diverse, equitable, and inclusive workplace where every employee feels valued and supported. We believe that diversity of thought, background, and experience enriches our company culture and enhances innovation. We are an equal-opportunity employer and encourage candidates from all walks of life to apply. As part of our commitment to creating a safe and healthy work environment, we prioritize workplace safety, adhering to all relevant regulations and promoting a culture of responsibility. We believe that a safe and inclusive workplace is essential for the well-being and success of our team members. Join us in building a workplace that values diversity, prioritizes equity, and ensures the safety and well-being of every individual.
+
+Recruitment Process:
+
+Application Submission: Candidates are invited to submit their resumes and cover letters through our career portal.
+Written Questionnaire: Selected candidates will receive a set of 10 written questions to assess their fit and technical knowledge..
+Video Questionnaire: Candidates who successfully pass the written assessment will be asked to answer 10 additional questions to be submitted in a video format to further evaluate their skills and cultural fit. The ability to video record your answers will be required.
+Evaluation: Our team will review the responses to both questionnaires. Candidates who meet our criteria will be invited to the next stage.
+Orientation Session: Successful candidates will be invited to participate in an orientation session where they will learn more about Vosyn, our projects, and what to expect during the internship. After this session, you will be given the opportunity to opt-in if you believe that this internship is for you.
+Please note: At Vosyn, we hire on a rolling basis, so we encourage you to apply as soon as possible. While we operate with flexibility, we also cater to academic semester work terms to align with school schedules, ensuring a smooth transition for students joining us.
+
+Be a part of a fast-growing global organization that values diversity of thought, experience, and culture. Our interns come from top universities worldwide, and we invite you to contribute, learn, and grow with us on this exciting journey.
+
+Please note that only candidates who apply through our website will be considered for the role.

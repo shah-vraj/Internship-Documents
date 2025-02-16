@@ -1,0 +1,10 @@
+I am excited about the opportunity to contribute to Dapper Labs’ mission of redefining digital collectibles through blockchain and gaming. As a Master’s student in Applied Computer Science at Dalhousie University with a strong foundation in frontend development, I am eager to bring my skills and passion for emerging technologies to your team as a Frontend Engineering Intern.
+
+With two years of professional experience in mobile application development, I have worked extensively with modern UI frameworks to craft seamless and engaging user experiences. My expertise in JavaScript, React, and Next.js allows me to develop interactive and high-performance applications. Additionally, my experience with GraphQL and backend integration has enabled me to build scalable and efficient systems that enhance frontend functionality. My enthusiasm for blockchain technology aligns with Dapper Labs’ vision, and I am eager to contribute to innovative projects like NBA Top Shot and Disney Pinnacle.
+
+Beyond technical skills, I thrive in collaborative, fast-paced environments where I can quickly adapt and learn. Throughout my professional journey, I have worked alongside cross-functional teams to deliver high-quality features while maintaining a user-centric approach. I am particularly excited about the opportunity to work with WebGL and cutting-edge frontend technologies to enhance digital collectible experiences.
+
+I am confident that my problem-solving mindset, passion for blockchain, and frontend expertise make me a strong fit for this role. I look forward to the possibility of contributing to your team and would welcome the opportunity to discuss my application further.
+
+Best regards,
+Vraj Shah

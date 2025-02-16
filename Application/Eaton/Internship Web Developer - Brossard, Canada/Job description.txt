@@ -1,0 +1,43 @@
+About the job
+What You’ll Do
+
+Eaton's Electrical Engineering Services & Systems (EESS) division is seeking a Web Developer Intern. This position will be located at the Eaton Americas Innovation Center in Brossard, Québec, Canada and offers hybrid work opportunities. Candidates should reside within 80km of Brossard, Québec, Canada.
+
+Position Overview
+
+Eaton – CYME International T&D is a world-class Power Engineering Solutions provider with an established reputation for customer responsiveness and technical expertise. Our solutions stand behind thousands of T&D projects in over 100 countries around the world. As part of a multidisciplinary development team, the internship web developer will participate in the design and development of software and high technology projects.
+
+Making what matters work at Eaton takes the passion of every employee around the world. We create an environment where creativity, invention and discovery become reality, each and every day. It’s where bold, bright professionals like you can reach your full potential—and where you can help us reach ours.
+
+When we embrace the different ideas, perspectives and backgrounds that make each of us unique, we, as individuals and as a company, are stronger.
+
+Essential Responsibilities
+
+ Analyze technical specifications and technical requirements.
+ Design, develop and maintain efficient, reusable, and reliable source code.
+ Prepare detailed test plans.
+ Collaborate with the support team to provide an unsurpassed customer experience.
+ Coordinate all stages of the development cycle in collaboration with the project manager.
+
+
+Qualifications
+
+Required Qualifications:
+
+ Currently enrolled in a bachelor’s degree program.
+ Have an interest and experience in web development.
+ Have skills with HTML, TypeScript / JavaScript, CSS, Angular.
+ Must be legally authorized to work in Canada without corporate sponsorship now or in the future.
+ Candidates must live within an 80 km radius of Brossard, Québec, Canada.
+
+
+Preferred Qualifications
+
+ Have experience with C #, C ++ and Python.
+ Have experience with Oracle and SQL Server databases.
+ Possess skills in French and English (spoken and written).
+
+
+Eaton has in place accessibility policies for accommodating employees with disabilities. If you are selected for an interview and require accommodations, please let the recruiter or hiring manager know so that we can work to make reasonable adjustments that best suit your needs. Accessibility information may be found at: http://www.eatoncanada.ca/EatonCA/OurCompany/Accessibility/index.htm
+
+We are committed to ensuring equal employment opportunities for job applicants and employees. Our recruitment processes use balanced selection criteria and avoid unlawful discrimination against applicants on the basis of their age, colour, disability, marital status, national origin, gender, gender identity, genetic information, race or racial origin, religion, sexual orientation or any other status protected or required by law.

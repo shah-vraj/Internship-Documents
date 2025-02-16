@@ -1,0 +1,54 @@
+When you join Kainos, you get to think beyond limitations to make an immediate and positive impact – like transforming digital services for millions of citizens or helping Fortune 500 companies get live and thrive on Workday.
+
+You’ll be part of a people-first culture that is growing around the world. We’re a creative, committed, and diverse group of individuals who succeed as a team.
+
+At Kainos your ideas are heard and valued and you’ll leave a legacy that you can feel proud of. Join us and discover how our people write our story.
+
+Kainos was established in 1986 in Belfast, Northern Ireland, UK which is still our Corporate Headquarters today! Since then, we’ve grown to over 3,000 employees across 29 countries. Kainos is a publicly traded company on the London Stock Exchange, and you can explore our stock growth with stock symbol LON: KNOS
+
+As a Trainee Data Engineer, you will have the opportunity to contribute to the development of large-scale data processing software to meet user needs in demanding production environments. Working to develop data processing software primarily for deployment in Data technologies, the role encompasses the full software lifecycle including design, code, test, and defect resolution.
+
+At Kainos, we operate in a fast moving, dynamic environment, which can mean exciting and varied opportunities for our people to work across different teams, projects and Engineering disciplines. You must have a keen interest in developing a career in Engineering and the expectation is for our employees to be adaptable, curious, and open to working in different teams across Digital Services. With Engineering at the heart of your role; this may mean experiencing Software Engineering, Low Code Engineering and Data/ AI Engineering, we base such moves on customer demand and an understanding of your skillset and interest.
+
+Upon completion of the 12-month Early Careers Programme, you will have gained knowledge and skills to help transform the organization and set you on the path to becoming the next generation of leaders at Kainos. Fun fact - 11 of our 17 leadership team members have graduated from our Early Careers Programme!
+
+Minimum (essential) Requirements
+
+To be eligible, candidates should have completed a bachelor’s degree in a relevant technical field, such as, Computer Science or Software Engineering, or be in their final year of study. The degree should have been completed no more than two years before our start date of June 16th 2025.
+Basic understanding of AI, data science models and data processing concepts
+Familiarity with major machine learning frameworks, languages and natural language processing (NLP)
+Experience of applying common design principals and patterns 
+Ability to work independently as well as in a collaborative team environment
+Basic software development experience, preferably with JVM languages 
+Ability to write easily testable code including automated unit testing
+Experience working collaboratively with others using version control (e.g. Git) 
+Ability to plot data as part of data exploration activities
+Clear verbal communication skills with an open attitude towards sharing information
+Able to prioritise tasks and work to deadlines
+Good communication skills, with the ability to communicate to a technical/ non-technical audience
+Thriving on collaboration, we welcome candidates who can join us in person for this hybrid role at our vibrant Halifax office, where we're excited to provide hands-on support and foster an inclusive workplace culture. 
+
+Desirable
+
+Knowledge of modern version control and continuous delivery pipeline
+Exposure to troubleshooting issues within development and test environments
+Familiarity with programming languages, such as, Python or R
+Experience of data visualisation and complex data transformations, including ETL tools, such as, Talend, Numpy, Scipy and Pandas
+Exposure to streaming and event-processing architectures including technologies such as Kafka and change-data-capture (CDC) products 
+Comfortable with continuous improvement and sharing input on data best practice
+Familiarity with continuous integration tools and techniques (e.g. Jenkins)
+Participation in development and/or technology communities
+
+The starting salary for this position is $62,000 CAD per annum.
+
+So what are you waiting for? Let’s write the next incredible chapter of our story together.
+
+Embracing our differences 
+
+At Kainos, we operate in a fast moving, dynamic environment, which can mean exciting and varied opportunities for our people to work across different teams, projects and Engineering disciplines. You must have a keen interest in developing a career in Engineering and the expectation is for our employees to be adaptable, curious, and open to working in different teams across Digital Services. With Engineering at the heart of your role; this may mean experiencing Software Engineering, Low Code Engineering and Data/ AI Engineering, we base such moves on customer demand and an understanding of your skillset and interest.
+
+So what are you waiting for? Let’s write the next incredible chapter of our story together.
+
+Embracing our differences 
+
+At Kainos, we believe in the power of diversity, equity and inclusion. We are committed to building a team that is as diverse as the world we live in, where everyone is valued, respected, and given an equal chance to thrive.   We actively seek out talented people from all backgrounds, regardless of age, race, ethnicity, gender, sexual orientation, religion, disability, or any other characteristic that makes them who they are.   We also believe every candidate deserves a level playing field. Our friendly talent acquisition team is here to support you every step of the way, so if you require any accommodations or adjustments, we encourage you to reach out. We understand that everyone's journey is different, and by having a private conversation we can ensure that our recruitment process is tailored to your needs.

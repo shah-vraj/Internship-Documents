@@ -1,0 +1,87 @@
+Job Summary
+
+We are looking for a passionate and detail-oriented **Software Tester** to join our team and ensure the quality and reliability of our Learning Management System (LMS). It is a paid opportunity. The ideal candidate will be responsible for testing the platform's functionality, performance, and user experience, ensuring it meets the needs of students, educators, and internship coordinators. 
+
+
+
+Key Responsibilities
+
+Testing Activities: 
+
+- Design, develop, and execute comprehensive test plans and test cases for LMS modules (e.g., course creation, user enrollment, grading systems) and internship features (e.g., application tracking, progress monitoring). 
+
+- Perform functional testing to validate workflows such as course delivery, internship application processes, mentor-student collaboration, and reporting mechanisms. 
+
+- Conduct regression testing to ensure new features or updates do not disrupt existing functionality. 
+
+- Test system performance under load conditions to evaluate scalability and reliability. 
+
+
+
+Internship-Specific Testing: 
+
+- Validate features like internship application submission, approval workflows, mentor assignments, progress tracking, and certificate generation. 
+
+- Test real-time collaboration tools between mentors and interns (e.g., task management, feedback systems). 
+
+- Ensure seamless integration with external tools such as HR systems or compliance reporting platforms. 
+
+
+
+Automation & Tools: 
+
+- Develop automated test scripts using tools like Selenium or Appium for web and mobile platforms. 
+
+- Perform API testing using Postman or similar tools to validate backend services. 
+
+- Log defects in bug-tracking tools (e.g., Jira) with detailed descriptions and reproducible steps. 
+
+
+
+Required Skills & Qualifications
+
+Essential: 
+
+- Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent practical experience). 
+
+- Strong understanding of software testing principles, methodologies, and tools. 
+
+- Hands-on experience with test case design and execution for web-based platforms. 
+
+- Familiarity with LMS platforms (e.g., Moodle, Blackboard) or EdTech solutions. 
+
+- Knowledge of API testing tools like Postman or Swagger. 
+
+
+
+Preferred:
+
+- Experience with SCORM/xAPI standards for e-learning platforms. 
+
+- Familiarity with internship management systems or workflows. 
+
+- Basic programming skills in Python or Java for test automation scripting. 
+
+- ISTQB certification or equivalent is a plus. 
+
+
+
+Key Attributes 
+
+- Strong analytical skills with attention to detail. 
+
+- Excellent problem-solving abilities to identify root causes of issues. 
+
+- Effective communication skills to collaborate with developers, product managers, and stakeholders. 
+
+
+
+What We Offer 
+
+- Opportunity to work on impactful projects in the EdTech domain. 
+
+- Exposure to cutting-edge LMS technologies and internship management systems. 
+
+- Mentorship from experienced professionals in software testing and development. 
+
+- Flexible working hours with opportunities for growth within the organization. 

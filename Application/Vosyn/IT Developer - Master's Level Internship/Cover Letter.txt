@@ -1,0 +1,12 @@
+I am excited to submit my application for the IT Developer - Master's Level Internship at Vosyn. As a current Master of Applied Computer Science student at Dalhousie University, I am eager to apply my strong technical background in software development, cloud computing, and agile methodologies to contribute to Vosyn’s innovative and rapidly growing AI-driven initiatives. With my hands-on experience in mobile development, backend architecture, and collaborative team environments, I am confident that I can add value to your engineering team.
+
+During my time at Simform Solutions, I had the opportunity to design and implement scalable mobile applications, including Drone Control and Vring, which resulted in a 40% performance improvement. I have experience in optimizing code, ensuring code maintainability, and applying best practices like MVVM architecture and Clean Architecture, which have improved the scalability and stability of the products I’ve worked on. I also have a strong background in cloud platforms (AWS, GCP, Azure), CI/CD pipelines, and containerization with Docker and Kubernetes, all of which I am eager to leverage in your team to help Vosyn maintain and scale its technical infrastructure.
+
+What excites me most about Vosyn is your focus on Artificial Intelligence and your role in reshaping global communication through language synthesis. I am particularly drawn to Vosyn’s collaborative environment where every idea is valued, and innovation is encouraged. I am eager to contribute to your mission while gaining exposure to complex cloud architectures, AI projects, and high-growth startup environments.
+
+In addition to my technical expertise, I am passionate about solving complex problems, and I enjoy collaborating with diverse teams to deliver impactful solutions. I believe my ability to communicate technical concepts clearly to both technical and non-technical audiences will allow me to fit seamlessly into your team.
+
+I would love the opportunity to discuss how my experience and skills align with Vosyn’s goals and how I can contribute to your exciting journey toward an IPO. Thank you for considering my application. I look forward to the possibility of joining your team.
+
+Sincerely,
+Vraj Shah

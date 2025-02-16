@@ -1,0 +1,47 @@
+ViVitro Labs is seeking an analytical, motivated and solutions focused Coop Student with demonstrated product development experience to join our growing team in Victoria, BC. We are an internationally recognized and growing company that provides specialized test equipment solutions to support medical device innovations in the cardiovascular space.
+
+In our small, innovative team you will enjoy the challenge of working on a variety of R&D projects where you will conceptualize, prototype, design, and document products with a user centric approach in mind. Reporting to the Director of Product Development, you will apply your knowledge of engineering design principles and bring practical solutions to ensure our products are of high quality and reliability to maintain ViVitro's brand.
+
+Do you possess a willingness to learn and the ability to manage concurrent tasks? Are you inquisitive and analytical in nature? Do you bring excellent communication skills and the ability to "think outside the box"? If you answered "yes" you will thrive in this role!
+
+We are actively looking for the right student to join our team of engineers in Victoria, BC, Canada for the Summer term (May 2025 - August 2025).
+
+Salary:
+
+Hourly rate for 3rd year student is $24.27 and hourly rate for 4th year student is $25.38
+
+Key Responsibilities:
+Work as an integral member of the engineering team to design and build innovative products
+Create software system concepts
+Build proof of concept prototypes
+Test concept prototypes
+De-bug issues and identify the root cause
+Design subsystems/systems according to design control procedures
+Document design according to design/document control procedures
+Verify design and validate product prototypes
+Transfer design to manufacturing
+Provide other technical assistance as needed
+Report on project progress as requested
+Attend training sessions as needed to expand your technical knowledge and skills
+About ViVitro Labs: ViVitro Labs provides contract testing services and test equipment solutions to support medical device innovations in the cardiovascular space. An internationally recognized and trusted source for testing, with two ISO 17025 accredited laboratories and a reputable history of more than 25 years, ViVitro Labs is a small company relied upon by hundreds of organizations in over 40 countries for its expertise in the testing industry's most advanced cardiovascular devices. ViVitro Labs works closely with universities, medical device manufacturers and regulatory agencies to support their research, regulatory, and production requirements. As a leader in the heart valve testing industry, ViVitro is an active participant in several ISO working groups.
+
+Don't meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At ViVitro Labs, we are dedicated to building a diverse, inclusive, and authentic workplace, so if you're excited about this role but your past experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles! ViVitro Labs welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.
+
+Education and Experience Required/Desired:
+Working towards a Bachelor/Master degree in Software Engineering or related fields is required
+Previous COOP experience is desired
+Previous design project experience is desired
+Availability for an additional 4-month work term is desired
+Senior students are desired
+Knowledge/Skills/Competencies Desired:
+Willingness to be challenged intellectually
+Capability to learn new things
+Troubleshooting abilities
+Experience with C# programming
+Experience with Git/Github or Tuleap
+Experience with Labview
+Experience with algorithm design
+Knowledge of engineering design processes
+Experience with electronic components and firmware development
+Familiarity with working in a regulated product development environment
+Knowledge of Video Image Processing with OpenCV or equivalent

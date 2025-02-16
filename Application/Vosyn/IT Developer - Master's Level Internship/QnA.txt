@@ -1,0 +1,86 @@
+-----------------------------------------------------------------
+1. The Vosyn values and ethos are outlined on our careers website as CHAMPS: Please provide 1 example for each of how you have demonstrated these in your professional or personal life.*
+a. Collaborative Spirit
+b. Heartfelt Passion
+c. Agile Innovation
+d. Mutual Respect & Engagement
+e. Proactive Learning
+f. Scrappy Resourcefulness
+Reply: -------------------------
+a. Collaborative Spirit:
+At my previous organization i.e. Simform Solutions, I worked closely with cross-functional teams, including designers, product managers, and backend developers, to build scalable Android and iOS applications. One of the project required integration with a complex real-time video streaming feature, which involved constant communication and brainstorming with my team to troubleshoot latency issues. By openly sharing knowledge and collaborating, we reduced the feature’s load time by 30% and improved overall app performance.
+
+b. Heartfelt Passion:
+I genuinely love software development and constantly seek ways to improve my skills. Beyond academics and work, I contribute to open-source projects, such as my work on Android_Project_Setup, where I automated boilerplate code generation using Cookiecutter. I find immense joy in building efficient solutions, helping others, and continuously pushing my limits to create impactful technology. Currently, I have one of my application in internal testing phase on PlayStore and will be soon available globally for other users which showcases my passion for software development.
+
+c. Agile Innovation:
+While working on a Drone Control application, our team faced a challenge where the initial architecture led to performance bottlenecks. We quickly pivoted to an event-driven architecture and leveraged Kotlin Coroutines to enhance concurrency. This iterative approach improved response times significantly and allowed us to meet tight deadlines without compromising quality.
+
+d. Mutual Respect & Engagement:
+As a mentor to Junior Developers, I’ve worked with others developers from diverse backgrounds and skill levels. I ensure that every developer feels heard and supported by actively listening, encouraging participation, and tailoring explanations to different learning styles. This has helped create an engaging and respectful learning environment.
+
+e. Proactive Learning:
+Understanding the growing importance of cloud technologies, I took the initiative to complete my coursework and hands-on projects involving AWS, GCP, and Azure. I also keep myself updated by following industry blogs, attending developer conferences, and engaging in AI/ML hackathons to explore emerging trends.
+
+f. Scrappy Resourcefulness:
+While building a scoring system for a card game, I had limited access to external APIs and resources. Instead of relying on paid solutions, I engineered a custom algorithm to track scores efficiently, leveraging local storage and optimized data structures. This resourceful approach allowed me to create a fully functional app with minimal dependencies.
+-----------------------------------------------------------------
+
+
+-----------------------------------------------------------------
+2. AI is the future.*
+a) Why are you interested in working with an AI start-up?
+b) What have you done to ensure you are knowledgeable and/or keeping up with the latest and greatest that this new bleeding edge technology/industry is offering?  
+Reply: -----------------------
+a) AI has the power to revolutionize how we interact with technology, and Vosyn’s mission of leveraging AI for global communication aligns perfectly with my passion for innovative solutions. Startups provide an exciting environment where I can work on cutting-edge projects, adapt quickly, and directly see my contributions making an impact. I thrive in dynamic settings where creativity and technical problem-solving go hand in hand, making Vosyn an ideal place for me to grow and contribute.
+
+b) I actively follow AI advancements through research papers, online courses, and industry blogs like OpenAI’s updates and Google AI. Additionally, I participate in AI/ML hackathons and have experimented with TensorFlow and PyTorch for basic model training. I also explore AI-driven APIs, such as GPT models and speech synthesis, to understand real-world applications and stay ahead of emerging trends.
+-----------------------------------------------------------------
+
+
+-----------------------------------------------------------------
+3. Describe the contribution you think you will be able to make during your time at Vosyn?*
+Reply: -----------------------
+With my expertise in Android development, cloud platforms, and CI/CD automation, I can contribute by optimizing Vosyn’s mobile or backend infrastructure. My experience with memory management, dependency injection (Hilt), and API integrations (Retrofit, OkHttp) will help improve application efficiency. Additionally, my background in AI experimentation and proactive learning will allow me to quickly adapt to Vosyn’s AI-driven initiatives. I’m excited to bring my problem-solving mindset, collaborative approach, and eagerness to innovate to help Vosyn scale its technology while enhancing the user experience.
+-----------------------------------------------------------------
+
+
+-----------------------------------------------------------------
+4. Describe your experience with troubleshooting complex IT issues. Provide an example where you successfully resolved a critical technical problem.
+Reply: -----------------------
+In my previous role, a critical production server faced unexpected downtime due to a misconfigured load balancer. I quickly identified the issue by analyzing logs, conducted real-time debugging, and implemented a fix by adjusting the routing rules. As a result, we restored service within 20 minutes, preventing major business disruption.bottlenecks.
+-----------------------------------------------------------------
+
+
+-----------------------------------------------------------------
+5. How do you approach the task of managing and maintaining IT infrastructure, such as networks, servers, and security systems? What tools and techniques do you prefer to use?
+Reply: -----------------------
+Managing and maintaining IT infrastructure requires a proactive and structured approach to ensure high availability, security, and performance. I focus on monitoring, automation, and optimization to enhance efficiency.
+
+For on-premise infrastructure, I ensure that network configurations, server management, and security protocols are properly maintained. I have experience using tools like Nagios and Zabbix for real-time monitoring, configuring firewalls and VPNs for secure access, and setting up redundancy measures to prevent downtime. In a previous project, I optimized server load balancing by implementing NGINX reverse proxies, improving system uptime by 30%.
+
+For cloud-based infrastructure, I have worked with AWS, GCP, and Azure to deploy and scale applications. I prefer using Terraform and CloudFormation for Infrastructure-as-Code (IaC) to automate provisioning and ensure consistency. I have also managed CI/CD pipelines using GitHub Actions and GitLab CI, ensuring smooth deployments while minimizing errors. In a past project, I migrated a monolithic system to a microservices architecture on Kubernetes, reducing deployment time by 40% and enhancing scalability.
+
+Security is a priority in both on-premise and cloud environments. I implement role-based access control (RBAC), audit logging, and encryption protocols to protect sensitive data. I also conduct regular vulnerability assessments using tools like OWASP ZAP and AWS Security Hub to mitigate risks. By integrating automation, monitoring, and security best practices across both on-premise and cloud infrastructures, I ensure optimal performance, reliability, and scalability while aligning with business needs.
+-----------------------------------------------------------------
+
+
+-----------------------------------------------------------------
+6. Can you explain a situation where you had to collaborate with cross-functional teams to implement an IT solution? What was your role, and what was the outcome?
+Reply: -----------------------
+At Simform, I collaborated with the DevOps and cybersecurity teams to set up a zero-trust network architecture for cloud infrastructure. My role involved configuring identity-based access controls, implementing security policies, and ensuring seamless integration. The project improved security posture and reduced unauthorized access incidents by 40%.
+-----------------------------------------------------------------
+
+
+-----------------------------------------------------------------
+7. What steps do you take to document IT processes and procedures? Why do you think this is important?
+Reply: -----------------------
+I create detailed IT documentation covering system configurations, troubleshooting guides, and security policies using tools like Confluence and Notion. Clear documentation ensures smooth knowledge transfer, reduces onboarding time for new team members, and minimizes downtime in critical incidents.
+-----------------------------------------------------------------
+
+
+-----------------------------------------------------------------
+8. Have you worked with IT service management tools like ITIL? How have these tools helped you improve IT support services?
+Reply: -----------------------
+While I haven’t worked directly with ITIL-based service management tools like ServiceNow, I have experience managing IT support workflows using JIRA for ticket tracking and internal documentation tools like Confluence and Notion. I focus on structured issue resolution, prioritization, and maintaining clear documentation to streamline IT processes. Additionally, I am eager to learn and adapt to ITIL-based tools to enhance IT support efficiency.
+-----------------------------------------------------------------

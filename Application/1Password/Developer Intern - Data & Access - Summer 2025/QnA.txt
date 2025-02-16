@@ -1,0 +1,22 @@
+Do you have experience building android apps? If yes, explain the apps that you’ve built.✱
+Yes, I have extensive experience building Android apps using Kotlin and Jetpack Compose. Below are a couple of apps that I’ve developed:
+SpendWise:
+I developed an expense-tracking mobile app that provided users with actionable financial insights. The app used Room Database for encrypted data storage and implemented a seamless user interface to track and manage expenses. I collaborated with designers to fine-tune the app’s UI/UX, which contributed to a 95% user satisfaction rate. This application is currently in internal testing phase on PlayStore.
+Habit:
+This app helps users track their habits by syncing data in real time across devices. I integrated secure backend protocols using Spring Boot and MongoDB to ensure data reliability. I also focused on making the app engaging, which resulted in a 40% increase in user engagement.
+Both apps focused on creating smooth user experiences and secure, reliable functionality, and I made sure to optimize their performance and scalability.
+
+Do you have experience with Android activity, fragment, view lifecycles. If yes, explain.✱
+Yes, I have experience with Android activity, fragment, and view lifecycles. I have worked extensively with the Android lifecycle to ensure efficient resource management, optimize performance, and prevent memory leaks. For instance, I’ve used lifecycle-aware components such as LiveData, ViewModel, and LifecycleObserver to manage data and UI state efficiently. This allowed for smoother transitions between app states and ensured that background tasks were properly managed. In one of my projects, I focused on optimizing the lifecycle management in an app that dealt with background data synchronization and UI updates. By carefully managing the lifecycle of fragments and activities, I reduced crashes related to improper resource handling and improved the app's overall performance.
+
+List all previous internship experiences(with organization & project details)✱
+Currently, I have not had any formal internship experiences (in Canada) as my previous roles was full-time position. However, my role at Simform Solutions provided me with internship-like opportunities in terms of hands-on learning, working on production-level Android applications, and collaborating closely with senior engineers and other departments.
+Organization: Simform Solutions (Dec 2021 - Nov 2023)
+Project: Development and optimization of multiple Android apps
+The types of project I worked on includes:
+1. Drone control application which provides landscape UI integrating Google maps and live drone location and control.
+2. Vring - A haptic messenger application where user can define patterns with their buttons to send some form of haptic to other users to communicate encrypted messages.
+3. OneCloud - Mobile application that features Meetings (Jitsi Meet), Chat (Matrix), Channels/Groups (Backend server) and Current status/profile management (Online/Offline/Last seen).
+4. POC - multiple POC's involving Dual Camera POC where both front and back camera are in action at same time, POC for AR - placing 3d models in real world and navigate through application.
+5. Contribution in development of Android Project Setup template which provides boilerplate code for new projects in Android by incorporating required dependencies, lint and many other things.
+While I haven’t had an official internship yet, I’ve actively participated in projects that involved practical learning and real-world problem-solving at a production scale. For example - SpendWise in internal testing phase on PlayStore.

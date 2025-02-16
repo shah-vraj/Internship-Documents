@@ -1,0 +1,56 @@
+Software Development Intern
+
+Montreal, Quebec 
+
+We are Silicon Labs. We are a leader in secure, intelligent wireless technology for a more connected world. Our integrated hardware and software platform, intuitive development tools, unmatched ecosystem and robust support make us the ideal long-term partner in building advanced industrial, commercial, home and life applications. We make it easy for developers to solve complex wireless challenges throughout the product lifecycle and get to market quickly with innovative solutions that transform industries, grow economies and improve lives 
+
+ 
+
+Meet the Team 
+
+Our Montreal office is home to various teams belonging to the IoT software division, including Platform, Wireless Tools and Protocols, QA, Application Specialists and Project Management teams. We pride ourselves on the working atmosphere we maintain, always fostering excellent collaboration and communication.
+
+As an intern, you’ll join the Co-Processor Communication (CPC) team, a dynamic group dedicated to enabling seamless communication between IoT devices and systems. This team plays a critical role in designing and developing innovative software solutions that drive our IoT strategies. Working closely with experienced developers and leveraging diverse technologies, you’ll contribute to building components that power real-world applications, from smart homes to industrial automation. Your work will also extend to open-source projects, offering you a unique opportunity to make a global impact while collaborating in an inclusive and forward-thinking environment. 
+
+Responsibilities
+
+As an intern on the Co-Processor Communication (CPC) team, you will play an essential role in advancing our IoT software solutions through the following key responsibilities:
+
+Automate Metric Measurement:
+
+Develop and implement tools to automate the measurement of various CPC metrics, including boot time, power consumption, throughput, interrupt disable time, code size, RAM usage, and CPU usage. 
+Ensure that these metrics are tracked, logged, and maintained consistently over time for analysis and optimization. 
+
+
+Automate Linux Build and Distribution:
+
+Streamline the process of building Linux distributions and automate their deployment to team members, enhancing efficiency and reducing manual effort. 
+
+
+Fuzz Testing and Automation:
+
+Conduct intensive fuzz testing on CPC components to identify and address potential vulnerabilities and edge cases. 
+Automate this testing process using a Jenkins pipeline, ensuring continuous and reliable execution. 
+
+
+Through these tasks, you’ll gain hands-on experience with critical development and automation tools, contribute to open-source methodologies, and support the creation of software deployed worldwide.
+
+ 
+
+Skills You Will Need  
+
+Minimum Qualifications:  
+
+BS/MS/PhD Computer Engineering, Computer Science, Electrical Engineering degree or any other type of related program to software development 
+Programming Skills: Proficiency in C and Python for development and automation. 
+Linux Expertise: Good understanding of Linux systems and building/configuring distributions. 
+Team Collaboration: Ability to work effectively in a team and communicate clearly. 
+Proficiency in French and English (both written and spoken) 
+
+
+The following qualifications will be considered a plus:  
+
+Embedded Systems Knowledge: Understanding metrics like boot time, power consumption, and CPU usage. 
+Continuous Integration (CI): Experience with Jenkins or similar CI/CD tools. 
+Fuzz Testing: Knowledge of fuzz testing and software vulnerability analysis. 
+Version Control: Proficiency with Git for code management and collaboration.

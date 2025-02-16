@@ -1,0 +1,54 @@
+PENN Entertainment, Inc. is North America’s leading provider of integrated entertainment, sports content, and casino gaming experiences. From casinos and racetracks to online gaming, sports betting and entertainment content, we deliver the experiences people want, how and where they want them.
+
+We’re always on the lookout for those who are passionate about creating and delivering cutting-edge online gaming and sports media products. Whether it’s through ESPN BET, Hollywood Casino, theScore Bet Sportsbook & Casino, or theScore media app, we’re excited to push the boundaries of what’s possible. These state-of-the-art platforms are powered by proprietary in-house technology, a key component of PENN’s omnichannel gaming and entertainment strategy.
+
+When you join PENN Entertainment’s digital team, you’ll not only work on these cutting-edge platforms through theScore and PENN Interactive, but you’ll also be part of a company that truly cares about your career growth. We’re committed to supporting you as you expand your skills and explore new opportunities.
+
+With locations throughout North America, you can build a future at PENN Entertainment wherever you are. If you want to challenge conventions in gaming, media and entertainment, we want to talk to you.
+
+Work-term: May 5, 2025 - August 22, 2025
+
+Number of Openings: 1
+
+Hiring Teams: 
+
+Wagering
+About the Team:
+
+As part of the Wagering team, you will be working with a team of smart, friendly, and dedicated Engineers, Product Managers and Designers determined to deliver some of the best apps the market has to offer. You will get an opportunity to contribute at a level that is virtually indistinguishable from that of a full-time employee. We want you to be challenged and to get the full experience of what it's like to work at theScore!
+
+About the Work:
+
+Build end-to-end features of the app; individually or through pairing with other developers
+Write clean, understandable and testable code (our apps are 100% covered by unit tests)
+Work in a collaborative Agile environment with product managers, designers, and other developers
+Champion technical and functional improvements within the app to stay on the cutting edge of technology
+Have a direct impact on the product
+Solve complex technical challenges
+Other duties as required.
+About You:
+
+1+ years experience in Android development
+Experience creating custom UI elements and creating a rich, interactive UX
+Experience using AndroidX libraries
+Experience with dependency injection frameworks (Koin, Dagger, Hilt)
+Solid understanding of modern software architectures (MVVM)
+Knowledge of mobile network communication (okHttp, retrofit)
+Nice to haves
+
+Experience writing unit tests (jUnit)
+Experience with GraphQL (Apollo Android)
+Experience with writing UI unit tests (Robolectric, Espresso)
+Experience in mobile devOps, CI/CD (GitHub Actions, Jenkins, CircleCI, TravisCI)
+Experience with profiling, troubleshooting and optimizing app performance
+Passionate about sports (no matter how big or small) 
+What We Offer:
+
+Fun, relaxed work environment
+A voice. We're dedicated to open communication which empowers our employees to drive the company's culture
+A company that encourages a culture of inclusion and diversity
+Opportunity to work on large scale consumer-facing applications with millions of users
+Career growth. Mentorship from some of the brightest people in the industry
+Candidates residing in Ontario requiring special accommodation can email accessibilityoffice@thescore.com
+
+theScore is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability or age.

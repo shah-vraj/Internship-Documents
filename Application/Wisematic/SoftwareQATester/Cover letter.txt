@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+Innovation in education technology thrives on platforms that are reliable, seamless, and user-friendly. As someone who has spent over two years developing and delivering high-quality software solutions, I understand the importance of ensuring products meet the highest standards before they reach users. I’m excited to apply for the Software Tester role, where I can leverage my development expertise and passion for quality assurance to enhance your Learning Management System (LMS).
+
+In my role as a Software Engineer at Simform Solutions, I collaborated closely with QA teams to design and execute comprehensive test strategies for customer-facing applications. From functional testing to performance optimization, I played a key role in identifying and resolving critical bugs, ensuring fault-tolerant software solutions. Notably, I automated diagnostic procedures using Python scripts, reducing debugging time and streamlining development pipelines. These experiences have strengthened my analytical skills and taught me the value of rigorous testing in delivering scalable, user-friendly products.
+
+Beyond manual and functional testing, I have a strong foundation in test-driven development (TDD) and have contributed to backend services using Kotlin and Spring Boot, ensuring robust architecture that seamlessly handles heavy user loads. My experience with tools like JIRA for bug tracking and CI/CD pipelines has enabled me to implement testing automation and maintain system resilience.
+
+I’m particularly drawn to this role because of its focus on internship-specific features within the LMS platform. My understanding of EdTech workflows and experience with backend services make me confident in validating features like progress tracking and real-time collaboration tools.
+
+I would love the opportunity to bring my meticulous approach to testing and my collaborative mindset to your team. Thank you for your time and consideration. I look forward to the possibility of discussing how my experience and skills can contribute to your mission.
+
+Warm regards,
+
+Vraj Shah
+shahvraj2016@gmail.com | +19029941436 | https://www.linkedin.com/in/vraj-shah-6378941b7/
