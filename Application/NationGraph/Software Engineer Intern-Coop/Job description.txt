@@ -1,0 +1,76 @@
+We're looking for people who at their core, love to build!
+
+Description
+**Important Note** The ATS has this job posting set as remote but our primary goal is to hire for an in-person Toronto position. Salary figures are posted in CAD.
+
+
+
+About NationGraph
+
+
+
+At NationGraph, we believe in a more efficient market for government contracting. Navigating the world of government procurement is a complex task involving data aggregation, rules and regulation, regional complexities, RFI/RFQ/RFP monitoring, and budget cycles and constraints amongst many others.
+
+
+
+We believe better software enables businesses to become more effective in seeking and reaching out to the decision makers. More effective in staying compliant with complex rules and regulations. Better at navigating and forecasting the various funding cycles within different layers of government.
+
+
+
+Our mission is to simplify the complicated process of doing business with the government by building great software to solve a real problem.
+
+
+
+You will be joining a small founding team that:
+
+Has successfully built, scaled and sold companies in the past.
+Built software infrastructure that processed billions of dollars.
+Backed by world-class VCs and operating partners that have invested and built iconic companies.
+
+
+About the role
+
+
+
+What You'll Do
+
+Take web applications from 0 to 1 — we're looking for people who at their core, love to build!
+ETL infra
+Data verification
+Collaborate on our product and technical vision
+Help build the foundation of our product
+
+
+What you'll Need
+
+Proficiency in JavaScript/TypeScript (Node/Next, React, vanilla JS)
+Proficiency in Python
+To have independently shipped products and/or prototypes in the past
+Ability to turn business and product ideas into engineering solutions
+The desire to work in a fast-paced environment, continuously grow, and master your craft
+
+
+And most importantly — humility towards the problems facing our customers and a deep desire to solve them.
+
+
+
+What You'll Get From Us
+
+See the products you build from 0 to 1 turn into a business, solve real world problems that matter and work directly with interesting founders in their journey as they improve the infrastructure our government relies on at every level.
+We believe in working with great people with a diversity of thought, an eagerness to learn, boldness to challenge the status quo, and to simply care deeply about the work we put out. If you align with us here, we strive to shape the working environment as such.
+
+
+Monthly Base Salary Range (Canada):
+
+$4,500—$5,500 CAD
+
+
+
+We believe in working in person being the norm with WFH days taken as necessary
+
+
+
+**Important Note** The ATS has this job posting set as remote but our primary goal is to hire for an in-person Toronto position. Salary figures are posted in CAD.
+
+Salary
+$4,500 - $5,500 per month

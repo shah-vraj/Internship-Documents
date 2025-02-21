@@ -1,0 +1,5 @@
+Why are you the best candidate for this position?*
+
+With my strong foundation in data analysis, programming, and problem-solving, I am confident that I am an excellent fit for this position. Pursuing my Master of Applied Computer Science at Dalhousie University, I have developed expertise in Python, SQL, and data visualization tools like Tableau and Power BI. My experience working with large datasets, building dashboards, and identifying data-driven insights aligns well with the key responsibilities of this role.
+
+Additionally, my ability to collaborate with teams, work in Agile environments, and apply analytical thinking to real-world problems makes me a strong candidate. My passion for leveraging data to drive decision-making, combined with my eagerness to learn in a fast-paced trading environment, ensures that I will make meaningful contributions to your team.

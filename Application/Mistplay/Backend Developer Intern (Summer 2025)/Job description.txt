@@ -1,0 +1,46 @@
+About the job
+Mistplay est le programme de fidélité n° 1 pour les joueurs sur mobile et compte plus de 20 millions d'utilisateurs dans le monde entier. Des millions de joueurs utilisent notre plateforme pour découvrir des jeux, entrer en contact avec leurs amis et gagner de superbes récompenses. Nous sommes une entreprise rentable en forte croissance, récemment classée comme la troisième entreprise technologique à la croissance la plus rapide au Canada. Notre passion pour l'innovation est le moteur de notre croissance dans le secteur, grâce au développement de nouvelles applications, et d'outils Ad Tech puissants. Chez Mistplay, nous faisons appel à la collaboration stratégique, créative et axée sur les données pour nourrir notre imagination sur ce qui peut être réalisé.
+
+Mistplay is the #1 Loyalty Program for mobile gamers - with over 20 million users worldwide. Millions of gamers use our platform to discover games, connect with friends, and earn awesome rewards. We are a fast growing profitable company, recently ranked as the 3rd fastest growing technology company in Canada. Our passion to innovate drives our growth across the industry with the development of new apps, and powerful ad tech tools. Mistplay embraces strategic, creative, and data-driven collaboration to fuel our imagination of what can be achieved.
+
+At Mistplay, we’re building the ultimate loyalty platform for mobile gamers, and our backend services play a crucial role in delivering seamless, high-performance experiences. As a Backend Developer Intern, you’ll gain hands-on experience working with backend technologies while helping to power key features of our platform.
+
+You'll collaborate with experienced engineers to build, optimize, and scale backend services that support millions of users. If you're eager to develop your problem-solving skills, collaborate with a supportive team, and gain hands-on experience in building impactful solutions, this role is for you!
+
+What You’ll Do At Mistplay
+
+Assist in designing, developing, and deploying backend services that support Mistplay’s rewards and engagement platform.
+
+Write and maintain scalable, secure, and high-performance code in TypeScript using NestJS and ExpressJS.
+
+Work with cross-functional teams to integrate APIs and backend services.
+
+Participate in troubleshooting and debugging to maintain system reliability.
+
+Contribute to technical discussions and collaborate with the engineering team to explore AI-driven solutions that enhance personalization and user experience.
+
+What You’ll Bring To Mistplay
+
+Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+
+Familiarity with JavaScript/TypeScript and Node.js .
+
+Interest in learning frameworks like NestJS and ExpressJS.
+
+Strong problem-solving skills and a keen eye for clean, maintainable code.
+
+Passion for working in a collaborative, fast-paced environment.
+
+Bonus: Experience with generative AI, prior backend development projects, or familiarity with Git and RESTful APIs.
+
+Nous remercions tous(tes) les candidat(e)s. Le genre masculin a été utilisé dans le but d'alléger le texte. Nous souscrivons au principe de l’équité en matière d’emploi.
+
+Pourquoi choisir Mistplay ?
+
+Nous faisons tout pour rendre notre environnement de travail aussi accueillant et plaisant que possible ! Un poste chez Mistplay s’accompagne de toute une série d'avantages que nous proposons en mode virtuel ou présentiel : déjeuners d'équipe, soirées jeux, événements à l'échelle de l'entreprise, et bien plus encore.
+
+Notre culture est profondément ancrée dans la croissance et soutenue par une équipe de personnes intelligentes, dynamiques et enthousiastes. Nous utilisons les données pour apprendre, améliorer et adapter en permanence. Nous favorisons un environnement dans lequel chacun est encouragé à partager ses idées, à repousser les limites, à prendre des risques calculés et à voir ses visions se concrétiser.
+
+Why Mistplay?
+
+We strive to make our work environment as inviting and fun as possible! Working at Mistplay is coupled with a whole array of perks that we've adopted virtually and in-person: Team Lunches, game nights, company-wide events, and so much more. Our culture is deeply rooted in growth and upheld by a team of smart, dynamic, and enthusiastic people. We utilize data to constantly learn, improve, and adapt. We foster an environment where everyone is encouraged to share their ideas, push boundaries, take calculated risks, and witness their visions come to life.

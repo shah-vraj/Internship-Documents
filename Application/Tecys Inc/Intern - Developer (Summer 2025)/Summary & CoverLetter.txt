@@ -1,0 +1,16 @@
+Brief Summary for Application
+"As a passionate Software Developer with experience in backend development using Java and Spring Boot, I have worked on scalable solutions that enhance performance and reliability. My expertise in relational databases, CI/CD automation, and test-driven development aligns well with Tecsys’ mission to build robust supply chain solutions. I thrive in Agile environments, enjoy problem-solving, and am eager to contribute my skills to impactful projects in the healthcare and distribution sectors."
+
+Cover Letter
+Dear Hiring Team at Tecsys,
+
+With a strong background in backend development using Java, Spring Boot, and relational databases, I am excited about the opportunity to contribute to Tecsys as a Software Development Intern. My experience in building scalable, high-performance applications and implementing CI/CD pipelines (Jenkins, GitLab CI) aligns well with your development practices.
+
+During my time as a Software Engineer at Simform Solutions, I optimized SQL queries for improved database performance and followed Test-Driven Development (TDD) principles, ensuring reliable and maintainable code. I also collaborated in Agile teams to accelerate feature rollouts, reducing development time by 30%.
+
+What excites me about Tecsys is its commitment to transforming supply chains through technology. Being part of a Scrum team that builds impactful solutions in healthcare and distribution is an opportunity I would value.
+
+I look forward to the possibility of contributing to your team and discussing how my skills align with Tecsys’ goals. Thank you for your time and consideration.
+
+Best regards,
+Vraj Shah

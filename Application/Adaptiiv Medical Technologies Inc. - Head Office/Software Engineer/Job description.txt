@@ -1,0 +1,29 @@
+Do you want to play a role in healthcare innovation? Are you looking for work with meaning? If so, Adaptiiv is looking for a Software Engineering Co-op Student to join our team for the summer term.
+
+As a key member of our Software Engineering team, you will assist in developing and maintaining our suite of desktop applications with a strong focus on C# and Python. You will work closely with Senior Software Engineers to produce clean, scalable code, ensuring robust quality through comprehensive unit tests and adherence to industry best practices. This role blends core desktop application development with opportunities to expand your expertise in both front-end and back-end solutions.
+
+Key Responsibilities:
+
+C# Desktop Development:
+Develop, enhance, and maintain desktop applications using C# and the .NET framework.
+Write and execute unit tests using frameworks to ensure application reliability.
+Python Application Development:
+Assist in building Python-based desktop applications, focusing on creating intuitive and user-friendly interfaces.
+Develop and maintain test suites to verify code quality.
+Collaborative Development:
+Provide support to Senior Software Engineers and Full-Stack Developers in both coding and design activities.
+Apply SOLID design principles and best practices to contribute to a scalable and maintainable codebase.
+Quality Assurance:
+Engage in QA/QC activities, performing systematic tests to identify and address bugs or performance issues.
+Contribute to the development and maintenance of documentation related to code, testing procedures, and integrations.
+Tool and Integration Development:
+Help create or evaluate tools that enable internal teams to interact efficiently with our data and desktop systems.
+Stay abreast of emerging desktop technologies and frameworks to drive continuous improvement.
+
+Job requirements
+Currently completing post-secondary education in Computer Science or a related field.
+Good working knowledge of C# and Python
+Basic proficiency in front-end development for desktop interfaces.
+Familiarity with software version control systems (e.g., Git) and continuous integration workflows.
+Excellent problem-solving skills and an eagerness to learn and adapt to new technologies.
+Strong communication skills and a collaborative mindset, essential for working in a team environment.

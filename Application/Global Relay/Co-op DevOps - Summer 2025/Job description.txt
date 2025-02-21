@@ -1,0 +1,52 @@
+Who we are:
+
+For over 20 years, Global Relay has set the standard in enterprise information archiving with industry-leading cloud archiving, surveillance, eDiscovery, and analytics solutions. We securely capture and preserve the communications data of the world’s most highly regulated firms, giving them greater visibility and control over their information and ensuring compliance with stringent regulations.
+
+Though we offer competitive compensation and benefits and all the other perks one would expect from an established company, we are not your typical technology company. Global Relay is a career-building company. A place for big ideas. New challenges. Groundbreaking innovation. It’s a place where you can genuinely make an impact – and be recognized for it.
+
+We believe great businesses thrive on diversity, inclusion, and the contributions of all employees. To that end, we recruit candidates from different backgrounds and foster a work environment that encourages employees to collaborate and learn from each other, completely free of barriers.
+
+We encourage you to apply if your qualifications and experience are a good fit for any of our openings.
+
+Your role:
+
+As a Co-op DevOps you will be responsible for the reliability and smooth operation of production and test environments and build automation to improve reliability and efficiency of code delivery from build to production.
+
+Your responsibilities:
+
+Writes clear and concise code under guidance that comply with standards set by the team and the company.
+Capable of taking well-defined sub-tasks and completing these tasks.
+Learns testing best practices.
+ 
+
+About you:
+
+Understanding of Computer Science subjects
+Understanding of Object Oriented Programming concept
+Understanding of software systems concepts such as networking, firewalls, protocols, and databases.
+Understanding of software delivery practices such as Git branching models and configuration management.
+Experience with:
+Linux system administration.
+Automation using Bash, Python or other similar scripting languages
+Experience with the following would be considered an asset:
+Puppet, Ansible, or Fabric
+CI/CD tools such as Jenkins or Bamboo
+Build systems such as maven and Gradle
+Java development
+ 
+
+To Apply: 
+
+Think you’re a great fit for this job? Apply on our Global Relay Careers page with your cover letter, resume, and university transcripts in one PDF document. No emails or phone calls please; candidates must be legally authorized to work in Canada. 
+
+What you can expect:
+
+At Global Relay, there’s no ceiling to what you can achieve. It’s the land of opportunity for the energetic, the intelligent, the driven. You’ll receive the mentoring, coaching, and support you need to reach your career goals. You’ll be part of a culture that breeds creativity and rewards perseverance and hard work. And you’ll be working alongside smart, talented individuals from diverse backgrounds, with complementary knowledge and skills.
+
+Global Relay is an equal-opportunity employer committed to diversity, equity, and inclusion.
+
+We seek to ensure reasonable adjustments, accommodations, and personal time are tailored to meet the unique needs of every individual.
+
+We understand flexible work arrangements are important, and we encourage that in our work culture. Whether it’s flexibility around work hours, workstyle, or lifestyle, we want to ensure our employees have a healthy work/life balance. We support and value a hybrid work model that blends collaboration with the team in the office and focus time from the comfort of your home.
+
+To learn more about our business, culture, and community involvement, visit www.globalrelay.com.

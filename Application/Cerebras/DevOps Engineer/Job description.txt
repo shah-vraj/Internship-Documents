@@ -1,0 +1,25 @@
+Cerebras has developed a radically new chip and system to dramatically accelerate deep learning applications. Our system runs training and inference workloads orders of magnitude faster than contemporary machines, fundamentally changing the way ML researchers work and pursue AI innovation.
+
+We are innovating at every level of the stack – from chip, to microcode, to power delivery and cooling, to new algorithms and network architectures at the cutting edge of ML research. Our fully-integrated system delivers unprecedented performance because it is built from the ground up for deep learning workloads.
+
+Cerebras is building a team of exceptional people to work together on big problems. Join us!
+
+
+About The Role
+
+You will develop and maintain the infrastructure required to build, test, operate, simulate, and evaluate the Cerebras software stack. As a DevOps engineer, you will be responsible for designing efficient, scalable workflows for automating processes in the cloud and in our datacenter. You will work closely with the development teams to monitor the quality and performance of the software test that runs on the Wafer Scale Engine (WSE), the world’s largest and fastest AI computer.
+
+Requirements
+
+Enrolled in the University of Toronto's PEY program with a degree in Computer Science, Computer Engineering, or other related disciplines.
+Experience in software development environments.
+Experience building tools, libraries and automation framework for internal customers. 
+Experience building services on top of AWS or other cloud platforms at scale.
+Proficient in Python, shell scripting, Makefiles.
+Strong end-to-end triage, debug, and troubleshooting skills.
+Experience developing fixtures, hooks, and plugins in pytest framework is desired.
+Experience with Jenkins and other CI/CD platforms and regressions is desired.
+Expertise with GitHub Actions and GitHub webhooks is desired.
+UI experience highly desirable.
+Familiar with Docker, Kubernetes and container technology in general.
+Cerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.

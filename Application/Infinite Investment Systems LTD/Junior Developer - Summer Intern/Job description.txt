@@ -1,0 +1,68 @@
+About the job
+About the job
+
+Infinite Investment Systems Ltd. is a leading Fintech firm in the Canadian wealth management industry, providing innovative solutions to investment management firms across the country. We are seeking a motivated and talented Junior Developer for a summer intern position in 2025 to join our dynamic team at our main office in Toronto.
+
+ 
+
+As a Junior Developer – Summer Intern, you will have the opportunity to work on our cutting-edge Data Platform, a foundational enterprise solution that offers larger institutions greater control over their data. This role will allow you to gain hands-on experience in the fintech industry while contributing to the development of solutions that improve operational efficiency and productivity for investment management firms.
+
+ 
+
+Join our team and be part of shaping the future of wealth management technology. If you're passionate about software development, thrive on challenges, and want to make a tangible difference in the fintech sector, Infinite Investment Systems is your opportunity. Help us create innovative financial products that transform the industry while growing your career in a dynamic, impactful environment.
+
+ 
+
+What You'll Do
+
+Collaborate with our experienced development team to enhance and maintain our Data Platform
+Assist in designing and implementing new features for our enterprise solutions
+Participate in code reviews and contribute to improving our development processes
+Help optimize database queries and improve overall system performance
+Engage in troubleshooting and bug fixing to ensure high-quality software delivery
+Learn and apply best practices in software development within a fintech context
+Contribute to documentation and technical specifications for our products
+ 
+
+Required Skills
+
+Currently enrolled in a Computer Science, Software Engineering, or related program
+Strong programming skills in Python
+Proficiency with Pandas for data manipulation and analysis
+Experience with FastAPI for building high-performance APIs
+Familiarity with Git and GitHub for version control and collaboration
+Solid understanding of SQL and database concepts
+Excellent problem-solving skills and attention to detail
+Strong communication skills and ability to work effectively in a team environment
+ 
+
+Nice to Have
+
+Knowledge of wealth management or finance concepts
+Experience with UI/UX development (JavaScript, React, Tkinter, etc.)
+Understanding of Distributed Ledger Technology
+Exposure to Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) pipelines
+Interest in the financial technology sector and investment management industry
+ 
+
+This position is in-person at our main office location:
+
+100 King St W, Suite 5310
+
+Toronto, ON M5X 1E1
+
+ 
+
+We look forward to welcoming a talented summer intern to our team for 2025. Join us in our mission to revolutionize the wealth management industry through innovative technology solutions. 
+
+ 
+
+Infinite Investment Systems Ltd. (IIS) is committed to the principles of Equal Employment Opportunity and the prohibition of discrimination and harassment of any kind. We strive to provide a work environment that is free of discrimination and harassment, in full compliance with the Ontario Human Rights Code and other applicable laws and regulations in the locations where we operate.
+
+ 
+
+At IIS, all employment decisions are based on business needs, job requirements, and individual qualifications, without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, age, disability, marital or family status, or any other status protected by law.
+
+ 
+
+IIS will not tolerate any form of discrimination or harassment. We are committed to ensuring that our workplace is inclusive and accessible for everyone, in accordance with the Accessibility for Ontarians with Disabilities Act (AODA). If you require assistance or accommodation due to a disability, please contact us at HR@inf-systems.com.

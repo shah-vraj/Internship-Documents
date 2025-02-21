@@ -1,0 +1,34 @@
+Job details
+Description
+Inspirational, innovative and entrepreneurial - this is how we describe our empowered teams. Combine your passion with purpose and join a culture that is thriving in the face of change.
+
+Make an impact with our Technology - Development team as Intern, Developer. This diverse team of tech-savvy builders and problem solvers embraces digital transformation, and the possibilities technology brings to the future of our industry. We’re looking for team members who have a strong sense of ownership and drive, and who thrive on delivering high-quality solutions that are redefining the way MNP does business.
+
+MNP is proudly Canadian. Providing business strategies and solutions, we are a leading national accounting, tax and business advisory firm in Canada. Entrepreneurial to our core, our talented team members transcend obstacles into opportunities and are successfully transforming mid-market business practices.
+
+When applying, please submit your resume, cover letter, transcript and other applicable forms, as necessary, in 1 document.
+
+Responsibilities
+
+Work with the development team on projects following Agile methodologies
+Participate in scrums
+Maintain and update work items and tasks in Azure DevOps
+Bring forward ideas and contribute to planning of features and functionality
+Work independently on small projects
+Work in collaboration with the development team in the implementation of various technology initiatives
+Develop an understanding of MNP’s services, businesses and industry
+Skills and Experience
+
+Currently enrolled in full-time studies with a post-secondary institution in a Bachelor of Computer Science, Bachelor of Software Engineering or related field
+Intending to return to full-time studies after the internship
+Previous development experience
+Experience with version control systems, preferably Git is considered an asset
+Previous front-end experience with Angular or React is considered an asset
+Independent learner with demonstrated critical thinking skills
+MyRewards@MNP
+
+With a focus on high-potential earnings, MNP is proud to offer customized rewards that support our unique culture and a balanced lifestyle to thrive at work and outside of the office. You will be rewarded with generous base pay, vacation time, 4 paid personal days, a group pension plan with 4% matching, voluntary savings products, bonus programs, flexible benefits, mental health resources, exclusive access to perks and discounts, professional development assistance, MNP University, a flexible ‘Dress For Your Day’ environment, firm sponsored social events and more!
+
+Diversity@MNP
+
+We embrace diversity as a core value and celebrate our differences. We believe each team member contributes unique gifts and amplifying their potential makes our business stronger. We encourage people with disabilities to apply!

@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Backend Developer Intern position at Mistplay. As a current Master’s student in Applied Computer Science at Dalhousie University with experience in backend development and cloud technologies, I am confident that my skills in scalable backend services and problem-solving align well with your team’s needs. Mistplay’s impressive growth and innovative approach to mobile gaming and loyalty platforms truly excite me, and I would love the opportunity to contribute to your mission.
+
+During my time at Simform Solutions, I developed scalable backend solutions using Java and Spring Boot, optimizing application performance by 40% and enhancing user experience. I also contributed to designing RESTful APIs and implemented automated CI/CD pipelines with Jenkins and GitLab CI, which resulted in a 25% reduction in deployment issues. These experiences have honed my ability to build secure, high-performance backend services, and I am eager to apply these skills while gaining hands-on experience with TypeScript, NestJS, and ExpressJS at Mistplay.
+
+Your focus on creating impactful, user-focused solutions in a dynamic and collaborative environment is something I am passionate about. At Mistplay, I am particularly excited about the opportunity to collaborate with experienced engineers to build backend services that support millions of users and to explore AI-driven solutions that enhance user personalization.
+
+I look forward to the possibility of contributing to Mistplay’s innovative platform, and I am excited about the chance to grow my skills while supporting your team’s mission. Thank you for considering my application. I am excited about the opportunity to discuss how I can contribute to your success.
+
+Sincerely,
+Vraj Shah

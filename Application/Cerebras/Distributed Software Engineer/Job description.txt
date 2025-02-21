@@ -1,0 +1,29 @@
+Cerebras has developed a radically new chip and system to dramatically accelerate deep learning applications. Our system runs training and inference workloads orders of magnitude faster than contemporary machines, fundamentally changing the way ML researchers work and pursue AI innovation.
+
+We are innovating at every level of the stack – from chip, to microcode, to power delivery and cooling, to new algorithms and network architectures at the cutting edge of ML research. Our fully-integrated system delivers unprecedented performance because it is built from the ground up for deep learning workloads.
+
+About The Role
+
+Cerebras Systems is a pioneer in large-scale AI Supercomputers. These multi-exaflop supercomputers are deployed in some of the biggest datacenters. These supercomputers are built using our Wafer-Scale Cluster technology - a cluster of several Wafer Scale Engine (WSE) chips. The Cluster engineering team is responsible for delivering software that are all-things related to cluster.
+
+Responsibilities 
+
+Assist in automating the configuration of networking, OS, and application software for large clusters of Cerebras WSE, servers, and switches.
+Contribute to building workflows for cluster upgrades, downgrades, and security patching, with a focus on minimizing downtime.
+Support the development of orchestration and scheduling systems for resource allocation, job submission, and placement in a multi-user cluster environment.
+Help ensure seamless deployment and operations for both on-premise and cloud-based clusters.
+Contribute to monitoring systems that detect and handle failures across various cluster resources, including High Availability configurations.
+Assist in building broad cluster and job monitoring tools, along with alerting systems.
+Develop user-facing tools for monitoring job status and gathering metrics.
+Create administrator-facing tools to help manage and operate large-scale clusters effectively.
+Skills and Qualifications 
+
+Enrolled in a university program with a degree in Computer Science, Computer Engineering, or other related disciplines.
+Solid understanding of software architecture, system design, and development principles.
+Familiarity with development in distributed cluster environments.
+Basic knowledge of Kubernetes (K8s), Prometheus, and Grafana.
+Proficiency in at least one programming language such as Go, Python, or bash.
+Strong problem-solving and debugging skills.
+Ability to write tests for new features and ensure existing features are properly tested.
+A real passion for AI!
+Cerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.

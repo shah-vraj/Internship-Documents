@@ -1,0 +1,6 @@
+Why should we hire you?
+If there's one thing you could tell us to help you stand out, what would it be? What makes you the best person for this job? What excites you most about working at Solink?
+
+What sets me apart is my combination of hands-on experience with test automation and CI/CD integration. I’ve worked with frameworks like Selenium, Appium, and Postman to streamline testing and improve deployment speed, all while ensuring high-quality software delivery. My ability to integrate tests into CI/CD pipelines will help optimize Solink’s development process and product quality.
+What makes me the best person for this job is my strong background in automated testing, performance testing, and CI/CD. I’ve applied these skills in mobile and web environments, optimizing both software quality and delivery timelines. I’m a quick learner, adaptable to Agile workflows, and always looking for ways to innovate and improve processes.
+What excites me most about working at Solink is the opportunity to contribute to an innovative company that’s transforming video security into a powerful data-driven tool for business decision-making. I’m eager to help improve the quality and scalability of your products while growing in a collaborative and cutting-edge environment.

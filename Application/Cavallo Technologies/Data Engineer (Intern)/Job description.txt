@@ -1,0 +1,9 @@
+As a Data Engineer, the student is responsible for transforming raw data into insightful Power BI dashboards. This role will involve securing, ingesting, transforming, governing, analyzing, and extracting insights from data using advanced technologies like Azure Databricks, Azure Synapse Analytics/Data Factory, employing the latest tools in the Big Data field.
+
+Key Responsibilities:
+
+Data Ingestion: Securely acquire data from various sources and formats, and implement data ingestion processes using Azure Data Factory and other relevant tools.
+Data Transformation: Cleanse, transform, and model data to prepare it for analysis, utilizing Azure Databricks and Azure Synapse Analytics for data processing.
+Data Governance: Ensure data quality, integrity, and security through robust governance practices, and manage data catalogs and metadata using Databricks Unity Catalog.
+Data Analysis: Conduct detailed data analysis to uncover trends and insights, and apply machine learning techniques to enhance data analysis.
+Collaboration: Work with cross-functional teams to understand data requirements and deliver solutions, and communicate findings and recommendations to stakeholders effectively.

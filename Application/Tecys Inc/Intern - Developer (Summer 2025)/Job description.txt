@@ -1,0 +1,48 @@
+About the job
+Having recognized the advantages of remote work, including employee morale, productivity, reduced commuting on employee wellbeing and the environment, as of May 1, 2022, we became a remote-first company. The technologies and programs in which we invested have provided a fantastic foundation to this end. Our remote-first work environment, together with our conveniently located offices and collaborative workspaces, provide our team with the freedom and flexibility to work in the way that makes our employees most productive.
+
+About Us
+
+Tecsys is a fast-growing innovator offering supply chain solutions to industry leading healthcare systems, hospitals, and pharmacy businesses to distributors, retailers, and 3PLs. We work with industry leaders to transform their supply chains through technology. If you thrive on tackling difficult challenges with continuous learning opportunities and want to work in a respectful, comfortable, and dynamic work environment, then this could be a good fit for you!
+
+About The Role
+
+Our Research and Development department is looking for talented, motivated and creative software development interns to lend a hand. In this position within one of our Application teams, you will have the pleasure of participating in challenging projects with tangible impacts in the healthcare sectors, where our solutions are used from warehouse to to the operating room, and distribution, where our solutions allow independent companies to compete with the giants of their industry and thus maintain their independence.
+
+You will be part of a Scrum team that emphasizes continuous improvement of practices and teamwork. You will mainly work with Java and relational databases. Finally, you will have the opportunity to learn from experienced developers for whom working as a team while having fun is a priority.
+
+In this position, you will be responsible for:
+
+Backend development according to industry best practices (of course we will be there to support you!)
+Ensure that non-functional requirements are met
+Employ test-driven development (TDD) techniques
+Design and develop automated tests for new features
+Participate in team scrum meetings: planning, analysis and retrospectives
+
+
+Requirements:
+
+Good knowledge of object-oriented programming techniques
+Good knowledge of relational database management systems. 
+Logical approach, organized, with good interpersonal skills and able to work well under pressure
+Must have excellent communication skills (written and spoken)
+Complete college studies in computer science or computer engineering, in order to embark on a professional career in a stimulating environment
+Live in the greater Montreal area
+Strong proficiency in both written and verbal English communication essential for effective correspondence with colleagues beyond the province of Quebec
+
+
+Knowledge of the following technologies would give you an edge:
+
+Good knowledge of Java
+IDE and version control systems (VSCode, Git, Maven, etc.)
+Junit, Selenium
+REST services and architecture
+Continuous integration and deployment tools such as Jenkins, GitLab CI. 
+Web technologies (HTML, Javascript/Typescript, CSS)
+Familiarity with Cloud AWS 
+
+At Tecsys, we value creativity, innovation, and teamwork. Our employees enjoy a supportive work environment, competitive compensation packages, and opportunities for career growth and advancement.
+
+Tecsys is an equal opportunity employer. Accommodation is available for applicants selected for an interview.
+
+NB: if you are applying to this position, you must be a Canadian Citizen or a Permanent Resident of Canada, OR, have a valid Canadian work permit.

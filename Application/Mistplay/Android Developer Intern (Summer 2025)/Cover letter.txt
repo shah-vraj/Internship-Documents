@@ -1,0 +1,13 @@
+Building seamless, high-performance mobile experiences has always been a passion of mine, and Mistplay’s mission to enhance gaming through AI-driven personalization excites me. With over two years of experience developing polished Android applications using Kotlin, Jetpack Compose, and MVVM, I am eager to contribute my skills to your team and help create engaging experiences for millions of users worldwide.
+
+At Simform Solutions, I optimized app performance by 40% through memory management improvements and implemented scalable architectures that enhanced project maintainability. I collaborated with cross-functional teams to develop reusable UI components, accelerating delivery timelines by 30%. Additionally, I integrated third-party SDKs and RESTful APIs, boosting user engagement by 20% while maintaining best practices in code quality, debugging, and testing.
+
+During my professional experience, I have worked on AI-powered game recommendation models as part of my projects, leveraging generative AI to personalize user experiences. My expertise in Firebase ML Kit and data-driven optimization aligns with Mistplay’s focus on AI-driven personalization. I am excited about the opportunity to apply these skills in a real-world setting and contribute to innovative mobile development.
+
+I thrive in environments where I can continuously learn and collaborate. At Mistplay, I look forward to contributing to feature development, refining UX/UI strategies, and enhancing app stability while expanding my knowledge of ad tech tools and AI-driven engagement techniques.
+
+I would love the opportunity to further discuss how my experience and passion align with Mistplay’s vision. Thank you for your time and consideration—I look forward to the possibility of joining your team!
+
+Best Regards
+Vraj Shah,
+shahvraj2016@gmail.com

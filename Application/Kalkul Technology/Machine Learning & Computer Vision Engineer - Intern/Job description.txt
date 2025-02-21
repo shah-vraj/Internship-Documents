@@ -1,0 +1,32 @@
+Machine Learning & Computer Vision Engineer - Intern
+Kalkul is seeking a dedicated Machine Learning and Computer Vision Engineer to join our innovative team. The ideal candidate will focus on updating and enhancing our machine learning and computer vision projects. This role will require proficiency in or the willingness to learn Python, TensorFlow, Grafana for dashboarding and logging, and Prometheus for metrics capture. Knowledge of embedded device programming or cloud based technologies will be highly beneficial.
+
+This is currently a remote position but the candidate must be based in Halifax, Nova Scotia. It may convert to an onsite position at some point in the future.
+
+Responsibilities:
+
+Update and enhance machine learning and computer vision projects.
+Develop and maintain Python-based applications, leveraging TensorFlow for
+machine learning models.
+Utilize Grafana to create and manage dashboards for monitoring and logging.
+Implement Prometheus for effective metrics capture and analysis.
+Collaborate with cross-functional teams to define, design, and deliver new features.
+Stay updated with emerging technologies and best practices in machine learning
+and computer vision.
+Troubleshoot, debug, and upgrade existing software.
+Participate in code reviews and contribute to a culture of quality and continuous improvement.
+Qualifications
+
+Bachelor's degree in Computer Science, Engineering, or a related field.
+Strong experience in Python, with a focus on supporting machine learning applications (e.g., TensorFlow).
+Familiarity with computer vision libraries (e.g., OpenCV, Keras, Dlib).
+Experience with Grafana for creating and managing dashboards.
+Experience with Prometheus for metrics capture.
+Knowledge of embedded device programming and/or cloud-based technologies is a plus.
+Excellent problem-solving skills and attention to detail.
+Strong communication and teamwork skills.
+Preferred Skills:
+
+Experience with cloud platforms (e.g., AWS, Azure, GCP).
+Understanding of containerization and orchestration (e.g., Docker, Kubernetes).
+Familiarity with Agile development methodologies.

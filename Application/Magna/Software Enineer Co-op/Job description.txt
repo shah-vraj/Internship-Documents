@@ -1,0 +1,41 @@
+What we offer:
+At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our employees, providing them with the support and resources they need to succeed. As a member of our global team, you can expect exciting, varied responsibilities as well as a wide range of development prospects. Because we believe that your career path should be as unique as you are.
+Group Summary:
+The Mechatronics, Mirrors and Lighting group specializes in automotive technologies that are driving the future of mobility. Combining a deep systems knowledge to develop unique vehicle access experiences, intelligent visions systems and advanced automotive lighting technologies, MML's expertise light the path to innovation, safety and styling.
+Job Responsibilities:
+
+Utilizing Web Development in Vue3.js, Python, Azure DevOps, and AI integration to build cutting-edge applications, with integration to mechanical simulation and CAD software
+Taking ownership to complete the Frontend development (UI/UX design, implementation) for projects 
+Generally assigned to software processes, automations, internal applications, existing business and/or minor modifications
+Supports the complete development for the designated products including, but not limited to design, build and test activities, in accordance with standard operating procedures and the product delivery process
+Build internal analytical and software tools to streamline engineering processes to support large volumes of projects
+Supports customer requirements, regulations and product specifications into the design of the designated products, ensuring compliance with operational, cost, timing, safety, reliability, quality, and manufacturing feasibility parameters
+Analyzes products and formulates engineering conclusions by the application of engineering and/or mathematical principles and tools
+Consults and collaborates with personnel in various engineering and design activities relative to product development requirements
+Supports global CAE activities as a global team
+Supports effective communications within the project team and the customer, supplier, manufacturing and quality communities with guidance from engineering management or senior engineering personnel. Maintains all appropriate documentation
+Understands and follows existing policies, procedures, work instructions and standards and makes recommendations for continuous improvements
+Follows Magna’s Code of Conduct & Ethics and related compliance policies
+Perform other duties as required
+ 
+ QUALIFICATIONS & SKILLS:
+
+Working towards a bachelor’s degree in engineering, Computer Science or related fields from an accredited university
+Developing communication skills: verbal and written
+Developing organizational skills and the ability to successfully complete multiple tasks within established and changing deadlines
+Be able to adapt to a fast-changing environment and work with a team
+Ability to work independently or with a team on assigned projects
+Experience with one or more of the following languages: Python, MATLAB, C++, C#, VBA
+Experience with Frontend development using HTML, CSS, JavaScript
+Experience with Azure web deployment is an asset 
+Experience with high, and low, level object oriented and functional programming
+Proficient with word processing, spreadsheet and database applications
+Machine Learning and AI experience is an asset
+Experience with SQL databases is an asset
+Awareness, Unity, Empowerment:
+At Magna, we believe that a diverse workforce is critical to our success. That’s why we are proud to be an equal opportunity employer. We hire on the basis of experience and qualifications, and in consideration of job requirements, regardless of, in particular, color, ancestry, religion, gender, origin, sexual orientation, age, citizenship, marital status, disability or gender identity. Magna takes the privacy of your personal information seriously. We discourage you from sending applications via email to comply with GDPR requirements and your local Data Privacy Law.
+Worker Type:
+Intern (Fixed Term) (Trainee)
+Group:
+
+Magna Mechatronics, Mirrors & Lighting

@@ -1,0 +1,10 @@
+I am writing to express my interest in the software engineer role at NationGraph. With my experience in full-stack development, particularly in building distributed systems and optimizing data processing workflows, I am excited about the opportunity to contribute to your team.
+
+At Simform Solutions, I led the development of scalable mobile applications and backend services using Kotlin, Swift, and Java, optimizing system performance and ensuring seamless user experiences. In addition, my recent work on a distributed transaction system using MySQL in GCP—combined with my strong background in ETL processes—has provided me with the skills to tackle complex data challenges, something I understand is crucial at NationGraph.
+
+I am particularly drawn to NationGraph’s mission to simplify government contracting through innovative software solutions. I share your passion for creating impactful technology, and I am excited about the opportunity to work with a talented team to build products that address real-world challenges.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my skills and experiences can contribute to the success of NationGraph.
+
+Sincerely,
+Vraj Shah
