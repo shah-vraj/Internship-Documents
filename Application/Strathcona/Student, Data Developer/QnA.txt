@@ -1,0 +1,3 @@
+In a few sentences, describe what encouraged you to apply for this position
+
+I am particularly excited about the opportunity to work with large datasets, optimize queries, and collaborate with engineers and analysts on predictive analytics and machine learning initiatives. My proficiency in Python, SQL, Databricks, and Azure, combined with my problem-solving abilities, would allow me to make meaningful contributions to your team.

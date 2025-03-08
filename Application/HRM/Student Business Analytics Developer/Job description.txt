@@ -1,0 +1,67 @@
+Student Business Analytics Developer
+Job Posting
+
+Halifax Regional Municipality is inviting applications for up to 4 positions, four-month summer term co-op positions for Student Business Analytics Developer in Information Technology. 
+
+Halifax Regional Municipality (HRM) is committed to reflecting the community it serves and recognizing Diversity and Inclusion as one of the Municipality’s core values. We have an Employment Equity Policy, and we welcome applications from African Nova Scotians and Other Racially Visible Persons, Women in occupations or positions where they are underrepresented in the workforce, Indigenous/Aboriginal People, Persons with Disabilities and 2SLGBTQ+ Persons.  Applicants are encouraged to self-identify on their electronic application.
+
+Looking to make a difference? Feel like making an impact to your community? Do you enjoy developing creative ways to collect data, or apply business rules to data to deliver analytical insight that supports evidence-based decision making?
+
+To qualify for this position, you must be currently enrolled in a Computer Science, Business, Data Science, Advanced Analytics, Software Engineering, Computer Engineering, GIS Program or Information Systems/Technology Management program. You’ll collaborate with HRM’s Digital Services team and other stakeholders in HRM to undertake challenging assignments that will provide the opportunity for you to learn about new technologies, develop or enhance your skills, and make significant contributions to your municipality.
+
+The student will assist the Digital Services team with the design, implementation, testing and support of analytical solutions, which include visualizations such as reports, dashboards, scorecards, Online Analytical Processing (OLAP) cubes and other leading-edge approaches, to collect and deliver information to the organization’s knowledge workers. The student will find themselves working with a variety of tools including SAP’s Business Objects suite, Microsoft Power BI, Microsoft’s Reporting Services and Analytic Services, Microsoft PowerApps, MS Forms, MS Power Automate, Microsoft Excel and the ESRI ArcGIS suite of tools.  This student role also includes learning, researching and supporting solutions including data modelling, warehouse design, stored procedure and SQL authoring.
+
+The student will assist the Digital Services team with various current on-going projects which support key business components and decisions, will have the opportunity to work with the other stakeholder groups within IT and HRM and will obtain a basic foundation of knowledge of key business services divisions delivered by municipalities.
+
+DUTIES AND RESPONSIBILITIES:
+In support of Digital Service this position will, with support from the team:
+Aid in the design, development, and implementation of solutions, interfaces, and reports using a variety of database platforms, programming tools, techniques, and languages.
+Help investigate and recommend solutions to technical problems encountered by users.
+Prepare documentation such as entity relationship diagrams, application flow diagrams, use cases, user guides, technical documentation, test plans, and maintenance procedures.
+Adhere to established development standards and change/release management procedures.
+Work with clients to determine requirements, evaluate proposed and existing solutions and make recommendations for implementation, jointly with Digital Services team.
+Research, evaluate, and recommend various tools and techniques used to support analytical solutions, interfaces, and reports.
+QUALIFICATIONS:
+Education and Experience:
+Currently pursuing a post-secondary degree in Computer Science, Business, Data Science, Advanced Analytics, Software Engineering, Computer Engineering, GIS Program or Information Systems/Technology Management program.
+Technical/Job Specific Knowledge:
+Strong interpersonal and communication skills, both written and verbal.
+Strong logic, analysis and problem-solving skill.
+Experience with teamwork.
+Ability to combine data from multiple sources when needed for the analysis.
+Ability to produce entity relationship diagrams, application flow diagrams, UML, and use case documentation.
+Ability to self-manage to task and schedule.
+Knowledge of relational databases (e.g. Oracle, MySQL, and MS-SQL).
+Familiarity with Business Intelligence tools (e.g. SAP Business Objects, Microsoft Power BI) and concepts.
+Familiarity with a variety of programming languages (e.g. Java, Visual Basic, SQL, R, Python, DAX, Javascript).
+Familiarity with MS PowerApps, MS PowerPlatform.
+Familiarity with GIS tools (e.g. ArcGIS Desktop, ArcGIS Online) and spatial intelligence concepts.
+Familiarity with statistical analysis techniques.
+Familiarity with Web Server software including IIS, Apache and Tomcat.
+Familiarity with machine learning and artificial intelligence driven analytics.
+Familiarity with Master Data Management practices.
+Familiarity with Data Governance practices.
+Familiarity with change and release management procedures.
+Security Clearance Requirements: Applicants may be required to complete an employment security screening check.
+
+Please note – Testing may be conducted as a component of the selection process to assess technical and job specific knowledge. Candidates, who are selected for testing, may be tested in a group setting, scheduled at the employer’s discretion.
+
+COMPETENCIES: Analytical Thinking, Communications, Customer Service, Decision Making, Organization and Planning, Teamwork and Cooperation, Valuing Diversity, Values and Ethics
+
+WORK STATUS: Temporary, up to four (4) months; May to August 2025 (with some flexibility)
+ 
+HOURS OF WORK: 8:30am - 4:30pm, Monday to Friday; 35 hours per week
+ 
+SALARY: $21.00 - $24.00 per hour depending on education level.
+ 
+WORK LOCATION: 14th Floor Barrington Tower, Halifax (with flexibility regarding work from home)
+ 
+CLOSING DATE: Applications will be received up to 11:59 pm on Thursday, March 20, 2025
+
+Applications must be submitted through our Brass Ring; applications submitted through other methods will not be reviewed. 
+
+Please note: We thank all applicants for their interest in this position. Only those applicants selected for interview/testing will be contacted.
+ 
+During the recruitment process, applicants have the right to request an accommodation. Applicants invited to participate in an assessment process (such as interview or testing) and who require an accommodation, should discuss their needs with the recruiter when invited to the assessment process. For more information on our accommodation process please clink on the link; Accommodations | Hiring | Employment | Halifax
+
+(Position #78624150)

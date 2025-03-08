@@ -1,0 +1,47 @@
+CGI is Canada's largest independent information technology services firm with 90,000 members, and we're growing! We have a challenging career opportunity for Software Development Engineers in Test (SDET) to work for our clients in our Financial Services Industry. This is an exciting opportunity to grow your skills in Software Development and Agile solutions delivery with CGI's Atlantic Business Unit (with over 800 members in Atlantic Canada). You will be immersed an outstanding culture that refers to our employees as members and one that cares about diversity and inclusion, corporate social responsibility giving you the freedom to innovate and influence decisions
+
+The ideal candidate will possess a strong background in middleware Java stack, messaging technologies, containerization, web containers, and test automation.
+
+You will learn about CGI's business, apply your skills and knowledge to solve problems and design solutions for CGI and our global brand-name clients. You will learn about the IT Consulting Business, the many aspects of Digital technology and transformation, and gain exposure to the many career opportunities in technology consulting available right here in Atlantic Canada with CGI.
+
+Your future duties and responsibilities
+
+Working as a professional IT consultant in the field of software engineering with a geographically spread team for leading Bank in North America:
+
+Provide test development / automation to ensure that the quality of the intended solution is met.
+Provide inputs for test planning, test design / development test case automation and test execution to achieve business outcomes.
+Integrate directly into a team's continuous delivery process, augmenting the delivery of quality software and ensuring speed, agility, and risk management.
+Implement functional and non-functional automation (performance, readiness / reliability testing, accessibility, security) approach, frameworks, script development and execution, and ensure automated tests are integrated into the continuous integration, delivery, and testing (CI/CD/CT) pipelines.
+Ensure source code management looking for opportunities to effectively leverage tools and engineering practices (DevOps tools and processes, SV, monitoring tools and process, etc.
+Apply the principles of Behavioral / Test-Driven Development (BDD / TDD) and focus on value driven outcomes.
+Provide subject matter expertise considering overall quality / performance, user experience, and future bug prevention.
+Monitor service, productivity and assess efficiency levels within own function and implement continuous process / performance improvements where opportunities exist.
+Work collaboratively with the team and leadership to proactively identify and resolve issues related to product quality.
+
+Required Qualifications To Be Successful In This Role
+
+MUST HAVE At least 1 year of testing experience ideally with experience in Test Automation.
+Experience with Java-Selenium-API automation testing is required.
+Strong practical experience programming algorithms and working with data structures in Java and Python.
+Proficient in writing complex SQLs.
+Sound knowledge with ETL/ Backend testing.
+1-2 years working experience with industry standard functional automation test tools and frameworks (ex. Selenium, Cucumber, TestNG, Junit).
+Working experience with industry standard API automation test tools and libraries (ex. REST-Assured).
+2 years working experience with industry standard test management tools (ex. JIRA).
+Working knowledge of the Software Development Lifecycle (SDLC).
+Excellent communication skills and the ability to interact directly with Client Stakeholders, Senior Management, and/or our technology partners
+Strong interpersonal skills.
+Strong written and oral communication skills.
+Positive attitude.
+Requires the ability to build consensus and resolve interpersonal challenge.
+Ability to build strong relationships with clients and team members.
+Demonstrate the ability to provide information and ideas in a clear, comprehensive, concise, and organized manner.
+Required Level of Education:
+
+at least 4th Year of Bachelor's Degree in Computer Science
+Desired certification:
+
+ISTQB (any)
+Atlassian Jira (any)
+Azure, AWS, or GCP (any)
+Agile (any)

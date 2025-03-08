@@ -1,0 +1,9 @@
+Describe the work you are seeking in an internship or full time position?
+Minimum - 300 characters
+Maximum - 4000 characters 
+
+I am seeking an internship where I can apply my DevOps, cloud infrastructure, and backend development skills while gaining hands-on experience in mobile application support, automation, and CI/CD processes. With experience in developing backend web services using Java and Spring Boot, optimizing API performance, and automating infrastructure with Ansible and Terraform, I am eager to contribute to projects focused on scalable deployment pipelines and system optimizations.
+
+My background includes CI/CD pipeline management using Jenkins and GitHub Actions, database optimization for SQL and MongoDB, and Linux system administration with cloud monitoring tools like AWS CloudWatch and Splunk. I thrive in Agile environments, collaborating with teams to streamline feature delivery and troubleshoot issues efficiently.
+
+Currently pursuing a Master of Applied Computer Science at Dalhousie University, I am eager to refine my skills in DevOps, cloud deployment, and backend development while contributing to innovative mobile and SaaS solutions.

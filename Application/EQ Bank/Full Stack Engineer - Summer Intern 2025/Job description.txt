@@ -1,0 +1,77 @@
+About the job
+Join a Challenger
+
+Being a traditional bank just isn’t our thing. We are big believers in innovating the banking experience because we believe Canadians deserve better options, and we challenge ourselves and our teams to creatively transform what’s possible in banking. Our team is made up of inquisitive and agile minds that find smarter ways of doing things. If you’re not afraid of taking on big challenges and redefining the future, you belong with us. You’ll get to work with people who will encourage you to reach new heights. We like to keep things fun, ask questions and learn together.
+
+We are a big (and growing!) family. Overall we serve more than 670,000 people across Canada through Equitable Bank, Canada's Challenger Bank™, and have been around for more than 50 years. Equitable Bank's wholly-owned subsidiary, Concentra Bank, supports credit unions across Canada that serve more than six million members. Together we have over $125 billion in combined assets under management and administration, with a clear mandate to drive change in Canadian banking to enrich people's lives. Our customers have named our EQ Bank digital platform (eqbank.ca) one of the top banks in Canada on the Forbes World's Best Banks list since 2021.
+
+The Work:
+
+EQ Bank is seeking a talented and motivated Full Stack Engineer Intern to join our dynamic development team. This role offers a unique opportunity to contribute to the development of innovative banking solutions, working on both backend APIs and Microservices as well as user interfaces using the Angular framework. As a Full Stack Engineer Intern, you will help shape the evolution of our cloud-native, API-driven architecture, while assisting in creating intuitive, user-friendly interfaces that integrate smoothly with our backend services.
+
+This is an exceptional opportunity for a dynamic individual who is looking for the opportunity to be part of a fast-growing, challenger Bank.
+
+The Core Responsibilities Of The Job:
+
+Design and develop user interfaces using Angular best practices, JavaScript, CSS, and HTML, ensuring seamless integration with backend services via RESTful APIs
+Write application code in Angular, Java Technologies, and REST Web Services, ensuring clean, scalable, and maintainable solutions
+Make technical and design decisions for both frontend and backend development, contributing to performance optimization and user experience improvements
+Develop, test, and support RESTful APIs, Microservices, and Interoperability APIs, working closely with backend systems and external services
+Collaborate with Tech Leads and Senior Developers to define and implement technical solutions that meet functional and non-functional requirements
+Contribute to improving the CI/CD pipeline and enhancing test automation processes to streamline development and deployment workflows
+Participate in daily SCRUMs, contributing to Sprint progress, resolving issues, and ensuring timely delivery of features and bug fixes
+Conduct unit testing and participate in code reviews to maintain code quality, improve team processes, and ensure consistent software performance
+
+
+
+Let's Talk About You!
+
+Interest in financial services and banking (digital products)
+Basic proficiency in HTML5, CSS3, JavaScript, and TypeScript for building responsive web applications
+Understanding of Node.js for backend JavaScript development and building RESTful APIs
+Understanding of backend development concepts: Solid foundation in programming languages such as Java, Python, JavaScript, or similar, and familiarity with object-oriented programming (OOP) principles.'
+Frontend development familiarity: Experience with modern frontend frameworks like React, Angular, Vue.js, or similar, including component architecture, state management, and basic styling concepts
+API development knowledge: Exposure to building RESTful APIs or microservices using frameworks like Spring Boot, Express.js, Flask, or similar
+Database interaction: Familiarity with data persistence techniques using ORMs (e.g., Hibernate, Sequelize, Entity Framework) and query languages such as SQL
+Event streaming awareness: Basic understanding of event-driven architectures, including tools like Kafka, RabbitMQ, or other message brokers, with knowledge of producers, consumers, and message formats
+Ability to integrate third-party APIs and handle HTTP requests/responses in both frontend and backend
+Problem-solving mindset with the ability to troubleshoot basic issues across the full stack
+Familiarity with Git for version control and willingness to learn Agile practices in a collaborative team environment
+Eagerness to learn, grow, and contribute to a team-oriented development environment
+
+
+
+How To Submit Your Application!
+
+Your application must include your resume, cover letter and unofficial transcript. Applications submitted incorrectly will not be considered. 
+You MUST be a student currently enrolled in school to be eligible to apply. 
+
+
+
+What we offer [For full-time permanent roles]
+
+💰 Competitive discretionary bonus
+
+✨ Market leading RRSP match program
+
+🩺 Medical, dental, vision, life, and disability benefits
+
+📝 Employee Share Purchase Plan
+
+👶🏽 Maternity/Parental top-up while you care for your little one
+
+🏝 Generous vacation policy and personal days
+
+🖥 Virtual events to connect with your fellow colleagues
+
+🎓 Annual professional development allowance and a comprehensive Career Development program
+
+💛 A fulfilling opportunity to join one of the top FinTechs and help create a new kind of banking experience
+
+The incumbent will be working hybrid and in office time will be spent working from Equitable Bank’s additional office space located at 351 King Street East, Toronto, ON.
+
+Equitable Bank is deeply committed to inclusion. Our organization is stronger and our employees thrive when we honour and celebrate everyone’s diverse experiences and perspectives. In tandem with that commitment, we support and encourage our staff to grow not just in their career path, but personally as well.
+
+We commit to providing a barrier-free recruitment process and work environment for all applicants. Please let us know of any accommodations needed so that you can bring your best self to the application process and beyond. All candidates considered for hire must successfully pass a criminal background check and credit check to qualify for hire. While we appreciate your interest in applying, an Equitable recruiter will only contact leading candidates whose skills and qualifications closely match the requirements of the position.
+
+We can’t wait to get to know you!

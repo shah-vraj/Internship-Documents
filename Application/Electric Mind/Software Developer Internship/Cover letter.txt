@@ -1,0 +1,10 @@
+The opportunity to intern at Electric Mind excites me, as it aligns with my passion for developing innovative and practical software solutions. As a Master's student in Applied Computer Science at Dalhousie University, I have cultivated a strong foundation in software development, with hands-on experience in building enterprise and consumer-facing applications.
+
+With two years of professional experience as a native Android and iOS developer, I have worked extensively with Kotlin, Jetpack Compose, Swift, and SwiftUI. My expertise includes implementing dependency injection using Hilt, optimizing memory management, and integrating RESTful APIs using Retrofit and OkHttp. Additionally, I have contributed to open-source projects, such as Android_Project_Setup, where I leveraged Cookiecutter to automate boilerplate code generation. Beyond development, I am proficient in writing unit and UI test cases with JUnit, Mockito, and Espresso, ensuring the reliability and maintainability of applications.
+
+I am particularly drawn to Electric Mind’s emphasis on Agile methodologies and Extreme Programming values, which resonate with my collaborative and iterative approach to software development. My experience with GitHub Actions and GitLab CI has further reinforced my ability to work effectively within cross-functional teams, continuously learning and improving processes.
+
+I am eager to bring my problem-solving mindset and technical expertise to your team. I have attached my transcript as requested and would welcome the opportunity to discuss how my skills align with this role.
+
+Best regards,
+Vraj Shah

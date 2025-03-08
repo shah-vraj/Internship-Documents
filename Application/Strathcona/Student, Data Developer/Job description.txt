@@ -1,0 +1,34 @@
+Student, Data Developer
+
+Strathcona Resources Ltd. (“Strathcona”) is a Calgary, Alberta based oil and gas production and development company focused on maximizing oil and gas recovery from its low decline, high free cash flow oil and gas resource base. Strathcona's operations, infrastructure and land position are focused in Alberta, British Columbia, and Saskatchewan.
+
+Strathcona is always looking for people focused on growth, both personal and professional. Those who love a challenge and get excited at the prospect of collaborating with talented people to continuously improve and innovate on tasks both large and small.
+
+Strathcona is seeking a Student, Data Developer to support the design, development, and optimization of data solutions that drive critical decision-making for our operations. This position offers hands-on experience with data pipelines, cloud technologies, and large datasets. You’ll work alongside experienced engineers and analysts, gaining valuable industry experience while contributing to meaningful projects.
+
+Responsibilities:
+
+Assist in developing and maintaining data pipelines to extract, load, and transform (ELT) data into our corporate data lake.
+Support data ingestion, storage, and processing of large datasets from sources such as SCADA, IoT streaming data, and application databases.
+Contribute to the development of common data utilities and libraries for business use.
+Help design, test, and monitor data solutions to ensure reliability and efficiency.
+Assist in query performance optimization and data load monitoring.
+Collaborate with internal teams to understand data insights and reporting needs.
+Identify opportunities to improve data processes and efficiency.
+Work with engineers and data analysts on projects involving predictive analytics, machine learning, and operational insights.
+Preferred Qualifications
+
+Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Software Engineering, Data Science, or a related field.
+Familiarity with Python and SQL for data analysis and manipulation.
+Basic understanding of BI reporting tools such as Tableau, Power BI, or Spotfire.
+Exposure to working with structured databases (e.g., SQL Server, PostgreSQL, or Oracle).
+Interest in modern data architectures such as Databricks, AWS, or Azure.
+Experience with GitHub or DevOps tools is a plus.
+Strong problem-solving skills and willingness to learn in a fast-paced environment.
+Great things aren’t done by one person, they’re done by a team.
+
+Strathcona is committed to developing a high-performance culture through collaboration, trust, and agility. We value our work, our communities, and our commitments – but most of all, we value the team of people who make what we do possible.
+
+Apply to Strathcona
+
+If you have what it takes to be a great Strathcona team member, we want to hear from you. We appreciate all interest in this opportunity but only those selected to advance through the process will be contacted.

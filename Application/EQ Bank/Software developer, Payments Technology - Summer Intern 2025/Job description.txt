@@ -1,0 +1,47 @@
+About the job
+The Work:
+
+Primary responsibilities include developing and supporting RESTful/SOAP APIs and ETLs, power platform type solutions
+
+The Core Responsibilities Of The Job:
+
+Assess and clarify user experience and requirements
+Support functional requirements and digital product definition by providing technical solutions
+Contribute to technical/non-functional requirements
+Technology Design
+Define an integrated, RESTful/SOAP API or ETL solution design with support from front-end and back-end system teams
+Create design artifacts using Ymal and JSON Schema standards
+API Development
+Develop and support Interoperability APIs and MicroService applications
+Plan and estimate development tasks
+Participate in daily delivery SCRUMs to ensure Sprint delivery progression and resolution of issues
+Conduct unit testing on developed code, with automated testing where relevant
+Develop and maintain technical documentation
+Participate in group and peer code review session
+Actively involved during QA triage to recommend and provide fixes
+Application Support
+Assist incident management teams by troubleshooting and resolving production incident
+
+
+
+Let's Talk About You!
+
+Bachelor’s degree in Computer Science or a related technical field
+Experience in Microsoft 365 Apps and services
+Experience in MS Power Platform
+Knowledge in J2EE/JEE software delivery or software development (nice to have)- frameworks such as Hibernate, Spring MVC, Spring Security, SAML, OAuth, OIDC
+Experience building RESTful/SOAP API solutions
+Experience in API management tools, e.g., MuleSoft API Manager (preferably) or Apigee Edge (nice to have)
+Experience with configuration, deployment and testing of enterprise software applications
+Some Experience with SQL Server database
+Some experience with bug tracking and collaboration software: Jira, Confluence or similar
+Experience with Unit Testing frameworks and tools (Junit, MUnit or TestNG) and source control software (Git or similar)
+Self-starter who can take a concept and drive it through to the design and implementation
+Strong oral and written communication skills
+
+
+
+How To Submit Your Application!
+
+Your application must include your resume, cover letter and unofficial transcript. Applications submitted incorrectly will not be considered. 
+You MUST be a student currently enrolled in school to be eligible to apply.

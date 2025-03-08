@@ -1,0 +1,5 @@
+Describe the work you are seeking in an internship or full time position?
+Minimum - 300 characters
+Maximum - 4000 characters
+
+I am seeking an internship or full-time position where I can apply my skills in Android development, particularly in building scalable, maintainable, and high-performance mobile applications. With experience in Kotlin, MVVM, Jetpack Compose, Retrofit, and Firebase, I am eager to work on projects that focus on sustainability, user experience, and solving real-world challenges, such as traffic or transit-related apps. I thrive in collaborative environments and am passionate about learning new technologies, optimizing workflows, and delivering high-quality software. I am excited to contribute to a team that values innovation and continuous improvement.
