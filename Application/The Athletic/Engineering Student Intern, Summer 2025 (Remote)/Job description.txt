@@ -1,0 +1,42 @@
+Engineering Student Intern, Summer 2025 (Remote)
+About Us
+
+The Athletic is a digital sports media company that brings true sports fans closer to the athletes, teams and leagues that captivate their attention. We serve a multi-faceted audience that craves a richer connection and understanding with immersive storytelling and a like-minded community of fans. Founded in 2016 and with major operational hubs in San Francisco, Los Angeles, London and Melbourne, we empower a truly global team of more than 600 creators and cover more than 250 professional sports and collegiate teams across the United States, Canada and the UK. Our newsroom has produced thousands of in-depth reports along with more than 120 podcasts and other forms of premium content. Put simply, The Athletic is at the center of a sports fan’s universe.
+
+
+About the Role
+
+The Athletic is accepting applications for its Engineering Internship Program! Our program mission is to attract and develop the industry’s next stars. Internships will take place over 12-weeks in a remote setting, which will run from June 2, 2025 - August 22, 2025. Interns will be embedded on our Engineering teams, which will expose them to every facet of the team. They will work closely with one of our full time Engineers on a project designed by the team. Our Engineers will support the engineer to launch features and projects into production. 
+
+The rate of pay for this role is $30.00 USD per hour. This role is 100% remote for candidates based in either the United States or Canada.
+
+THE APPLICATION DEADLINE IS MARCH 23, 2025
+Responsibilities
+Work on project(s) designed by a mentor/ teammates.
+Collaborate with Engineers to build the project.
+Write clean/maintainable code.
+Debug/troubleshoot issues.
+Learn and apply new technologies, tools, and frameworks as needed.
+Engage in team meetings, and stand-ups.
+Potential opportunities to work with Product, Design and other cross-functional disciplines.
+Requirements
+This role is open to current undergraduates (ideally in their junior or senior year), recent graduates, and recent boot camp graduates.
+Must be based in either the United States or Canada and be have the ability to work 30-40 hours per week.
+Experience in Javascript is highly preferred. 
+Additionally, experience in the one or more of the following technologies would be useful, but not required:
+ReactJS
+Apollo GraphQL
+AWS (Dynamo, S3, among others)
+Git/GitHub
+PHP
+Knowledge and interest in sports is a plus, but not required.
+And most importantly…  bring your enthusiasm and desire to learn!
+Application Directions
+Submit an up to date resume when applying.
+Provide 2 letters of recommendation.
+Providing a link to a side project/GitHub is optional to showcase any of your work.
+The Athletic Media Company is an equal opportunity employer and enthusiastically encourages people from all backgrounds and experiences to apply. The Athletic will consider all applicants without regard to race, religion, color, national origin, ancestry, physical and/or mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, transgender status, age, sexual orientation, military or veteran status, or any other protected characteristic under applicable law.
+
+Click here to review our Applicant Privacy Notice, which describes how and when The Athletic Media Company collects, uses, and shares certain personal information of job applicants and prospective employees.
+
+Beware of fraudulent job recruiting schemes! Our recruiters use careers@theathletic.com exclusively. We do not conduct interviews via text or instant message and we do not ask candidates to download software, to purchase equipment through us, or to provide sensitive personally identifiable information, such as bank accounts or social security numbers. If you have been contacted by someone claiming to be a recruiter with The Athletic but operating from a different email address about a job offer, please report it as potential job fraud to the law enforcement and to people@theathletic.com.

@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+With a strong foundation in mobile and cloud-based application development, I am excited to apply for the Software Engineering Internship at Voltus. My professional experience as a mobile developer, combined with my academic pursuit of a Master of Applied Computer Science at Dalhousie University, has equipped me with the technical expertise and problem-solving skills to contribute meaningfully to your team. Voltus’ mission to build a decentralized and digitized energy system aligns with my passion for leveraging technology to solve real-world challenges.
+
+In my professional career, I have developed native Android and iOS applications using Kotlin, Swift, Jetpack Compose, and SwiftUI. I have worked extensively with dependency injection (Hilt), networking libraries (Retrofit, OkHttp), and background task management (WorkManager), ensuring high-performance and scalable applications. Additionally, my experience optimizing memory usage and implementing CI/CD pipelines using GitHub Actions has allowed me to deliver robust and efficient software solutions.
+
+Academically, I have deepened my understanding of software architecture, cloud computing, and machine learning applications. My coursework in Data Management and Deep Learning has strengthened my ability to design efficient, scalable systems. Recently, I worked on a project integrating Firebase with a macOS and iOS application, leveraging PhotogrammetrySession to generate 3D models from captured images, showcasing my ability to work at the intersection of software and emerging technologies.
+
+I am eager to bring my technical expertise, problem-solving abilities, and enthusiasm for innovation to Voltus. I would welcome the opportunity to discuss how my background aligns with your team’s needs. Thank you for your time and consideration.
+
+Best regards,
+Vraj Shah

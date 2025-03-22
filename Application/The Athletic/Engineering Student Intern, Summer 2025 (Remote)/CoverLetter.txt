@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+Building high-quality digital experiences that engage users has always been my passion. With hands-on experience in software development, cloud technologies, and front-end frameworks, I’m eager to bring my skills to The Athletic’s Engineering Internship Program. The opportunity to contribute to a platform that enhances the sports fan experience while working with cutting-edge technologies excites me.
+
+During my time at Dalhousie University, where I am pursuing my Master of Applied Computer Science, I have honed my expertise in ReactJS, AWS, GraphQL, and GitHub workflows—all technologies relevant to this role. Prior to that, as a Software Engineer at Simform, I developed scalable applications using ReactJS and Java, optimized backend performance, and automated deployments using AWS and CI/CD pipelines. My experience with debugging, writing maintainable code, and collaborating in Agile teams has equipped me to thrive in a fast-paced development environment.
+
+Beyond technical proficiency, I am an avid sports enthusiast who values storytelling in digital media. The Athletic’s commitment to immersive content and innovation aligns with my passion for building user-driven applications. I am eager to contribute to the team while learning from experienced engineers and collaborating across disciplines.
+
+I have attached my resume for your review. I would welcome the opportunity to discuss how my background and skills align with this role. Thank you for your time and consideration—I look forward to the possibility of contributing to The Athletic’s mission.
+
+Best regards,
+Vraj Shah

@@ -1,0 +1,4 @@
+Why would you like to work for The Athletic?
+Please provide a brief statement.✱
+As a passionate software engineer with a deep interest in building scalable and user-centric applications, I am excited about the opportunity to contribute to The Athletic’s mission of delivering premium sports content. The prospect of collaborating with talented engineers, working on innovative projects, and gaining hands-on experience with technologies like ReactJS, GraphQL, and AWS aligns perfectly with my technical expertise. Additionally, as a sports enthusiast, I find The Athletic’s focus on immersive storytelling and fan engagement particularly inspiring. This role offers the perfect blend of my technical skills and personal interests, making it an ideal opportunity to grow and make an impact.
+

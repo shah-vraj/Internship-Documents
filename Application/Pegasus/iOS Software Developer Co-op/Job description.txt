@@ -1,0 +1,69 @@
+iOS Software Developer Coop
+
+ 
+
+Pegasus is seeking driven individuals ready to work in partnership with engineers and other business units, who thrive in a dynamic, fast-paced environment. Pegasus is currently working on the next generation of MIDAS, our ice detection sensors for aviation, and your work will directly contribute to this.
+
+ 
+
+As an iOS Software Developer Coop, you will join a talented, world-class team, building breakthrough technologies, working on the next generation of aviation systems.
+
+ 
+
+What you’ll do:
+
+· Develop new features in Pegasus’s iOS app to enhance user experience.
+
+· Review existing code to ensure conformity with the latest coding standards.
+
+· Work within a fast-paced environment, rigorously developing and applying practical solutions to problems.
+
+ 
+
+Essential Job Functions:
+
+· Develop SwiftUI interfaces according to rough specifications from the product team.
+
+· Implement tests and pipelines for automation of code quality checking.
+
+· Review code for team members across iOS and web applications.
+
+· Participate in sprint meetings, and provide progress updates, as well as feedback on internal processes.
+
+ 
+
+Required Qualifications:
+
+· Enrolled in a Computing Science or Computer Engineering program at a Canadian university.
+
+· Experience developing iOS applications in Swift.
+
+· Able to work onsite in Edmonton, Alberta.
+
+· Available for an 8-month work term starting May 2025, or earlier.
+
+· A desire to grow.
+
+· Able to work in a multidisciplinary environment, communicating across department lines.
+
+· Detail oriented, with excellent communication and documentation skills.
+
+ 
+
+Desired Experience:
+
+· BLE peripheral integration.
+
+· Background applications sending push notifications.
+
+· MongoDB integration.
+
+· Offline storage.
+
+· APIs.
+
+· JavaScript.
+
+ 
+
+Pegasus is an equal opportunity employer. Employment with Pegasus is governed on the basis of merit, competence and qualifications and we encourage candidates from all backgrounds to apply.

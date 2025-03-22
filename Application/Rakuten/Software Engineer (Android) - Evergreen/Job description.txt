@@ -1,0 +1,43 @@
+Job Description:
+
+Rakuten International oversees 7 businesses with over 4,000 employees globally. The brand is recognized for its leadership and innovation in e-commerce, digital content, advertising, entertainment and communications, bringing the joy of discovery and access to more than 1 billion members across the world. Our teams deliver on the company’s mission to delight merchants and customers through innovation, optimism, and teamwork.
+
+Rakuten Rewards is a leading e-commerce company that enhances the way people shop by offering Cash Back, deals and rewards from more than 3,500 merchants. Founded in 1999, Rakuten has grown to become the go-to shopping destination for consumers, having paid out nearly $2 billion in Cash Back to its 15 million members. The company also operates ShopStyle, a leading fashion discovery destination, and Cartera Commerce, a top rewards platform for airlines and banks. For more information, visit www.rakuten.com.
+
+Key Responsibilities:
+
+Build and Maintain: Contribute to the development and upkeep of our flagship Android app, delivering features that delight thousands of daily users.
+Collaborate: Work closely with Product Managers and UX Designers to understand requirements and implement features with precision, quality, and attention to detail.
+Integrate: Partner with backend teams to seamlessly integrate APIs and ensure smooth end-to-end functionality.
+Learn and Grow: Participate in code reviews to maintain high code quality and gain valuable insights from senior team members.
+Write Exceptional Code: Develop clean, maintainable, and testable code with a focus on performance, scalability, and long-term sustainability.
+Stay Ahead: Keep up-to-date with the latest Android development best practices and actively contribute to team discussions on improving the app.
+Qualifications Requirements:
+
+B.S. in Computer Science or related field, or equivalent experience.
+2+ years of experience building native applications for Android devices.
+Proficiency in Kotlin/Java.
+Proficiency working with RESTful APIs and integrating backend services.
+Experience with Android design patterns and architecture components (e.g., MVVM, MVP).
+Experience with XML Views.
+Experience with version control systems like Git and working in a collaborative team environment.
+Exposure to Agile development processes and the product lifecycle.
+Strong problem-solving and communication skills.
+Minimum Qualifications: 
+
+Portfolio of published applications on GitHub and/or the Play Store.
+Experience with Kotlin Flow.
+Experience with Design Systems.
+Experience with Jetpack Compose.
+Experience with push notifications and deeplinks.
+Experience with automated testing frameworks for Android (e.g., Espresso, JUnit).
+Five Principles for Success
+Our worldwide practices describe specific behaviors that make Rakuten unique and united across the world. We expect Rakuten employees to model these 5 Shugi Principles of Success.
+
+Always improve, Always Advance - Only be satisfied with complete success - Kaizen
+Passionately Professional - Take an uncompromising approach to your work and be determined to be the best
+Hypothesize - Practice - Validate – Shikumika - Use the Rakuten Cycle to succeed in unknown territory
+Maximize Customer Satisfaction - The greatest satisfaction for our teams is seeing their customers smile
+Speed!! Speed!! Speed!! - Always be conscious of time - take charge, set clear goals, and engage your team
+
+Rakuten provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type. Rakuten considers applicants for employment without regard to race, color, religion, age, sex, national origin, disability status, genetic information, protected veteran status, sexual orientation, gender, gender identity or expression, or any other characteristic protected by federal, state, provincial or local laws.

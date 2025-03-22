@@ -1,0 +1,29 @@
+About the job
+Introduction
+
+A career in IBM Consulting is rooted by long-term relationships and close collaboration with clients across the globe. You'll work with visionaries across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable companies in the world. Your ability to accelerate impact and make meaningful change for your clients is enabled by our strategic partner ecosystem and our robust technology platforms across the IBM portfolio; including Software and Red Hat. Curiosity and a constant quest for knowledge serve as the foundation to success in IBM Consulting. In your role, you'll be encouraged to challenge the norm, investigate ideas outside of your role, and come up with creative solutions resulting in ground breaking impact for a wide network of clients. Our culture of evolution and empathy centers on long-term career growth and development opportunities in an environment that embraces your unique skills and experience.
+
+Your Role And Responsibilities
+
+ You will use your experience in application development to design, code, test, and provide industry leading solutions for our clients
+ You will troubleshoot any development issues reported by project teams or the clients
+ You will become certified in one or more of the following cloud technologies: AWS, Azure, RedHat, IBM Cloud, Google
+ You will be given an opportunity to obtain an Agile Certification
+ You will be given the opportunity to learn updated or new technologies such as React Native, SwiftUI, JetPack Compose and more
+ You will work in Swift or Kotlin for Mobile Application Engineering path
+
+Preferred Education
+
+Master's Degree
+
+Required Technical And Professional Expertise
+
+ You can work in an Agile, collaborative environment to understand requirements, design, code and test innovative applications, and support those applications for our highly valued customers
+ You are great at solving problems, debugging, troubleshooting, designing and implementing solutions to complex technical issues
+ You have experience coding and using databases, including source control (GIT, SVN)
+ You have basic knowledge or hands on coding experience in one or more of the following technology areas: React Native, iOS, Android development
+ You have basic knowledge or hands on experience using one or more of the following frameworks/libraries:
+
+Angular, React, Vue, TypeScript
+
+ You have an excellent understanding of the software development life cycle and software testing

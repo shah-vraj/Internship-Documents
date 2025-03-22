@@ -1,0 +1,85 @@
+Cloud Development Software Engineer COOP
+About the job
+Location: Ottawa, Canada
+
+Thales people architect identity management and data protection solutions at the heart of digital security. Business and governments rely on us to bring trust to the billons of digital interactions they have with people. Our technologies and services help banks exchange funds, people cross borders, energy become smarter and much more. More than 30,000 organizations already rely on us to verify the identities of people and things, grant access to digital services, analyze vast quantities of information and encrypt data to make the connected world more secure.
+
+This is a full-time hybrid position in Ottawa, ON Canada. Summer COOP begins April 28, 2025.
+
+Position Summary
+
+Provide a general statement regarding the overall objective of the position (e.g., the purpose of the job and why this position exists).
+
+As a Cloud Software Engineering COOP, for the Cloud Services Platform team, you will work closely with other cloud software engineers, working across a variety of disciplines to investigate, develop, fix, test, and deliver, software across the full cloud technology stack. This may include working in different domains such as UI development to building backend services in a micro-service based, secure, native cloud enterprise deployment. You will be involved in understanding requirements, implementing new functionality, modifying existing features, and supporting the solution. You will work closely with a cross-matrixed team, in a scaled agile environment. You will be involved in the entire software development lifecycle, including development, testcase creation, automation, and DevOps.
+
+At our Thales Ottawa office, we develop leading edge technologies to secure the cloud, digital transactions, the mobile world, and the Internet of Things (IoT). Our security solutions are deployed, across the globe, to secure today's digital world.
+
+Your keen programming skills, passion for advanced learning, is the foundation to your success on our team. We will educate you about our products, our industry, and customers with on-the-job training through mentorship with highly skilled, experienced mentors. You will have an opportunity to work on products that secure critical infrastructures in the global economy.
+
+Key Responsibilities
+
+Be part of a team required to design, implement, test, and support features with the following mind-set: End-user experience, maintainability, scalability, performance, cost, resilience.
+
+Responsibilities include:
+
+ Modifying existing code to resolve defects or deficiencies
+ Develop cloud native software, using various platform-as-a-service (PaaS), Software-as-a-Service (SaaS), Infrastructure-as-a-Service (IaaS) technologies and related tools
+ Applying coding/implementation best practices to produce refined, high quality, scalable, maintainable, and reusable code
+ Implementing and following security best practices
+ Proactively participating in the creation of unit, API, and integration automated test cases
+ Participating in issue investigation, and deployment of applications, and testing/integration in various deployed environments
+ Managing the source code repository for projects in Git
+ Documenting, managing, and maintaining internal knowledge and processes
+ Remaining up-to-date on industry trends, and applying the latest evolving technologies, and frameworks
+ Following agile methodology. This includes active participation in sprint planning and retrospective meetings, creation of user stories, as well as, corresponding tasks
+ Interacting with UX team to implement and verify user experience concepts
+ Providing feedback to documentation team to develop, improve Customer centric feature documentation
+ Interfacing with geographically distributed teams in Austin, Ottawa, Noida, and other locations on a regular basis
+
+
+Special Position Requirements
+
+Schedule: Regular 7.5 hour day shift between 8:00am and 6:00pm
+
+Physical Environment: Combination of working in a home and office location
+
+Basic Qualifications
+
+ Enrolled in a Bachelor’s degree program in Computer Science or Computer Engineering
+ Proven programming skills in Java, Linux scripting languages, along with frameworks, such as Springboot
+ Minimum 1-year of experience delivering software in an agile development environment: designing and coding the feature; testing the solution; addressing defects
+ Experience developing code using IDE’s such as Intellij or Visual Studio
+ Demonstrate knowledge in building enterprise micro-service cloud based applications
+ Minimum of 1-year of experience developing web based client-server applications using Java, as well as, web application server setup/configuration
+ Experience in web services, web standards; REST, HTML/CSS/JavaScript
+ Proficient understanding of web markup, protocol and client-side scripting technologies in general, including domains such as: HTML5, CSS3, JavaScript, AJAX, JSON, JQuery, REST API, Angular, React, Node.js
+ Develop and design RESTful services and APIs
+ Demonstrated skills integrating with Web based front-end and SQL/non-SQL databases such as MySQL, Postgres
+ Working with teams in the delivery of highly secure web-based cloud applications using the latest industry standards
+ Familiarity working with continuous integration tools such as: Gitlab, build engines, CI/CD pipeline
+ Experience working with Linux and Linux based applications
+ Ability to effectively work in a cross matrixed team environment
+ Ensure that non-functional requirements such as security, performance, maintainability, scalability, usability, and reliability are being incorporated into the solution
+ Highly motivated, enthusiastic, with an extreme desire for continual learning, and the ability to work under minimal guidance with demonstrated analytical and problem solving skills in order to deliver features on time in a fast paced team environment
+ Strong collaboration and communication skills which will be fundamental to your, and the overall teams success, of the projects you work on
+
+
+Preferred Qualifications
+
+ Awareness of delivering solutions on industry leading cloud providers such as GCP or AWS
+ Knowledge of code analysis tools such as IDE Tools, Security and Open source scanning tools, such as SonarQube, Blackduck, logging and monitoring tools (i.e. datadog)
+ Familiarity with security and identity management (access management, authentication, authorization identity providers), as well as, monitoring framework
+ Deployment and management of docker containers deployed in a kubernetes environment
+
+
+Why Join Us? 
+
+OUR COMMITMENT TO STEM 
+
+Advancing science, technology, engineering, and mathematics (STEM) education is a critical focus for Thales. Our future success depends on our collective of highly trained, highly capable technical talent, and we’re committed to providing our co-ops with in-depth experience in these areas.
+
+From supporting global engineering and technology nonprofits like Technovation, to offering different leadership development programs and bursaries to female students, including the Canadian Industrial Leadership Award (CILA), we take pride in our role in inspiring the STEM leaders of tomorrow.
+
+Supporting non-profit STEM partnerships and projects is a worldwide commitment for Thales, and is further supported through our Solidarity Program, which encourages employees to contribute their knowledge, expertise, time and energy to support important causes.
+
+Thales is an equal opportunity employer which values diversity and inclusivity in the workplace. Thales is committed to providing accommodations in all parts of the interview process. Applicants selected for an interview who require accommodation are asked to advise accordingly upon the invitation for an interview. We will work with you to meet your needs. All accommodation information provided will be treated as confidential and used only for the purpose of providing an accessible candidate experience.

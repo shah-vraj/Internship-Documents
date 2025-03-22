@@ -1,0 +1,27 @@
+About the job
+Description
+
+Do you want to experience the day-to-day development practices of a high-tech software company? Do you have a passion for serving the community and those around you? This is the internship for you! Our interns will be a valuable resource conducting research, coding, and testing of new products. To ensure that this is a well-rounded, real-world experience, our interns will receive guidance from a Development Manager and participate in team meetings while working on exciting projects and developing professional skills in an eclectic, casual environment.
+
+Responsibilities
+
+Design, develop and/or modify software modules to meet specifications
+Assure software program integrity through review and testing
+Prepare and/or modify program and system documentation
+Research and incorporate new technologies into the software design
+
+Qualifications
+
+Exposure to object-oriented programming languages such as Java, C++, C#, Objective-C, VB/VB.NET
+Exposure to web technologies such as HTML, ASP/ASP.NET, scripting languages
+Net / C# (or similar high level language)
+Angular
+Oracle/SQL Server
+HTML
+VB Script / JavaScript
+XML/XSD/XSLT/JSON
+Ability to work well both independently and within a team environment.
+Strong technical abilities and a desire to learn new things.
+Excellent problem solving, analytical, verbal, written and interpersonal communication skills.
+
+This is not a remote internship.

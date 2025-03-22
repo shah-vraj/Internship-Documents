@@ -1,0 +1,24 @@
+About Voltus
+Voltus’ mission is to be the Distributed Energy Platform that fulfills the promise of the energy transition. The Voltus platform connects any distributed energy resource (DER) to any energy market across the US and Canada, providing flexibility, reliability, and resilience to the grid while generating revenue for our partners. By partnering with industry leaders and the DER ecosystem, we are building the decarbonized, distributed, decentralized, and digitized energy system of the future. 
+
+About the Role
+The Software Engineering Internship at Voltus offers a dynamic and hands-on experience of the energy tech industry. This role is designed for a bright and passionate individual who is eager to learn, contribute, and work alongside industry professionals in the fast-paced and complex world of Demand Response.
+Key Responsibilities
+Assist in the design, development, and testing of new software features.
+Participate in problem-solving and troubleshooting for assigned projects.
+Engage in code reviews and write documentation for developed features.
+Complete capstone project tailored to learning new engineering skills.
+Learning Opportunities
+Opportunity to work on real-world projects and make tangible contributions to the energy transition.
+Gain hands-on experience with a wide range of technologies.
+Acquire skills in coding, debugging, and project management.
+Exposure to a professional engineering environment and remote work culture.
+Mentorship from experienced engineers.
+Qualifications
+Demonstrated interest in energy markets, demand response, the energy grid, or climate solutions.
+Ability to develop software, as demonstrated by coursework, professional experience, or skills testing.
+Strong self-starter able to work effectively in a team environment.
+Good communication and interpersonal skills.
+Ability to work remotely.
+Eligible to work in the US or Canada without sponsorship.
+At Voltus, we are proud to be an equal opportunity employer. We recognize that a diverse organization begins with a diverse candidate pool. This means we do not tolerate discrimination of any kind and are committed to providing equal employment opportunities regardless of your gender identity, race, nationality, religion, age, sexual orientation, veteran status, disability status, or marital status.

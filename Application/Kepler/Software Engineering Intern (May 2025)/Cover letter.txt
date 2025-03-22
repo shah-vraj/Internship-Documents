@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Software Engineering Intern position at Kepler Communications. As an aspiring software engineer with a solid background in backend development, cloud infrastructure, and DevOps, I am eager to contribute to Kepler's ambitious mission of delivering innovative connectivity solutions to space. Currently pursuing my Master’s in Applied Computer Science at Dalhousie University, I am excited to apply my technical skills and passion for solving complex challenges in a fast-paced, high-impact environment.
+
+During my time at Simform Solutions, I honed my ability to design and implement high-performance backend services using technologies such as Python, Flask, and AWS. I developed scalable RESTful APIs, optimized microservices, and implemented CI/CD pipelines that improved deployment speed and reliability by 50%. My hands-on experience with Kubernetes, Docker, and cloud infrastructure has strengthened my ability to build fault-tolerant, scalable systems that ensure high availability, which aligns with Kepler’s focus on satellite network infrastructure.
+
+Moreover, I have actively contributed to projects such as ServiceHub, where I migrated legacy applications to a cloud-native architecture on AWS, significantly enhancing system scalability and reducing operational costs by 20%. My technical expertise is complemented by my strong communication and collaboration skills, which have enabled me to successfully work with cross-functional teams to deliver impactful software solutions. I am particularly drawn to Kepler’s collaborative environment, where I can leverage my skills to support mission-critical systems and contribute to the ongoing success of the satellite operations.
+
+I am particularly excited about the opportunity to join Kepler, as I am passionate about space technologies and their potential to revolutionize how we connect and interact with the world. The chance to work alongside your talented team and contribute to the development of satellite communication infrastructure would be an incredible opportunity to expand my skills and make a meaningful impact.
+
+Thank you for considering my application. I would be thrilled to further discuss how my background, skills, and enthusiasm can contribute to Kepler Communications' goals. I look forward to the possibility of speaking with you soon.
+
+Sincerely,
+Vraj Shah

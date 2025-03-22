@@ -1,0 +1,37 @@
+Co-op Software Engineer - ML & NLP
+Job description
+Huawei Canada has an immediate co-op opening for a Software Engineer. 
+
+About the team:
+The Human-Machine Interaction Lab unites global talents to redefine the relationship between humans and technology. Focused on innovation and user-centered design, the lab strives to advance human-computer interaction research. Our team includes researchers, engineers, and designers collaborating across disciplines to develop novel interactive systems, sensing technologies, wearable and IoT systems, human factors, computer vision, and multimodal interfaces. Through high-impact products and cutting-edge research, we aim to enhance user experiences and interactions with technology.
+
+
+
+About the job:
+
+Assist in the design and implementation of mobile applications that integrate advanced ML and NLP technologies.
+
+Experiment with and implement novel interaction techniques to enhance mobile user experiences, leveraging the latest advancements in ML, NLP, and LLM.
+
+Work closely with senior engineers, UX/UI designers, and product managers to integrate ML and NLP capabilities seamlessly into mobile applications.
+
+Apply strong problem-solving skills to develop efficient and effective solutions for complex technical challenges.
+
+Help in monitoring and improving the performance and efficiency of mobile applications, ensuring they meet user needs and industry standards.
+
+Stay informed about the latest trends and advancements in machine learning, NLP, and mobile technology, and suggest innovative ideas for future projects.
+
+Job requirements
+About the ideal candidate:
+
+Currently pursuing a Bachelor’s or graduate degree in Computer Science, Software Engineering, or a related field.
+
+Strong programming skills, with proficiency in Java and JavaScript.
+
+Familiarity with algorithms, data structures, and problem-solving techniques.
+
+Basic understanding of machine learning, NLP, and large language models (LLM) is an asset.
+
+Excellent analytical skills and the ability to learn quickly and adapt to new technologies.
+
+Passion for mobile technology and creating user-centric applications.

@@ -1,0 +1,64 @@
+About the job
+You'll be working as a Co-op Developer on our Applications Team, responsible for delivering the cloud-based software that helps solve the real-world security problems that IT professionals face. You will focus on building tools that will help our customers install and set up our service. Making this experience seamless is key to customer happiness and helps us more effectively and quickly monitor their security. Our goal is to get them set up as fast as possible so we can protect them as soon as possible.
+
+At Arctic Wolf, co-ops aren't treated differently then full-time developers. You will be fully integrated into the team, working on the same tickets, projects and tasks as the rest of the team. We also believe that your co-op term should be about your learning and growth. You will have the freedom to choose which tasks and technologies you want to work on under the Onboarding umbrella, whether that be front-end, back-end, AWS, etc.
+
+Some Of Your Day-to-day Responsibilities Will Be
+
+Work with team members to deliver key features that improve our Application Portal service offerings.
+
+Participate in the full software development life cycle.
+
+Build well-designed, testable, efficient, secure code.
+
+Produce specifications and determine operational feasibility.
+
+Integrate software components into a fully functional software system.
+
+Document and maintain software functionality.
+
+About You
+
+You are a talented Developer who is an excellent match for this description:
+
+Demonstrate some experience with Golang, Python and TypeScript or similar languages.
+
+Comfortable with front end technology such as React
+
+Believe in testing as a fundamental development practice
+
+Self-starter who enjoys big technical challenges
+
+Some understanding of Kubernetes and DevOps principles
+
+Working knowledge of GitHub, Jenkins, and automated test tools
+
+Excited by the opportunity to learn new things
+
+Great design skills with a true interest of coding
+
+Familiarity with AWS products and cloud deployment
+
+Interested in the field of network security
+
+Excellent written and oral communication skills
+
+About Arctic Wolf
+
+At Arctic Wolf we’re cultivating a collaborative and productive work environment that welcomes a diversity of backgrounds, cultures, and ideas to make our teams even stronger as we grow globally. We’ve been named one of the 50 Most Innovative Companies in the world for 2022 (Fast Company)—and the 2nd Most Innovative Security Company. This is in addition to consecutive awards from Top Workplace USA (2021, 2022), Best Places to Work - USA (2021, 2022) and Great Place to Work - Canada (2021, 2022).
+
+Our Values
+
+Arctic Wolf recognizes that success comes from delighting our customers, so we work together to ensure that happens every day. We believe in diversity and inclusion, and truly value the unique qualities and unique perspectives all employees bring to the organization. And we appreciate that—by protecting people’s and organizations’ sensitive data and seeking to end cyber risk— we get to work in an industry that is fundamental to the greater good.
+
+We celebrate unique perspectives by creating a platform for all voices to be heard through our Pack Unity program. We encourage all employees to join or create a new alliance. See more about our Pack Unity here.
+
+We also believe and practice corporate responsibility, and have recently joined the Pledge 1% Movement, ensuring that we continue to give back to our community. We know that through our mission to End Cyber Risk we will continue to engage and give back to our communities.
+
+Arctic Wolf is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics, or any other basis forbidden under federal, provincial, or local law. Arctic Wolf is committed to fostering a welcoming, accessible, respectful, and inclusive environment ensuring equal access and participation for people with disabilities. As such, we strive to make our entire employee experience as accessible as possible and provide accommodations as required for candidates and employees with disabilities and/or other specific needs where possible. Please let us know if you require any accommodations by emailing recruiting@arcticwolf.com.
+
+Security Requirements
+
+Conducts duties and responsibilities in accordance with AWN’s Information Security policies, standards, processes and controls to protect the confidentiality, integrity and availability of AWN business information (in accordance with our employee handbook and corporate policies).
+Background checks are required for this position
+This position may require access to information protected under U.S. export control laws and regulations, including the Export Administration Regulations (“EAR”). Please note that, if applicable, an offer for employment will be conditioned on authorization to receive software or technology controlled under these U.S. export control laws and regulations
