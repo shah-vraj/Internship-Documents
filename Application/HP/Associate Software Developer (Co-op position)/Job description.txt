@@ -1,0 +1,77 @@
+Associate Software Developer (Co-op position)
+Description -
+
+HP Anyware invented the PCoIP remote display protocol and developed Engineering Emmy-Award-winning Anyware products to deliver the best virtual and remote desktop experience in the world.
+
+Our exciting growth and continuing success mean that we are looking for an energetic co-op student (Engineering or Computer Science) to join our Software Development team. This is an exciting opportunity to participate in the development and testing of HP Anyware's software components for our HP Anyware family of products and to assist in modernizing our development and build environment. You will be joining a team that is building a microservices application running as a SaaS solution. As a Software Developer, you will be part of the development team in building a quality product and designing automated tests that will become part of the CI/CD pipeline of the product and enable high iterations and frequent releases with confidence.
+
+Responsibilities:
+
+Development of software components related to Microservices-based solutions.
+
+Building scalable, cost-effective test automation with a focus on API tests, product-level integration tests and end-to-end tests.
+
+Integrating automated security scanning and testing into the CI/CD pipeline.
+
+Contribute to integrating automated testing into the CI/CD pipeline.
+
+Be an active member of a Scrum team and learn about agile software development.
+
+Learn about the DevOps culture (development and operations of a SaaS solution).
+
+Testing of developed components within a virtual desktop infrastructure.
+
+Software development in NodeJS (TypeScript, JavaScript)
+
+Software development for test automation in Python and Terraform.
+
+Requirements:
+
+Students who have completed at least 2 academic years.
+
+Students who love to program software (ideally before they join university) and have an interest in software services.
+
+Students who have experience with cloud environments, such as Amazon Web Services, Microsoft Azure or Google Cloud Platform.
+
+Individuals who work well with others, think outside the box and see raising the bar as part of the daily routine.
+
+Other Information:
+
+Preference will be given to Co-op Students currently enrolled in an Undergraduate program.
+
+Please upload a copy of your unofficial transcript with your application.
+
+4-month work term
+
+Start date: May 2025
+
+Full-time with the possibility of extension and/or permanent career positions
+
+The typical base pay range for this co-op role is $3,700 to 5,000 per month. Pay within this range will be based on the review of experience, skills and internal equity.
+
+HP’s commitment to diversity, equity and inclusion – it’s just who we are. From the boardroom to the factory floor, we create a culture where everyone is respected and where people can be themselves while being a part of something bigger than themselves. We celebrate the notion that you can belong at HP and bring your authentic self to work each and every day. When you do that, you’re more innovative and that helps grow our bottom line. Come to HP and thrive!
+
+HP Canada Co. is an equal-opportunity employer. We welcome the many dimensions of diversity. Upon request by qualified candidates, accommodation of special needs may be considered during all stages of the selection process within the framework of the HP Accommodation Policy. If you need assistance in filling outthe employment application or require a reasonable accommodation while seeking employment, please e-mail hrgsglobalstaffing@hp.com. Note: This option is reserved for applicants needing a reasonable accommodation related to a disability.
+
+In order to satisfy our contractual obligations with clients, the successful candidate will be required to pass a basic, standard Criminal Records check. You will also be required to sign off on HP's Confidentiality, Non-Solicitation and Conflict of Interest Agreement.
+
+Job -
+
+Administration
+Schedule -
+
+Full time
+Shift -
+
+No Shift premium (Canada)
+Travel -
+
+Relocation -
+
+Equal Opportunity Employer (EEO) - 
+
+HP, Inc. provides equal employment opportunity to all employees and prospective employees, without regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical or mental disability, medical condition, pregnancy, genetic predisposition or carrier status, uniformed service status, political affiliation or any other characteristic protected by applicable national, federal, state, and local law(s).
+
+Please be assured that you will not be subject to any adverse treatment if you choose to disclose the information requested. This information is provided voluntarily. The information obtained will be kept in strict confidence.
+
+If you’d like more information about HP’s EEO Policy or your EEO rights as an applicant under the law, please click here: Equal Employment Opportunity is the Law Equal Employment Opportunity is the Law – Supplement

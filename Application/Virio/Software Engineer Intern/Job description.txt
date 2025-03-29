@@ -1,0 +1,45 @@
+About the job
+Software Engineer Intern
+
+Location: Toronto, Ontario
+
+Duration: Approximately 3 months starting June 2025
+
+Compensation: $6,000/mo CAD
+
+Instructions: Email emmett@virio.ai your resume and a description of the most impressive thing you've ever built (links appreciated). Format the subject line as "[Backend] Name (1-3 keywords about the most impressive thing you've built)" e.g. "[Backend] Emmett Chen-Ran (sales automation tool)"
+
+
+
+Virio is building the next-generation B2B GTM stack. If you’re not sure what that means, that’s ok. All you need to know is that we went from 0 to $500k ARR in 90 days while in stealth and are assembling a team of all-stars. We are now gearing up to break records and go from $1M - $100M in less than a year. 
+
+
+
+As an Engineering Intern, you’ll be working directly with the CTO to design, build, and scale mission-critical backend systems that power AI-driven interfaces for content creation, context management, and workplace observability.
+
+
+
+Qualities we’re looking for:
+
+Excellence. You have been best-in-class at something.
+Ambition. Your goal is to be the best in the world at what you do, and you won’t settle for anything less.
+Unorthodox. You see things that other people don’t and use those insights to do things better, faster, smarter. 
+Dedication. You get excited by the idea of working 6-7 days a week alongside teammates who feel the same way.
+EQ. You can “read the room” and are adept at interpersonal communication.
+Agency. You believe you are capable of learning and doing almost anything.
+In-person. This team will be working in-person in the US and Canada.
+
+
+We are particularly excited by people who:
+
+Live in the backend. You think in systems and are obsessed with architecting performant, scalable backend services.
+Experiment with AI productivity. You’re an expert at “vibe coding” and enjoy trying out the latest IDE to augment your productivity.
+Are intimately familiar with distributed systems and databases. You’ve lost sleep over CAP theorem debates and can explain the difference between eventual and strong consistency without Googling.
+Have side projects or independent experiments using AI that you’re extremely proud of. 
+
+
+One of the great operators of our time once said, “Give them to me young, hungry, and stupid—and in no time I will make them rich.” 
+
+
+
+This is your big break. We’re waiting for you.

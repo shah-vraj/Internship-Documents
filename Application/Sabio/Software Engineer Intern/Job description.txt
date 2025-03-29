@@ -1,0 +1,81 @@
+About the job
+The Sabio Culture:
+
+Sabio means “wise”
+
+If you enjoy a culture that encourages entrepreneurial drive, intellectual curiosity all while maintaining a work-life balance, Sabio is perfect for you. Our team is great at their jobs, enjoys working with one another, and has plenty of fun and laughs along the way! We’re looking for candidates that are great at collaborating with teams, innovative in their thinking, and have the passion to solve problems. Are you ready to join our fun, fast-paced, and fluid environment? Sabio was certified as Great Place to Work and our employees give us a 4.7 on Glassdoor! Come join our dynamic team!
+
+
+
+About Sabio and App Science:
+
+Sabio, the CTV platform powered by mobile data, provides leading brands with the perfect balance between media, data, and technology. Sabio’s unique approach to combining mobile data, device location, and consumer behaviors provides brands with more effective targeting and greater prediction accuracy for their mobile and connected TV ad campaigns. Sabio was founded in 2014 by veterans in the mobile and TV industries and is headquartered in Los Angeles.
+
+
+
+Job Description:
+
+We are looking for a Software Engineer Intern to join the exciting world of mobile advertising. Candidates will have the opportunity to learn valuable business insights in a rapidly growing company and industry. The intern will be mainly assisting the Software Engineers but may branch out to other functions as needed.
+
+
+
+Duties & Responsibilities:
+
+Publisher dashboard improvements (involves both front-end and back-end)
+Collect information from AM/CM team about how they use the dashboard and what improvements would help them
+Use that information to decide what improvements to make, then implement changes
+Help with making it easier to integrate with SSPS and DSPS (automatically create new endpoints and add DSPS from database)
+Automated testing infrastructure (mostly back-end, potentially involve front-end)
+Automatically spin up servers, send and receive responses
+Figure out based on heuristic data how to automatically determine if a test was successful
+Make improvements to existing products
+Implement features in ad servers and internal UI
+Create API’s
+Deploy code in AWS
+
+
+Requirements:
+
+Ability to code in C
+Familiar with or willing to learn Java, Python and Angular
+Pursuing a Bachelor’s Degree or equivalent education
+Must be self-motivated and have strong organizational skills
+Ability to work in a fast-paced environment and collaborate effectively as a team member
+Paid or college credit
+Be a team player who works effortlessly with people
+
+
+ 
+
+Sabio is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+
+
+
+PRIVACY NOTICE TO SABIO’S JOB APPLICANTS
+
+
+
+This Privacy Notice explains what personal information we at Sabio, Inc. collect from you, and why we collect it and use it. This Notice covers our practices regarding the personal information of all applicants to our job positions. Please review it carefully.
+
+
+
+Categories of personal information we collect from you
+
+
+
+Generally, We Obtain This Information Through Our Recruiting Team
+
+
+
+We collect personal information about you throughout the recruiting process, in particular the following categories.
+
+Identification and contact information
+Direct identifiers such as your first and last name.
+Indirect identifiers such as a government ID, your Social Security, work permit or passport #.
+Contact information such as your email address, mailing address, telephone number.
+Other information about you or that can be associated with you such as:
+Sensitive/Protected Data. During the recruitment process, you may (voluntarily) provide us with your ethnicity, gender, military service information, or physical or mental health information, as well as your national origin and citizenship.
+Professional or job position-related information, including your past professional experience, references; background verification; talent management and assessment; information regarding any conflicts of interests; and the terms and conditions of your job offer.
+Non-public education information, including information about your education records, such as grades and transcripts.

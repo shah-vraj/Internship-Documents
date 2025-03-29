@@ -1,0 +1,47 @@
+Software Engineering Intern
+Toronto, ON, Canada Req #11214
+ Monday, March 24, 2025
+What We Need 
+
+Looking for a summer internship with a highly dynamic, entrepreneurial company? Seeking a rewarding summer experience that will stand out from the crowd? 
+
+Corpay Cross Border is a leading global payments and financial services firm headquartered in Toronto, ON. We invite you to join our 8-10-week paid summer internship program for rising juniors and seniors. 
+
+How We Work 
+
+As an intern you will be expected to work in an in-office environment reporting to our Toronto office location. Corpay will set you up for success by providing: 
+
+Company-issued equipment.
+Hands-on training.
+Participate as a member of a scrum team. 
+Role Responsibilities 
+
+Detail the project the Intern will assist with. 
+
+Learn existing architecture and contribute to React and REST based API in a performance sensitive context. 
+Work in a team to build React based UI for balance statements. 
+Communicate ideas, collaborate, work out design trade-offs, and contribute to production codebase. 
+Qualifications & Skills 
+
+Majoring in: Computer Science, Information Technology, Mathematics or related subject. 
+Proficiency in one or more programming languages (e.g. javascript, .NET) 
+
+Exposure to relational databases and use of SQL etc. 
+
+Exposure to web development and common UI frameworks (e.g. React). 
+
+Strong written, verbal, analytical, and interpersonal skills required. 
+
+Must display maturity and a high level of professionalism.
+
+Students must be currently enrolled at an accredited college or university in a Bachelor or Graduate degree program through the duration of the internship. 
+
+Must be committed to working a 40-hour work week for 8-10 weeks during the summer months 
+
+Equal Opportunity/Affirmative Action Employe  
+
+ 
+ 
+Corpay is an Equal Opportunity Employer. Corpay provides equal employment opportunities to all employees and applicants without regard to race, color, gender (including pregnancy), religion, national origin, ancestry, disability, age, sexual orientation, gender identity or expression, marital status, language, ancestry, genetic information, veteran and/or military status or any other group status protected by federal or local law. If you require reasonable accommodation for the application and/or interview process, please notify a representative of the Human Resources Department.  
+
+For more information about our commitment to equal employment opportunity and pay transparency, please click the following links: EEO and Pay Transparency  
