@@ -1,0 +1,48 @@
+About Safety Cybersecurity
+Safety Cybersecurity is dedicated to helping development teams build and deploy secure applications with confidence. Our cutting-edge platform integrates seamlessly into the development workflow, providing real-time vulnerability detection and actionable remediation guidance. We are focused on building the world’s first AI-powered software supply chain firewall.
+
+The Opportunity
+We're looking for a motivated Computer Science student interested in the intersection of engineering and business operations technology. This co-op position will focus on implementing and integrating marketing, sales, and finance technologies with our core product. Unlike our product engineering positions, this role emphasizes revenue-driving technical solutions.
+
+What You'll Do
+This position offers unique exposure to the entire revenue operations technology stack. While most engineering co-ops focus solely on product development, this role provides insights into how technology drives business operations. The candidate will gain valuable experience with marketing automation, payment processing, CRM systems, and analytics tools – making them versatile technical professionals with business acumen.
+
+Qualifications
+Currently enrolled in a Computer Science or related program at a Canadian university or college
+
+Interest in business operations technology (marketing tech, sales tech, fintech)
+
+Basic web development (HTML, CSS, JavaScript), API integration experience, version control (Git & Github)
+
+Collaborative mindset for cross-functional work
+
+Strong communication skills for technical and non-technical stakeholders
+
+Strong problem-solving abilities and attention to detail
+
+
+Nice to Have
+Frontend frameworks (React, Vue), payment gateway experience, CRM familiarity, SQL knowledge, Automation Tool experience (Zapier)
+
+Experience with marketing tech, sales tech, fintech
+
+What We Offer
+Mentorship from experienced engineers
+
+Opportunity to work on a meaningful project with real-world impact
+
+Flexible remote work arrangements
+
+Collaborative and inclusive team environment
+
+Learning and development opportunities
+
+Fun team events and activities
+
+Location
+Remote across Canada, but possibility to work from our office in Vancouver
+
+How to Apply
+Please submit your resume, cover letter, and any relevant portfolio links or GitHub projects. In your cover letter, please share why you're interested in our RevOps role and what excites you about the intersection of engineering and business operations.
+
+Safety Cybersecurity is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

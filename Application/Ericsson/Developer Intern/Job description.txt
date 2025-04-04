@@ -1,0 +1,68 @@
+Grow with us
+ 
+
+ 
+
+The GNP Engineering team designs, develops, integrates, tests, delivers and exposes advanced 5G network APIs utilizing the latest cloud native technologies. The GNP engineering team is made up of high performing Software development teams who work with End-to-End Agile/SAFe methodologies. Our values are based on embracing an open collaborative and cooperative culture whereby we strive to meet and deliver on our commitments with a strong will to succeed
+
+ 
+
+ 
+
+Our Exciting Opportunity
+
+Company seeks an intern with experience in software design, coding and debugging. The intern will gain exciting real-world software engineering experience working alongside experienced Solution Architects, Software Architects & Senior Developers.
+We work in small Agile teams to solve problems, explore new technologies, and learn from one another. The ideal intern for this environment will be enthusiastic and collaborative and willing to learn.
+
+ 
+
+ 
+
+Requirements
+
+Knowledge with infrastructure automation technologies like Docker, Vagrant, etc.
+Some development experience and knowledge in Java (JDK 17+), and Java-based languages (JavaScript) with some experience in unit testing
+Knowledge with build automation technologies like Maven, Git, etc.
+Knowledge with building APIs and services using REST, SOAP, etc.
+Experience with scripting languages like Perl, Shell, etc.
+Knowledge in bash Scripting with JSON and xml parsing
+Knowledge in Angular, Nodejs & react would be an asset
+Knowledge IP Networking, and protocols
+Linux/Unix environment is a must
+Knowledge in test Automation, Test frameworks, JMeter
+Eclipse development environment 
+
+Bachelor’s or Master’s in Information Technology, Computer Science, Software Engineering
+Excellent written and verbal communication skills to efficiently communicate with teams 
+Excellent analytical and problem-solving skills
+Ability to work in teams
+
+ 
+
+
+ 
+
+​Why join Ericsson?
+
+At Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build solutions never seen before to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all driven to go beyond the status quo to craft what comes next.
+ 
+What happens once you apply?
+Click Here to find all you need to know about what our typical hiring process looks like.
+
+ 
+
+​Encouraging a diverse and inclusive organization is core to our values at Ericsson, that's why we nurture it in everything we do. We truly believe that by collaborating with people with different experiences we drive innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team.  Ericsson is proud to be an Equal Opportunity and Affirmative Action employer, learn more.
+
+ 
+
+If you need assistance or to request an accommodation due to a disability, please contact Ericsson at hr.direct.mana@ericsson.com
+
+ 
+
+DISCLAIMER: The above statements are intended to describe the general nature and level of work being performed by employees in this position. They are not an exhaustive list of all responsibilities, duties and skills required for this position, and you may be required to perform additional job tasks as assigned.
+
+ 
+
+Primary country and city: Canada (CA) || Montreal
+
+Job details: Developer
