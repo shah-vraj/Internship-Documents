@@ -1,0 +1,50 @@
+About Us
+
+At Rodan Energy, our mission is Making Sustainable, Attainable. As a leading North American energy services company, we provide innovative energy solutions that help clients reduce energy costs and GHG emissions, support electrification, and enhance grid efficiency. With over 20 years of expertise, we’re trusted by North America’s largest energy users, power producers, and utilities.
+
+Why Join Rodan
+Thriving Industry Join a rapidly growing sector at the forefront of innovation and sustainability, shaping the future of energy management.
+Product Market Fit With a 98% client retention rate and consistent YOY growth, Rodan has built a reputation for delivering trusted, long-term partnerships with industry leaders.
+Top Talent & Strong Culture Collaborate with high-performing, passionate individuals who are committed to excellence and sustainability.
+What Makes This Role Great
+This is an exciting opportunity for a co-op student who wants to apply and grow their software development skills in a meaningful, real-world setting. As a Software Developer Co-Op Student, you’ll work on the design, development, and maintenance of innovative SaaS tools that help customers better understand energy markets and reduce their energy costs. You’ll collaborate with a talented development team and be mentored by experienced professionals, including the Senior Software Developer. This role is ideal for someone with a strong technical foundation who’s eager to learn, solve real-world problems, and contribute to impactful projects in the fast-evolving energy industry. It’s a great chance to gain experience in full-stack development, build industry-relevant tools, and be part of a company driving innovation in the energy sector.
+Key Responsibilities
+Perform software development activities, based on Agile methodology and best practices, including design, implementation, testQA, deployment, maintenance, support, and operations
+Support and contribute to solution requirements gathering, solution design, sprint planning, retrospectives, code reviews
+Perform ad hoc client support activities, including issue triage and resolving issues
+
+Required Skills and Qualifications
+Enrolled in post-secondary diploma or degree in Software Engineering, Computer Science, or related program
+Programming skills in 1 of 2 technology stacks
+Market Dashboard Stack
+Python
+Perl
+Django
+Vue JS
+Highcharts and D3.js
+HTMLCSS
+JavaScript
+JQuery
+RESTful APIs
+Bootstrap
+MySQL
+Linux CLI  SSH
+Energy Management System Stack
+C#
+HTMLCSS
+JavaScript
+JQuery
+Highcharts and D3.js
+Bootstrap
+AngularJS
+ASP.NET MVC
+RESTful APIs
+Entity Framework
+ 
+Strong verbal and written communication skills to capture or clarify technical requirements from business users or product owners
+
+Apply Now If you’re passionate about innovation and driving growth in a rapidly evolving industry, we want to hear from you!
+
+Rodan Energy Website   Twitter    LinkedIn
+
+Please note that a criminal background check will be conducted as part of our hiring process

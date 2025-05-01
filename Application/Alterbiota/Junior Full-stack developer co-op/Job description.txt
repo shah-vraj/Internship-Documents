@@ -1,0 +1,33 @@
+αlterβiota applies cutting edge nanomaterials, big data and digital technology to decarbonize the concrete industry while improving costs, performance and quality for our customers. We are a fast-growing, clean-tech company that is deeply committed to circular, net zero production of our products while remaining anchored in practical, value-driven solutions for industry.
+
+General Description of the Role:
+
+We are seeking an enthusiastic Junior Full Stack Developer Co-op to support the development and ongoing improvement of critical internal applications. In this role, you will contribute to designing and implementing scalable platforms, working on both front-end and back-end components, and ensuring that our solutions are reliably tested and optimized. This is an excellent opportunity to work with modern technologies in a dynamic, collaborative environment.
+
+The ideal candidate will enjoy working independently with a strong sense of purpose and responsibility. As you will be advancing new technology, there is no playbook; critical thinking and practical problem-solving skills are essential. You will be working shoulder to shoulder with your colleagues in a hands-on, innovation driven environment to develop, test and deploy new technologies to market.
+
+Responsibilities of the Role:
+
+· Develop and maintain an internal data analysis platform for collecting and processing online and offline data from analytical and concrete laboratory sources.
+· Contribute to the design, development, and refinement of a user-friendly administrative portal to enable customers to access their data and efficiently manage sample information.
+· Build both frontend and backend components using modern technologies such as React, HTML, CSS, JavaScript frameworks, and Python.
+· Implement robust testing capabilities by designing and maintaining unit, integration, and end-to-end tests to ensure high-quality deliverables.
+· Participate in code reviews, debugging sessions, and team discussions to promote best practices and continuous improvement.
+· Document technical decisions, changes, and processes to support long-term maintenance and team collaboration.
+
+Required Qualifications, Experience & Skills:
+
+· Currently pursuing or holding a bachelor's degree in computer science, Software Engineering, or a related field.
+· Proven experience in front-end development using React, HTML, CSS, and modern JavaScript frameworks.
+· Practical knowledge of backend development with Python and associated frameworks.
+· Hands-on experience with testing tools and frameworks (such as Jest, PyTest, or similar) for both frontend and backend systems.
+· Proficiency with version control systems like Git.
+· Strong problem-solving skills with a keen eye for detail in debugging and issue resolution.
+· Excellent written and verbal communication skills, with the ability to work effectively in a collaborative team environment.
+· Demonstrated eagerness to learn new technologies and adapt quickly to evolving project requirements.
+
+Desired Skills:
+
+· Exposure to advanced backend frameworks and database management concepts.
+· Prior co-op, internship, or project-based experience in full stack development.
+· Familiarity with the integration of testing tools within continuous integration/continuous deployment (CI/CD) pipelines.

@@ -1,0 +1,32 @@
+ApplyBoard simplifies the study abroad search, application, and acceptance process by connecting international students, recruitment partners, and educational institutions on one intuitive and personalized platform. ApplyBoard is a mission-driven, hyper-growth organization. It has been attracting dedicated individuals for more than eight years who are inspired every day to break down barriers to international education and take their careers to new heights at a company that will invest in their career growth. Our six core values are our compass in our mission to Educate the World and the foundation of our unique company culture. As an organization built on a foundation of diversity, it’s important that our team members are representative of the students from more than 150 countries that we support. 
+
+Key Responsibilities:
+As a Software Developer at ApplyBoard what you do will impact the lives of many students
+
+You will be developing services used by students all around the world
+
+You will be tasked with delivering well-tested, clean code while working both independently and with a team
+
+You will be involved in creating everything from machine learning models to backend systems that are used by thousands of people each day
+
+Preferred Qualifications:
+Experience with Data Structures, Algorithms and Object-Oriented Programming, Git
+
+Web development experience in any of the following: Python, Ruby, Javascript
+
+Using and/or creating RESTful APIs
+
+Interest and ability to learn other tools and technologies as needed
+
+Bonus points for:
+Evidence of a project that you have worked on that can showcase your skillset
+
+About ApplyBoard
+
+ApplyBoard empowers students around the world to access the best education. With more than 1,000,000 students from over 150 countries helped with their journey in less than a decade, we are just getting started.
+
+ApplyBoard’s 1,200 global team members in 30 countries assist students and our 1,500 partner institutions by empowering the international student sector with innovative technology and insights. As a five-time consecutive Deloitte Fast 50 and Fast 500 ranked company, ApplyBoard is growing and scaling like few other companies. On top of our strong growth, our people are growing personally and professionally. ApplyBoard India was Great Place to Work® Institute (India) certified for outstanding employee experience and workplace culture.
+
+Thank you for your interest in joining the ApplyBoard Team and being part of our mission to Educate the World. While we are lucky to attract a high level of interest in each of our roles, only qualified applicants will be contacted and selected for an interview.
+
+ApplyBoard welcomes and encourages applications from people with disabilities. Accommodations are available upon request for candidates in all aspects of the hiring and selection process.

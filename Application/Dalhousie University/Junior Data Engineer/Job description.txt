@@ -1,0 +1,26 @@
+Dalhousie University is Atlantic Canada's leading research-intensive university and a driver of the region's intellectual, social and economic development. Located in the heart of Halifax, Nova Scotia, with an Agricultural Campus in Truro/Bible Hill, Dalhousie is a truly national and international university, with more than half of our over 21,000 students coming from outside of the province. Our 6,000 faculty and staff foster a vibrant, purpose-driven community, that celebrated 200 years of academic excellence in 2018.
+
+The Office of the Vice-Provost, Planning and Institutional Effectiveness is accountable for ensuring smooth, efficient institutional operations and supporting the strategic priorities of Dalhousie. We do this by providing shared services in the space of strategy development, project and planning support, data warehousing, governance and advanced analytics. The Junior Data Engineer provides focused support to Office of Planning and Institutional Effectiveness. The incumbent reports to and takes direction on everyday tasks from a senior member of the team.
+
+Summary of Position
+
+The Junior Data Engineer will support the collection, analysis, and reporting of institutional data to inform decision-making and strategic planning at the university. In this role, the Junior Data Engineer will assist in gathering data from multiple sources such as internal databases, surveys, and external benchmarks. They will be responsible for cleaning and organizing this data to ensure its integrity and usability. The Junior Data Engineer will play a key role in maintaining documentation of data sources and processes to ensure quality and consistency in data reporting.
+
+Duties and Responsibilities
+
+The Junior Data Engineer will support the collection, analysis, and reporting of institutional data to inform decision-making and strategic planning at the university.
+They will assist in gathering data from multiple sources such as internal databases, cloud applications, and APIs.
+They will be responsible for cleaning and organizing this data to ensure its integrity and usability.
+The Junior Data Engineer will play a key role in maintaining documentation of data sources and processes to ensure quality and consistency in data reporting.
+
+Job Requirements/Qualifications:
+
+Must be a Canadian citizen or legally entitled to work in Canada.
+Currently enrolled in a Bachelor's or Master's program in Computer Science, Data Science, Engineering, or a related field.
+Strong understanding of data structures, algorithms, and database management systems.
+Proficiency in programming languages such as Python, SQL, and familiarity with data engineering tools and frameworks (e.g., Apache Spark, DBT).
+Experience with data visualization tools (e.g., Power BI) is a plus.
+Experience with the Microsoft Azure and Fabric platforms is a plus.
+Excellent problem-solving skills and attention to detail.
+Ability to work collaboratively in a team environment and communicate effectively with stakeholders.
+Eagerness to learn and adapt to new technologies and methodologies.

@@ -1,0 +1,18 @@
+Overview:
+
+We are looking for a Data Science Analyst Co-op to assist in backend development using Node.js and Python, database management with PostgreSQL, MariaDB, and MySQL, and frontend development with React and graph-based libraries. This role offers hands-on experience in data analysis and software development.
+
+Responsibilities:
+Develop backend systems using Node.js and Python.
+Manage databases and optimize queries in PostgreSQL, MariaDB, and MySQL.
+Build and enhance React applications with graph-based data visualizations.
+Assist with data analysis, reporting, and dashboard creation.
+Collaborate with cross-functional teams and document processes.
+Manage, and optimize applications on Microsoft Azure.
+
+Required Skills & Qualifications:
+Pursuing a degree in Computer Science, Data Science, or related field.
+Proficiency in Python and Node.js.
+Experience with PostgreSQL, MariaDB, and MySQL.
+Familiarity with React and data visualization libraries.
+One year work experience can be considered as asset.
